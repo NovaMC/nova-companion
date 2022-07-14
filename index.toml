@@ -5,8 +5,24 @@ file = "config/customsplashscreen.json5"
 hash = "79d22aca8d647f71d24c92d16b77724a8a613a51b00486df22c66ce89a95eeb0"
 
 [[files]]
+file = "config/customsplashscreen/empty.png"
+hash = "e581a8e8a99661297a03cd9238f37cc5da4022f313637c9e9dde78176d496a77"
+
+[[files]]
+file = "config/customsplashscreen/mojangstudios.png"
+hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
+
+[[files]]
 file = "config/customsplashscreen/novastickerlogo.png"
 hash = "db68c4f7c271105f3d5c90537814203867b42d5a39527b0078382f48caadecfa"
+
+[[files]]
+file = "config/customsplashscreen/progressbar.png"
+hash = "e2e0555e30fd677e05570551f36d3a95fd844dcadc62b15e4f901c3442a5e3c7"
+
+[[files]]
+file = "config/customsplashscreen/progressbar_background.png"
+hash = "6e2fa0adee9638b3e8f36e75ad048f0abb0de2d06b591961c6b2aff943fd46f2"
 
 [[files]]
 file = "config/debugify.json"
@@ -386,3 +402,7 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "c6c963c8c9389d864664aabfd259e9b3909c274b56b2ff1477dac551216b3a28"
 metafile = true
+
+[[files]]
+file = "nova_icon.png"
+hash = "63b739a84759bcde7e4339d0ddd6e8761e74e301ce129ac9f84526659cbb09d2"

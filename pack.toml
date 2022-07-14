@@ -1,13 +1,13 @@
 name = "Nova Companion"
 author = "Nova Network Team"
-version = "3.0.0"
+version = "3.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "a758568b656df39f7898eea9dfa00c9a7b20ff056c70457e88464dd01d539b71"
+hash = "4950f17ebd2d62bdcf0de04d0f82d4f35e02d2173d59cd7f4194831b02301f4d"
 
 [versions]
-minecraft = "1.19"
+minecraft = "1.19.1"
 quilt = "0.17.1-beta.6"

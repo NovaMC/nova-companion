@@ -4,7 +4,7 @@ enableVsync:false
 renderDistance:16
 simulationDistance:8
 guiScale:3
-resourcePacks:["vanilla","Fabric Mods","lambdabettergrass/default","continuity/glass_pane_culling_fix","continuity/default"]
+resourcePacks:["vanilla","lambdabettergrass/default","continuity/glass_pane_culling_fix","continuity/default"]
 incompatibleResourcePacks:[]
 tutorialStep:none
 skipMultiplayerWarning:true
