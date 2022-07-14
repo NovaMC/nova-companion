@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/customsplashscreen.json5"
-hash = "79d22aca8d647f71d24c92d16b77724a8a613a51b00486df22c66ce89a95eeb0"
+hash = "da4c6e797163f29d7711d13c4f63f107741c8b635e39dfe359f4525a32851d8e"
 
 [[files]]
 file = "config/customsplashscreen/empty.png"
@@ -150,7 +150,7 @@ hash = "0eefec1f86665514cc28aa67475594e149055dab2427f17c9b5f2fffc13f3405"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "07fccbddf13bce8d8803a1a1f7f820f552efc5498f2bc2525606a4df91c7f61d"
+hash = "c7bf9484955cd188ea791ec2f69bc34657e77d5cc0b3382cb86e1100da2b544a"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -402,7 +402,3 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "c6c963c8c9389d864664aabfd259e9b3909c274b56b2ff1477dac551216b3a28"
 metafile = true
-
-[[files]]
-file = "nova_icon.png"
-hash = "63b739a84759bcde7e4339d0ddd6e8761e74e301ce129ac9f84526659cbb09d2"
