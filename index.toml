@@ -180,7 +180,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "435e56fcc8cfa57b703bf8fc58cff9bc7662341324a87390ae18d9131cd1336c"
+hash = "c3f4413a6233b9b037854befc548a64ba4eb9f36dabb2adb0f8589182823f8bb"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "d4aca8f69489a3df5cbd9793e3f74f107b1b8da477bd21b6125db6d4b182cf92"
+hash = "87d7dc6ecde7385036a802afd8c593236cf8e60f2479b575d78e5396ae556c04"
 metafile = true
 
 [[files]]
