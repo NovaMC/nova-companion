@@ -157,20 +157,12 @@ file = "config/yosbr/servers.dat"
 hash = "4602cc0fdfbd1050876eab5c5cb6f347129ee32e9fbd2f58645b40de6007f229"
 
 [[files]]
-file = "config/yosbr/shaderpacks/ComplementaryReimagined_r1.1.1.zip"
-hash = "329606ba016eb7e880c7360bef80b6701e3e0825a90ef14d009b3db89655f792"
-
-[[files]]
-file = "config/yosbr/shaderpacks/ComplementaryShaders_v4.5.1.zip"
-hash = "f0806e5404074a51f3564327eb0735b27e11f68fa3b200134958dd8c4901ad5b"
-
-[[files]]
 file = "config/zoomify.json"
 hash = "0eefec1f86665514cc28aa67475594e149055dab2427f17c9b5f2fffc13f3405"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "6e6eaefbfaef2bcc5f1fae83112b3a6ab311c84ef776f389d13d49a500a52217"
+hash = "2f1ae002f57cd649527ee85401c087cc13dd8e1cc79a4c73b062650f8b0ca0ac"
 metafile = true
 
 [[files]]
@@ -201,11 +193,6 @@ metafile = true
 [[files]]
 file = "mods/clickthrough.pw.toml"
 hash = "b46ae91063839b3aaa7a863f69586e00883a6c98b2959005eaff27a459aa5d82"
-metafile = true
-
-[[files]]
-file = "mods/cloth-config.pw.toml"
-hash = "67fb21ff47324f5b982db90b52ca2024dbee0b83b67721c47761a94f32af4a40"
 metafile = true
 
 [[files]]
@@ -285,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "b5ecdce430ae016b791f415ef55f6740dcfd422cdb24c2ea78e4ec677cc7921e"
+hash = "eefcd81493fa26fa8135cf85495cbfb52127aa43667c5a4faea27d16d7bb2191"
 metafile = true
 
 [[files]]
@@ -345,7 +332,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "91e24178f86243b32a8516ceefd1f21b054d7c963e44f274ddfede8d8d41c027"
+hash = "a067a3a38a6df8bf4440edc13ad29e22adf31041858c4fc4aee991c0f0e87263"
 metafile = true
 
 [[files]]
@@ -401,4 +388,14 @@ metafile = true
 [[files]]
 file = "mods/yosbr.pw.toml"
 hash = "7c2712882baa2ed177b9b961cc1052b857f11ed1455609f9e9f01332c0317f12"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-reimagined.pw.toml"
+hash = "a665fadc0dfecb6df87e671fd68172866a4d1ec26a8eb0adbf2700fb65385ba6"
+metafile = true
+
+[[files]]
+file = "shaderpacks/complementary-shaders.pw.toml"
+hash = "d0775e014dcb79676c5a01973489249ed381704d69bfe69a8008f1e4593486a0"
 metafile = true
