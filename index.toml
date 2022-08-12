@@ -25,10 +25,6 @@ file = "config/customsplashscreen/progressbar_background.png"
 hash = "6e2fa0adee9638b3e8f36e75ad048f0abb0de2d06b591961c6b2aff943fd46f2"
 
 [[files]]
-file = "config/debugify.json"
-hash = "8a3a11b303e1035e0f37210003f788c5e5000533f6bef9df8a0a2186f9218508"
-
-[[files]]
 file = "config/modmenu.json"
 hash = "7f1e868c90d493991b69f14558be4f874ac206b93bf528b4a623b3ccf2025087"
 
@@ -181,6 +177,11 @@ hash = "b46af2de1693fcaf892fd6dd1734915a9a36549093144b724e940cce5936e17c"
 metafile = true
 
 [[files]]
+file = "mods/blanket.pw.toml"
+hash = "ad4adface5e9e24580fa832bdbd95e436300d12d16e6309508677903517b3ffc"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
 hash = "407fd025c6912135c7d40c238bb96fe05ea8172c403a100ed86f978fc8124c81"
 metafile = true
@@ -221,11 +222,6 @@ hash = "f811170d884fbbe2ccbd8e5c42137eb490d0116255878f5b53336efafcb2877c"
 metafile = true
 
 [[files]]
-file = "mods/debugify.pw.toml"
-hash = "ac2207cfc96eabeec2650f09d9ef72d2597fc7438edc9cbdaf5fbb2ba43bfde2"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
@@ -233,6 +229,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml"
 hash = "855e5f89a1c2d225f10927dd9bdd06aaffbc0c59b6d2c525460db6f1c9742ad5"
+metafile = true
+
+[[files]]
+file = "mods/entity-collision-fps-fix.pw.toml"
+hash = "d614e471929c4906f85ba776600e0cfa9b0d958ce55121efd49c9ffd4ff00a04"
 metafile = true
 
 [[files]]
@@ -256,8 +257,23 @@ hash = "200797c3f731a126fad409a7afa6e737af4a1e860a0d6954b48b18bb0922f3ec"
 metafile = true
 
 [[files]]
+file = "mods/fastopenlinksandfolders.pw.toml"
+hash = "ff54403726ef6349d2b0d9fc9588e5923aff79c0756820f3d4aa2c4c9dd8e2d8"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "1d87f8c04eeed21a9544cfad7f64afee6de58b5249a70b0367ba8522273a4816"
+metafile = true
+
+[[files]]
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "0c7c2c37874d5341092e6c63f95f4f95d7fa804e1c28ea9e83c1ed5115dcf12f"
+metafile = true
+
+[[files]]
+file = "mods/forgetmechunk.pw.toml"
+hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
 metafile = true
 
 [[files]]
@@ -311,6 +327,11 @@ hash = "443104f3ae619456aefa8eaabf9dbfba4c0a227435fc7c6e2f4c89370bb6786d"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "8fca044c06687f1e0f645ea179fa96a73abe84c7e4e4c982633868c150553732"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "a5c86b836f2213ad4db415d13f6ef5caa379ce348605a29224eb7703b81f1f95"
 metafile = true
@@ -328,6 +349,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "d48418bcd2fa81939864dc15e2230909b945c9b618064f16cc11f9b4db581740"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "db4b9b11b1f59b156b3a56bf9a7ac7b5218f3c43fdc7d83d5c2963820a9ef88d"
 metafile = true
 
 [[files]]
@@ -378,6 +404,11 @@ metafile = true
 [[files]]
 file = "mods/starlight.pw.toml"
 hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
+metafile = true
+
+[[files]]
+file = "mods/thorium.pw.toml"
+hash = "332f7d3348b81a94368500afcf02ce4a4ec8a4ffc486932c317500b08b0712e7"
 metafile = true
 
 [[files]]
