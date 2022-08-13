@@ -1,6 +1,110 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/clean-logs/config.toml"
+hash = "1fd16f21178551c7d6976a36126593b044381f8c4cfd61a82000a7b57755688a"
+
+[[files]]
+file = "config/customsplashscreen.json5"
+hash = "2a7d61a660e6698d4d9481322c71665863caf9fe6c9a7650d5bf748bca603d9e"
+
+[[files]]
+file = "config/customsplashscreen/background.png"
+hash = "67d20ac3afe9538286de7c2a44f6bea546bdccf116b5246d0f5d6ce2d9a8b0a0"
+
+[[files]]
+file = "config/customsplashscreen/mojangstudios.png"
+hash = "27b2ea2946ca5b00841ce7d1813b42dfb7e36b12ad50c7c9bea09053ac226cf3"
+
+[[files]]
+file = "config/customsplashscreen/novastickerlogo.png"
+hash = "db68c4f7c271105f3d5c90537814203867b42d5a39527b0078382f48caadecfa"
+
+[[files]]
+file = "config/customsplashscreen/progressbar.png"
+hash = "e2e0555e30fd677e05570551f36d3a95fd844dcadc62b15e4f901c3442a5e3c7"
+
+[[files]]
+file = "config/customsplashscreen/progressbar_background.png"
+hash = "6e2fa0adee9638b3e8f36e75ad048f0abb0de2d06b591961c6b2aff943fd46f2"
+
+[[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "ba80e0a7f887029f475369bd63cb4384f6a22b22c0157149907e9b3e3abb692a"
+
+[[files]]
+file = "config/modmenu.json"
+hash = "21de738a7237db2c2e295287ed7f1bd7d6e062243f4635ef9881c52231a0c601"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc.toml"
+hash = "466e00a04a6552f9a1134cd0a52f07caeae5b2fea31c6389ab89cac330a3ea66"
+
+[[files]]
+file = "config/yosbr/config/PlasmoVoice/config.json"
+hash = "bebbbeaf742936c60e5b09b3bc56665e2a482f0e6cb37f39ea2399f016a89dfc"
+
+[[files]]
+file = "config/yosbr/config/SkipTransitions.properties"
+hash = "65c60525a8520ef94fb060b187bc73dd57128c77d865d5e417538823eb97c679"
+
+[[files]]
+file = "config/yosbr/config/appleskin.json5"
+hash = "4afa14cd5bb9c084d76a161ecc03e62742249c0f395e67f5a8c55e38f0399de4"
+
+[[files]]
+file = "config/yosbr/config/borderlessmining.json"
+hash = "7c47862b98890f793c72476c7f2f805ff6404c4dc37c90465a82007be49e95fd"
+
+[[files]]
+file = "config/yosbr/config/clickthrough.json"
+hash = "ec0f4f93761622120ec731aad7bdd4b1ab47aed9241bafc9044dc4952226e388"
+
+[[files]]
+file = "config/yosbr/config/dynamicfps.toml"
+hash = "2e834ee618ca575e1d64ada162114c320107160742ead65fabb1ecec21fc29f6"
+
+[[files]]
+file = "config/yosbr/config/enhanced_bes.properties"
+hash = "d846cb20e08d464f83286480b7246f0a7d0ef54f14b76e192986e94abdacc513"
+
+[[files]]
+file = "config/yosbr/config/entity_texture_features.json"
+hash = "98f12c75acf2232816481ba30d17e43a7903011c243444149d89287f29f4bcb6"
+
+[[files]]
+file = "config/yosbr/config/lambdynlights.toml"
+hash = "fdfd486270e0abfc630346354518eaa314b5ca0e17349b72a73d442c94ecaf85"
+
+[[files]]
+file = "config/yosbr/config/mousewheelie.hjson"
+hash = "945f70c5e695a32affb40a3bd49a7620ec4d3c6bbbb4656fbc1a7f0ac3434642"
+
+[[files]]
+file = "config/yosbr/config/ok_zoomer/config.toml"
+hash = "18329aab4bf1886494b5170bca3fcda6dca0e98df97adc885078525fa0403fdd"
+
+[[files]]
+file = "config/yosbr/config/raised.json"
+hash = "7070ff1a3ef2009f8bc3e5e4672edd8a142ce26076d13c0ecc75dea8b3ee1ee3"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "e467b61963b8f8d78efd9971c266473100e29e084a22a604c4e5296608d1a1fb"
+
+[[files]]
+file = "config/yosbr/config/uglyscoreboardfix.conf"
+hash = "526733ef09ef28d6c05657884b8e77a0f29c2ce144089fb98cd1e0d4ae7238fd"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "9697972f4aba744430dda29b687ef7f5248cd9896f232a7eb201ef03d647beaf"
+
+[[files]]
+file = "config/yosbr/servers.dat"
+hash = "aa6d83683836879fcc42e19df58107c3286ab62c17a96e0a7b6bc1694964aaa4"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "2f1ae002f57cd649527ee85401c087cc13dd8e1cc79a4c73b062650f8b0ca0ac"
 metafile = true
@@ -78,11 +182,6 @@ metafile = true
 [[files]]
 file = "mods/customsplashscreen.pw.toml"
 hash = "23e3c4cb4e2ee0ed4cd1d9a8e1960578cf3e49839813c7930c4809aba304a1f7"
-metafile = true
-
-[[files]]
-file = "mods/dashloader.pw.toml"
-hash = "e9ae0492006c9a6bc309bee3658dcc6ebb96d213f74f6285bac4ae26ffc67631"
 metafile = true
 
 [[files]]
