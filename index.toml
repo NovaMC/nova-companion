@@ -46,8 +46,18 @@ hash = "c47b4e6dea49ed224870b70e2101f7dfea59c63490cca1d5f5a1dd43b18c56ef"
 metafile = true
 
 [[files]]
+file = "mods/clean-logs.pw.toml"
+hash = "acae53b7b4a8066aad64f95b9ae1c09e8efef08573b1a902c0b659454e1b922c"
+metafile = true
+
+[[files]]
 file = "mods/clickthrough.pw.toml"
 hash = "b46ae91063839b3aaa7a863f69586e00883a6c98b2959005eaff27a459aa5d82"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "5b6a49a1f18adac12e9da13035102cb763e7371a93c2358e25cf74e014366e59"
 metafile = true
 
 [[files]]
@@ -81,8 +91,18 @@ hash = "f811170d884fbbe2ccbd8e5c42137eb490d0116255878f5b53336efafcb2877c"
 metafile = true
 
 [[files]]
+file = "mods/draggable-resource-packs.pw.toml"
+hash = "10e705616d5d07329d0af82740036540ca47dd7408b02ecdab22402f3aaf6b11"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
+metafile = true
+
+[[files]]
+file = "mods/eating-animation.pw.toml"
+hash = "f52293cc81b07666eeee3bfcf5f34039e2d2bc64cd22416b5cbdb554eec17a0e"
 metafile = true
 
 [[files]]
@@ -146,6 +166,11 @@ hash = "eefcd81493fa26fa8135cf85495cbfb52127aa43667c5a4faea27d16d7bb2191"
 metafile = true
 
 [[files]]
+file = "mods/inspecio.pw.toml"
+hash = "1cefb097ea4012055582060d6939a7928f359a514f01dde8cbf0edb58a13d388"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "a348ec1aec5a10f7235d6741e08aea583e042049eded3d6eafd97a0688a891c0"
 metafile = true
@@ -183,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/lithium.pw.toml"
 hash = "443104f3ae619456aefa8eaabf9dbfba4c0a227435fc7c6e2f4c89370bb6786d"
+metafile = true
+
+[[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
 metafile = true
 
 [[files]]
@@ -251,6 +281,11 @@ hash = "b054c54c9732cf012526bcb529c189f808692c17aa29e306444a2110df43d38d"
 metafile = true
 
 [[files]]
+file = "mods/raised.pw.toml"
+hash = "014566a9d16177ef1499864718b28090b5ac254e3e910a2cea67b911b56f3e5a"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "ae4b4112db3f14bcb9e8dc10ea06e83d84bff4d9ad2a3dfd74533c1256b98218"
 metafile = true
@@ -293,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/ugly-scoreboard-fix.pw.toml"
 hash = "62276d031b4c94e42c10a420f729eafe0e6f6d6749651931cc3079298e6bad19"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "e4d8df8da89afc27ef4066bf63fb258fdef9bb367498372a6e5833dda27e0765"
 metafile = true
 
 [[files]]
