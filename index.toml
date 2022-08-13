@@ -37,10 +37,6 @@ file = "config/modmenu.json"
 hash = "21de738a7237db2c2e295287ed7f1bd7d6e062243f4635ef9881c52231a0c601"
 
 [[files]]
-file = "config/simple-rpc/simple-rpc.toml"
-hash = "466e00a04a6552f9a1134cd0a52f07caeae5b2fea31c6389ab89cac330a3ea66"
-
-[[files]]
 file = "config/yosbr/config/PlasmoVoice/config.json"
 hash = "bebbbeaf742936c60e5b09b3bc56665e2a482f0e6cb37f39ea2399f016a89dfc"
 
@@ -448,3 +444,7 @@ metafile = true
 file = "shaderpacks/complementary-shaders.pw.toml"
 hash = "d0775e014dcb79676c5a01973489249ed381704d69bfe69a8008f1e4593486a0"
 metafile = true
+
+[[files]]
+file = "simple-rpc/simple-rpc.toml"
+hash = "466e00a04a6552f9a1134cd0a52f07caeae5b2fea31c6389ab89cac330a3ea66"
