@@ -141,6 +141,11 @@ hash = "407fd025c6912135c7d40c238bb96fe05ea8172c403a100ed86f978fc8124c81"
 metafile = true
 
 [[files]]
+file = "mods/c2me-fabric.pw.toml"
+hash = "8ad6410f3a7ae706ffbe605d1bb801b2d2c2a1be3889a0261c3ea33a6e234ccf"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "c47b4e6dea49ed224870b70e2101f7dfea59c63490cca1d5f5a1dd43b18c56ef"
 metafile = true
