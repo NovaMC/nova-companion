@@ -146,6 +146,11 @@ hash = "8ad6410f3a7ae706ffbe605d1bb801b2d2c2a1be3889a0261c3ea33a6e234ccf"
 metafile = true
 
 [[files]]
+file = "mods/cameraoverhaul.pw.toml"
+hash = "454131477dc48c24252731d4821abc813e697e4b6a9b4bc3c41af40947154fd1"
+metafile = true
+
+[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "c47b4e6dea49ed224870b70e2101f7dfea59c63490cca1d5f5a1dd43b18c56ef"
 metafile = true
@@ -258,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/forgetmechunk.pw.toml"
 hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
+metafile = true
+
+[[files]]
+file = "mods/hold-that-chunk.pw.toml"
+hash = "69b66f7ab7f207fbae8d78236c2d59bc4c6164ba0a033eb289a144940de0dc02"
 metafile = true
 
 [[files]]
@@ -378,6 +388,11 @@ metafile = true
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
 hash = "814b7eba555ba7ae027ca4bb1cd2b2a9b153b95fca5d0246c6d7b791b489c937"
+metafile = true
+
+[[files]]
+file = "mods/purpurclient.pw.toml"
+hash = "0d12203449d5ed1d011a7874350b58fbfa87783a514d4e82f472e79c75991110"
 metafile = true
 
 [[files]]
