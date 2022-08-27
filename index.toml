@@ -37,6 +37,10 @@ file = "config/modmenu.json"
 hash = "21de738a7237db2c2e295287ed7f1bd7d6e062243f4635ef9881c52231a0c601"
 
 [[files]]
+file = "config/yosbr/config/NoChatReports.json"
+hash = "6e1a961d8cfa713d9cc2b674800fe98be1495e82f74cde12df8c16ca791c0a85"
+
+[[files]]
 file = "config/yosbr/config/PlasmoVoice/config.json"
 hash = "bebbbeaf742936c60e5b09b3bc56665e2a482f0e6cb37f39ea2399f016a89dfc"
 
@@ -51,6 +55,10 @@ hash = "4afa14cd5bb9c084d76a161ecc03e62742249c0f395e67f5a8c55e38f0399de4"
 [[files]]
 file = "config/yosbr/config/borderlessmining.json"
 hash = "7c47862b98890f793c72476c7f2f805ff6404c4dc37c90465a82007be49e95fd"
+
+[[files]]
+file = "config/yosbr/config/cameraoverhaul.json"
+hash = "8c5201e2b82241d76f9178a4107c9466e3c2437ee1a368434456aa825ce4e67e"
 
 [[files]]
 file = "config/yosbr/config/clickthrough.json"
@@ -79,6 +87,10 @@ hash = "945f70c5e695a32affb40a3bd49a7620ec4d3c6bbbb4656fbc1a7f0ac3434642"
 [[files]]
 file = "config/yosbr/config/ok_zoomer/config.toml"
 hash = "18329aab4bf1886494b5170bca3fcda6dca0e98df97adc885078525fa0403fdd"
+
+[[files]]
+file = "config/yosbr/config/purpurclient.conf"
+hash = "27d6e5394fd77f6aab442e52d8e15f399d08eaecd1066da179dcdfbe714bd338"
 
 [[files]]
 file = "config/yosbr/config/raised.json"
