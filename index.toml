@@ -57,10 +57,6 @@ file = "config/yosbr/config/borderlessmining.json"
 hash = "7c47862b98890f793c72476c7f2f805ff6404c4dc37c90465a82007be49e95fd"
 
 [[files]]
-file = "config/yosbr/config/cameraoverhaul.json"
-hash = "8c5201e2b82241d76f9178a4107c9466e3c2437ee1a368434456aa825ce4e67e"
-
-[[files]]
 file = "config/yosbr/config/clickthrough.json"
 hash = "ec0f4f93761622120ec731aad7bdd4b1ab47aed9241bafc9044dc4952226e388"
 
@@ -155,11 +151,6 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "8ad6410f3a7ae706ffbe605d1bb801b2d2c2a1be3889a0261c3ea33a6e234ccf"
-metafile = true
-
-[[files]]
-file = "mods/cameraoverhaul.pw.toml"
-hash = "454131477dc48c24252731d4821abc813e697e4b6a9b4bc3c41af40947154fd1"
 metafile = true
 
 [[files]]
