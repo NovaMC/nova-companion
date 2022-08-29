@@ -101,8 +101,24 @@ file = "config/yosbr/config/uglyscoreboardfix.conf"
 hash = "526733ef09ef28d6c05657884b8e77a0f29c2ce144089fb98cd1e0d4ae7238fd"
 
 [[files]]
+file = "config/yosbr/journeymap/config/5.9/journeymap.core.config"
+hash = "00a5a427b953c688a2fa13b15045594bc3cae58019f26309871d40517b761e96"
+
+[[files]]
+file = "config/yosbr/journeymap/config/5.9/journeymap.fullmap.config"
+hash = "dbec45d6962adf304da604a1cf1724d872b770e160c8e5a338f76284da8c404d"
+
+[[files]]
+file = "config/yosbr/journeymap/config/5.9/journeymap.minimap.config"
+hash = "18a8146eccf54032fcfdd3be1207972af7eb0c8b29355dab5a6d1cffd8fa85f4"
+
+[[files]]
+file = "config/yosbr/journeymap/config/5.9/journeymap.waypoint.config"
+hash = "6375e058d6a389d64370dff7c5a4fc4378ca4b76a483b33e3022777344270047"
+
+[[files]]
 file = "config/yosbr/options.txt"
-hash = "9697972f4aba744430dda29b687ef7f5248cd9896f232a7eb201ef03d647beaf"
+hash = "da821c525f7dd4a6c7004a01eb5893dcb4ed9a810d5300d151f5912add493cf9"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -296,6 +312,11 @@ metafile = true
 [[files]]
 file = "mods/item-model-fix.pw.toml"
 hash = "b893248407cbc155a5182b151acf50df075cef08bd0a9470c222425e8e47a809"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "2aaa4a95878e21e7ee313e4e28577e02e0e58db308b426a7167a00d00c4073aa"
 metafile = true
 
 [[files]]
