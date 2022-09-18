@@ -58,7 +58,7 @@ hash = "4afa14cd5bb9c084d76a161ecc03e62742249c0f395e67f5a8c55e38f0399de4"
 
 [[files]]
 file = "config/yosbr/config/borderlessmining.json"
-hash = "7c47862b98890f793c72476c7f2f805ff6404c4dc37c90465a82007be49e95fd"
+hash = "97d88071650e42b4c23540a24de6c7d5d72febd593efd33f7290a9352c169cfe"
 
 [[files]]
 file = "config/yosbr/config/clickthrough.json"
@@ -114,7 +114,7 @@ hash = "dbec45d6962adf304da604a1cf1724d872b770e160c8e5a338f76284da8c404d"
 
 [[files]]
 file = "config/yosbr/journeymap/config/5.9/journeymap.minimap.config"
-hash = "18a8146eccf54032fcfdd3be1207972af7eb0c8b29355dab5a6d1cffd8fa85f4"
+hash = "daa60c792e84b3bee77429290665cd8caf4ebc4bb247903eb5dc6bea2cc1358f"
 
 [[files]]
 file = "config/yosbr/journeymap/config/5.9/journeymap.waypoint.config"
@@ -165,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
-hash = "407fd025c6912135c7d40c238bb96fe05ea8172c403a100ed86f978fc8124c81"
+hash = "d82aaf6efe2e5177e82896d49251f3e43ff1213d8bc645401ce2d2ff6e9dade8"
 metafile = true
 
 [[files]]
@@ -211,11 +211,6 @@ metafile = true
 [[files]]
 file = "mods/customsplashscreen.pw.toml"
 hash = "23e3c4cb4e2ee0ed4cd1d9a8e1960578cf3e49839813c7930c4809aba304a1f7"
-metafile = true
-
-[[files]]
-file = "mods/dashloader.pw.toml"
-hash = "4fb938b3b07afc32216c63ba982ba25e28f4d0e63ddecdd26bea4e6dfa77b0fc"
 metafile = true
 
 [[files]]
@@ -320,7 +315,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap.pw.toml"
-hash = "2aaa4a95878e21e7ee313e4e28577e02e0e58db308b426a7167a00d00c4073aa"
+hash = "99b36158f389e6de5937e386284f9618275330a77141a130e037b11e0d327f1b"
 metafile = true
 
 [[files]]
@@ -335,7 +330,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
-hash = "0ab0925b9d00ddcf75dc5077fba4eee2c825945a7590750e1821ba783fb26f37"
+hash = "f297e9d92b53a50e7bdb62583fe6933b68279e8cb216aa286edd6347e518c362"
 metafile = true
 
 [[files]]
@@ -490,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
-hash = "967674c89571c0e2cc9de0d3fc2131ab98a3e2bc65c5ca55d5d7a1980900aced"
+hash = "254711742ded7ebfcef9127b1cb476866d63c0bbb12ecdc2f104961a51313f3c"
 metafile = true
 
 [[files]]

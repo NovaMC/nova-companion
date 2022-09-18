@@ -2,6 +2,11 @@ name = "WorldEdit CUI (Fabric)"
 filename = "WorldEditCUI-1.19+01.jar"
 side = "both"
 
+[option]
+optional = true
+default = false
+description = "WorldEdit CUI adds a visual overlay for working with WorldEdit selections. Useful if you plan to build with WorldEdit."
+
 [download]
 hash-format = "sha1"
 hash = "da3aba425b5f63847d49eb36965038aae607471c"

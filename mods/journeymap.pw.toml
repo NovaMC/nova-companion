@@ -2,6 +2,11 @@ name = "JourneyMap"
 filename = "journeymap-1.19.1-5.9.0beta2-fabric.jar"
 side = "both"
 
+[option]
+optional = true
+default = false
+description = "JourneyMap adds a functional mini- and fullscreen map to Minecraft. Includes a waypoint system, multi-server & dimension support, and many customizable options.\n\nDisabled by default as map mods can be a bit intrusive to the vanilla experience."
+
 [download]
 hash-format = "sha1"
 hash = "d6508169c73f8d8214edcb20f18d497089b37294"
