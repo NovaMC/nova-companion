@@ -38,7 +38,7 @@ hash = "21de738a7237db2c2e295287ed7f1bd7d6e062243f4635ef9881c52231a0c601"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "53dfde5aaed8c308e5a363d9e5a0499b81a7f7222f3338ddc07fcba9170abcda"
+hash = "b91c1eca3aead9213274b90dd7d59c5dd4cfe428d004c10e5b1c0692fe1a2469"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Common.json"
@@ -74,7 +74,7 @@ hash = "d846cb20e08d464f83286480b7246f0a7d0ef54f14b76e192986e94abdacc513"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
-hash = "98f12c75acf2232816481ba30d17e43a7903011c243444149d89287f29f4bcb6"
+hash = "cfe88f90f0f72956de620ffd26b1537ff330a7d225b8d3917347b98575e10039"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -211,11 +211,6 @@ metafile = true
 [[files]]
 file = "mods/customsplashscreen.pw.toml"
 hash = "23e3c4cb4e2ee0ed4cd1d9a8e1960578cf3e49839813c7930c4809aba304a1f7"
-metafile = true
-
-[[files]]
-file = "mods/dcch.pw.toml"
-hash = "f811170d884fbbe2ccbd8e5c42137eb490d0116255878f5b53336efafcb2877c"
 metafile = true
 
 [[files]]
