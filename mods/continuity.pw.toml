@@ -2,6 +2,11 @@ name = "Continuity"
 filename = "continuity-2.0.1+1.19.jar"
 side = "client"
 
+[option]
+optional = true
+default = true
+description = "Continuity adds connected textures to the game with efficiency in mind. Compatible with Optifine CTM format and emissive textures."
+
 [download]
 url = "https://cdn.modrinth.com/data/1IjD5062/versions/2.0.1+1.19/continuity-2.0.1%2B1.19.jar"
 hash-format = "sha1"
