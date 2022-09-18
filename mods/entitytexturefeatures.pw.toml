@@ -5,7 +5,7 @@ side = "client"
 [option]
 optional = true
 default = false
-description = "Entity Texture Features adds Optifine's Custom, Random, and Emissive entity texture features. Used by some resource packs."
+description = "Entity Texture Features adds Optifine's custom, random, and emissive entity texture features. Used by some resource packs."
 
 [download]
 url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/3.1.3/entity-texture-features-3.1.3-mc1.19.jar"

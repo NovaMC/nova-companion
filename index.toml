@@ -195,7 +195,7 @@ metafile = true
 
 [[files]]
 file = "mods/colormatic.pw.toml"
-hash = "654ccceeb5ff087fa65d4520ba6512ea4b6d590476650732957e726defd47f64"
+hash = "21a943781403db710132e552091163039c8b664a3bed9696d17a64be1e761672"
 metafile = true
 
 [[files]]
@@ -245,7 +245,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "8f27cf6a693fb67a4911860a0fc5c61e9c868b212ea2d294bcbbf92ef89dff7f"
+hash = "04b61d514e146c7b917c5e5cc87729f70ad0af82a694442adeb4e61b683ec341"
 metafile = true
 
 [[files]]
@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
-hash = "825d8da97f7675798432438f17952aca4b859c7b12bd5e528b8fc623b56362e4"
+hash = "d3389ba36d84d9d6d9872bec2f2f858c46c866c83062ed5967a583fae275c56c"
 metafile = true
 
 [[files]]
