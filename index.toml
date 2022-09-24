@@ -130,7 +130,7 @@ hash = "aa6d83683836879fcc42e19df58107c3286ab62c17a96e0a7b6bc1694964aaa4"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "2f1ae002f57cd649527ee85401c087cc13dd8e1cc79a4c73b062650f8b0ca0ac"
+hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
 
 [[files]]
@@ -410,7 +410,7 @@ metafile = true
 
 [[files]]
 file = "mods/purpurclient.pw.toml"
-hash = "9e08598285acce59d496332f0d5c3eece44c1a17494896d3b4866e9b49b49f1c"
+hash = "5d98a43fb22985b4d64de3e1b232996d7ae4e8955d724e5efc7c4777f2916c9a"
 metafile = true
 
 [[files]]
