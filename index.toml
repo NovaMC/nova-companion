@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "e65f669f804c27cdcd14d511b39caa2aefd24f9da23781214c6ab60ff10f604e"
+hash = "7f4a8312d10e805cce174067450bb7045b55281cf8de37b0bedbf808a7ae6d31"
 metafile = true
 
 [[files]]
@@ -415,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "d54b82ed2591e0ee8c9ff0983b3c9274d6a41224fff9014ae3a0f24c95c46486"
+hash = "92247fc545b0dc27e0bbb6333f441a0af2a6c35785fe82db9b56ea2fdffba676"
 metafile = true
 
 [[files]]
