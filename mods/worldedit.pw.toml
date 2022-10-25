@@ -1,0 +1,18 @@
+name = "WorldEdit"
+filename = "worldedit-mod-7.2.12.jar"
+side = "both"
+
+[option]
+optional = true
+default = false
+description = "WorldEdit adds in-game map editor tools for you to build with. With selections, schematics, copy and paste, brushes, and scripting."
+
+[download]
+hash-format = "sha1"
+hash = "3583d0182a2a5c96d13434ed48ebb29742228174"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 3922622
+project-id = 225608
