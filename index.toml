@@ -255,7 +255,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "f0a1c212e68166b823a68080b32fd27d772fe87d533409fc0feb35a5c4c2093e"
+hash = "45f53822d6febd75112246dbc25e5c4dfc5080249d871bb612e625e0c92636de"
 metafile = true
 
 [[files]]
@@ -340,7 +340,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7f4a8312d10e805cce174067450bb7045b55281cf8de37b0bedbf808a7ae6d31"
+hash = "ce0302a48e6287e497c3936f481287763509336fd5d4ce79b283fb51af710455"
 metafile = true
 
 [[files]]
@@ -380,7 +380,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "3d4e2da11e8a0abf3ca6109630934a7fa400ed49cd6a871b2862abf252f9ada7"
+hash = "29343584d66805c0d453bbd6a04bde62119a372ad6f2be32203a057cd5dd639b"
 metafile = true
 
 [[files]]
@@ -415,7 +415,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "8e6f816746597947ef95f88a678c1be0dec151d517c27e4658566005c0ca20dc"
+hash = "47b79f18581c1783f795640a8aafb0a4de4efd0f108bbf02f04209589e41af02"
 metafile = true
 
 [[files]]
@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "e4d8df8da89afc27ef4066bf63fb258fdef9bb367498372a6e5833dda27e0765"
+hash = "ba96089d2fe192072b1164a191e34ada5ad4d487db239635597d52ec1d98c477"
 metafile = true
 
 [[files]]
