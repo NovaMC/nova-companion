@@ -38,11 +38,15 @@ hash = "21de738a7237db2c2e295287ed7f1bd7d6e062243f4635ef9881c52231a0c601"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "b91c1eca3aead9213274b90dd7d59c5dd4cfe428d004c10e5b1c0692fe1a2469"
+hash = "d5eb87f5fbbef0f6a5b6884078e38e0494e695e3568ce9dfd55a60d20f468948"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Common.json"
 hash = "24b63114760a39586c80c8926039d7214171e652bce9eb2e233e2cd08b12072a"
+
+[[files]]
+file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
+hash = "a6f80756e98bea57646b21aaaf4ae3a8f68ced0757625f8e374d3fdf6e27e1a8"
 
 [[files]]
 file = "config/yosbr/config/PlasmoVoice/config.json"
