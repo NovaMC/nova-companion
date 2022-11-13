@@ -317,11 +317,6 @@ hash = "b893248407cbc155a5182b151acf50df075cef08bd0a9470c222425e8e47a809"
 metafile = true
 
 [[files]]
-file = "mods/journeymap.pw.toml"
-hash = "99b36158f389e6de5937e386284f9618275330a77141a130e037b11e0d327f1b"
-metafile = true
-
-[[files]]
 file = "mods/kappa.pw.toml"
 hash = "667a7b97e58e05cad8034590e9484a4539f8764e392e80bd2c6c736558997e6e"
 metafile = true
