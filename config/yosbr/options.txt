@@ -35,10 +35,6 @@ key_key.journeymap.fullscreen.east:key.keyboard.right
 key_key.journeymap.fullscreen.west:key.keyboard.left
 key_key.journeymap.fullscreen.disable_buttons:key.keyboard.h
 key_key.plasmo_voice.settings:key.keyboard.v
-key_raised.down:key.keyboard.unknown
-key_raised.up:key.keyboard.unknown
-key_raised.offset.down:key.keyboard.unknown
-key_raised.offset.up:key.keyboard.unknown
 soundCategory_master:1.0
 soundCategory_music:0.05
 soundCategory_record:0.10
