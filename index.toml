@@ -41,6 +41,14 @@ file = "config/simple-rpc/simple-rpc.toml"
 hash = "466e00a04a6552f9a1134cd0a52f07caeae5b2fea31c6389ab89cac330a3ea66"
 
 [[files]]
+file = "config/yosbr/XaeroWaypoints/Multiplayer_mc.novaserver.xyz/config.txt"
+hash = "2c5b7071c23d29368ba45f030dbc75c86cebce83868e7fc201ddc3a6185570f7"
+
+[[files]]
+file = "config/yosbr/XaeroWorldMap/Multiplayer_mc.novaserver.xyz/server_config.txt"
+hash = "10d3c10e997974dfb00debd7f80e5ecc11b6239dc4c222b5b1f41d741b4b26c2"
+
+[[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
 hash = "d5eb87f5fbbef0f6a5b6884078e38e0494e695e3568ce9dfd55a60d20f468948"
 
@@ -130,7 +138,7 @@ hash = "e6a503d95dad7e712790bd7b77540880f160d54e0b88fa4f8d7e5f4389a41c6a"
 
 [[files]]
 file = "config/yosbr/config/xaeroworldmap.txt"
-hash = "98c9c549c90f23116da9f2130eb97899057b96fd9e9a88ccf945f792d195d5af"
+hash = "ac17186c0554875ffbc5fe097465bb1bf53eef5ec28de66b34e17fa215beaa0e"
 
 [[files]]
 file = "config/yosbr/options.txt"

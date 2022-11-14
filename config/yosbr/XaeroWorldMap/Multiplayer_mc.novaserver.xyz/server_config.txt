@@ -1,0 +1,6 @@
+multiworldType:2
+ignoreServerLevelId:false
+ignoreHeightmaps:false
+playerTeleportCommandFormat:/tp {name}
+teleportCommandFormat:/tp {x} {y} {z}
+teleportAllowed:false
