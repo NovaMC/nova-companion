@@ -257,6 +257,11 @@ hash = "04b61d514e146c7b917c5e5cc87729f70ad0af82a694442adeb4e61b683ec341"
 metafile = true
 
 [[files]]
+file = "mods/exordium.pw.toml"
+hash = "ed622deb60304758f1f8ee69e33f057b2d95ab1b65cddc4218978e9255814b77"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "2d6dd083a7b01b1035a52c09a088137b930ea6f0f8f28ae3e0ba23f05937e3ef"
 metafile = true
@@ -264,6 +269,11 @@ metafile = true
 [[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "45f53822d6febd75112246dbc25e5c4dfc5080249d871bb612e625e0c92636de"
+metafile = true
+
+[[files]]
+file = "mods/fastanim.pw.toml"
+hash = "eff34655a27563df3b1044015998fb1a627e9a04fff1ecb438ed14a34be555d0"
 metafile = true
 
 [[files]]
@@ -489,6 +499,16 @@ metafile = true
 [[files]]
 file = "mods/worldeditcui-fabric.pw.toml"
 hash = "501ee88415b27e0214c59e40f22b3d49f0955d64944745e67a1b889198f169d1"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "271ffa177ef4f53de8297b4fb50107aafff578cd67c1c312140f8f3781d208a4"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "6c499e6eb93fba764a67425e5e9c8103e11c67eef8de2a2afe466b6bcc728f51"
 metafile = true
 
 [[files]]
