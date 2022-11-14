@@ -54,7 +54,7 @@ hash = "a6f80756e98bea57646b21aaaf4ae3a8f68ced0757625f8e374d3fdf6e27e1a8"
 
 [[files]]
 file = "config/yosbr/config/PlasmoVoice/config.json"
-hash = "bebbbeaf742936c60e5b09b3bc56665e2a482f0e6cb37f39ea2399f016a89dfc"
+hash = "54a32a5b904d521e28d75011587b84fc88fc812968a909dd27bc47938cd63d50"
 
 [[files]]
 file = "config/yosbr/config/SkipTransitions.properties"
@@ -111,22 +111,6 @@ hash = "e467b61963b8f8d78efd9971c266473100e29e084a22a604c4e5296608d1a1fb"
 [[files]]
 file = "config/yosbr/config/uglyscoreboardfix.conf"
 hash = "526733ef09ef28d6c05657884b8e77a0f29c2ce144089fb98cd1e0d4ae7238fd"
-
-[[files]]
-file = "config/yosbr/journeymap/config/5.9/journeymap.core.config"
-hash = "00a5a427b953c688a2fa13b15045594bc3cae58019f26309871d40517b761e96"
-
-[[files]]
-file = "config/yosbr/journeymap/config/5.9/journeymap.fullmap.config"
-hash = "dbec45d6962adf304da604a1cf1724d872b770e160c8e5a338f76284da8c404d"
-
-[[files]]
-file = "config/yosbr/journeymap/config/5.9/journeymap.minimap.config"
-hash = "daa60c792e84b3bee77429290665cd8caf4ebc4bb247903eb5dc6bea2cc1358f"
-
-[[files]]
-file = "config/yosbr/journeymap/config/5.9/journeymap.waypoint.config"
-hash = "6375e058d6a389d64370dff7c5a4fc4378ca4b76a483b33e3022777344270047"
 
 [[files]]
 file = "config/yosbr/options.txt"

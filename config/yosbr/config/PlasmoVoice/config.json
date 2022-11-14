@@ -41,7 +41,7 @@
     "muteMicrophone": [
       {
         "type": "KEYSYM",
-        "code": 77
+        "code": 78
       }
     ],
     "muteChat": [],
