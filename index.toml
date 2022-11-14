@@ -85,6 +85,10 @@ file = "config/yosbr/config/entity_texture_features.json"
 hash = "cfe88f90f0f72956de620ffd26b1537ff330a7d225b8d3917347b98575e10039"
 
 [[files]]
+file = "config/yosbr/config/exordium.json"
+hash = "c9b7ab2ab9829c1b9b8ce04ad89a4b372163f5cd453ba928a66bd7f14c65cc69"
+
+[[files]]
 file = "config/yosbr/config/lambdynlights.toml"
 hash = "b8f46ce6d9b966da85709779621d31702a9173a8473525834371ffd50e7c01d8"
 
@@ -111,6 +115,22 @@ hash = "e467b61963b8f8d78efd9971c266473100e29e084a22a604c4e5296608d1a1fb"
 [[files]]
 file = "config/yosbr/config/uglyscoreboardfix.conf"
 hash = "526733ef09ef28d6c05657884b8e77a0f29c2ce144089fb98cd1e0d4ae7238fd"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap.txt"
+hash = "9d887cc7e8be838dd8c539a8f17b4ffdff78a4651b762bb622f2de09aeeb8bc2"
+
+[[files]]
+file = "config/yosbr/config/xaerominimap_entities.json"
+hash = "ed48a048b7154238117cdc93b17fe8805670d73519eb85d701ac2fcdac950e45"
+
+[[files]]
+file = "config/yosbr/config/xaeropatreon.txt"
+hash = "e6a503d95dad7e712790bd7b77540880f160d54e0b88fa4f8d7e5f4389a41c6a"
+
+[[files]]
+file = "config/yosbr/config/xaeroworldmap.txt"
+hash = "98c9c549c90f23116da9f2130eb97899057b96fd9e9a88ccf945f792d195d5af"
 
 [[files]]
 file = "config/yosbr/options.txt"
