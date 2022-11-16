@@ -1,0 +1,7 @@
+name = "VanillaBean"
+filename = "VanillaBean-shaders.zip"
+
+[download]
+url = "https://github.com/ruvaldak/VanillaBean-shaders/archive/9b270812abfdae14583fe9f8725a57362f2837dc.zip"
+hash-format = "sha1"
+hash = "d2688c6d2ec36cc1c63c862cd7ef2753ca0fbc4d"

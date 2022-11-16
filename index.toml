@@ -97,6 +97,10 @@ file = "config/yosbr/config/exordium.json"
 hash = "c9b7ab2ab9829c1b9b8ce04ad89a4b372163f5cd453ba928a66bd7f14c65cc69"
 
 [[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "b870e0141595968c85bdeb086ddccf144cb4d1eed7d5049488b29ec16e7a42fb"
+
+[[files]]
 file = "config/yosbr/config/lambdynlights.toml"
 hash = "b8f46ce6d9b966da85709779621d31702a9173a8473525834371ffd50e7c01d8"
 
@@ -147,6 +151,10 @@ hash = "b3768b02a98b4ce611254ed0baa8b11555779f683a3bafc7a9bafdac39963a3f"
 [[files]]
 file = "config/yosbr/servers.dat"
 hash = "aa6d83683836879fcc42e19df58107c3286ab62c17a96e0a7b6bc1694964aaa4"
+
+[[files]]
+file = "config/yosbr/shaderpacks/VanillaBean-shaders.zip.txt"
+hash = "0ba47f9354fa891393f01316e15fd293f09f903990e8e344e22e513ba7ce4940"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -536,4 +544,9 @@ metafile = true
 [[files]]
 file = "shaderpacks/complementary-shaders.pw.toml"
 hash = "b0cf3d8795419ee3a7c106827609c32e8163728268804f07ae0d8faae6a102b2"
+metafile = true
+
+[[files]]
+file = "shaderpacks/vanillabean.pw.toml"
+hash = "5d8b47a3d1b55ff0c8b0609cb81ec4fafa37ef949073abeb2ce299a6a104bfc2"
 metafile = true
