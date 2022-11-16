@@ -265,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "04b61d514e146c7b917c5e5cc87729f70ad0af82a694442adeb4e61b683ec341"
+hash = "242cca2ec31fd196dfe5a033ae3bf90006eb40de632bed15e4602387924569eb"
 metafile = true
 
 [[files]]
@@ -440,7 +440,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "47b79f18581c1783f795640a8aafb0a4de4efd0f108bbf02f04209589e41af02"
+hash = "04506b094026b5cb0e23636f4c60eb8e200d057ed6710e2b4cc615f7806aaded"
 metafile = true
 
 [[files]]
@@ -475,7 +475,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "99c83e926faf4565a4a75f8666a9c68721c3effdeece027509e23c5d50395321"
+hash = "e31f409ab01c4df8b9b678cb533722b852c38d1563f6ead0ef40f282b17c45ff"
 metafile = true
 
 [[files]]
