@@ -224,7 +224,7 @@ metafile = true
 
 [[files]]
 file = "mods/completeconfig.pw.toml"
-hash = "705467dbef3e51481597a5ba871aa24a6aedac55791ae04e8c3dd77ea2ae55fd"
+hash = "a206bc693d41eb72f431abfc5d4556f9e9bf7f0bb6237224b750df85aeddd434"
 metafile = true
 
 [[files]]
@@ -334,7 +334,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "3d195b45c6dff7ee5a52dcb9e57a4172c91ec8d5c9d17c97305ee674fc22a357"
+hash = "0bb13d0459be9af19faf40ea8e83b8bf29922b378dcbe9e430fc7de11d98dac3"
 metafile = true
 
 [[files]]
@@ -504,7 +504,7 @@ metafile = true
 
 [[files]]
 file = "mods/visuality.pw.toml"
-hash = "ba96089d2fe192072b1164a191e34ada5ad4d487db239635597d52ec1d98c477"
+hash = "f0c490ddd5aa6bfd096059967f8e954b6771bcf2201ae9a6dd195e6e1b22a908"
 metafile = true
 
 [[files]]
