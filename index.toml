@@ -98,7 +98,7 @@ hash = "c9b7ab2ab9829c1b9b8ce04ad89a4b372163f5cd453ba928a66bd7f14c65cc69"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
-hash = "b870e0141595968c85bdeb086ddccf144cb4d1eed7d5049488b29ec16e7a42fb"
+hash = "d087987a05fa756198b956e9fe7da82af843155e59c7469f19a0574b3c31f540"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -151,10 +151,6 @@ hash = "b3768b02a98b4ce611254ed0baa8b11555779f683a3bafc7a9bafdac39963a3f"
 [[files]]
 file = "config/yosbr/servers.dat"
 hash = "aa6d83683836879fcc42e19df58107c3286ab62c17a96e0a7b6bc1694964aaa4"
-
-[[files]]
-file = "config/yosbr/shaderpacks/VanillaBean-shaders.zip.txt"
-hash = "0ba47f9354fa891393f01316e15fd293f09f903990e8e344e22e513ba7ce4940"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
