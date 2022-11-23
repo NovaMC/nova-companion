@@ -219,7 +219,7 @@ metafile = true
 
 [[files]]
 file = "mods/colormatic.pw.toml"
-hash = "21a943781403db710132e552091163039c8b664a3bed9696d17a64be1e761672"
+hash = "c49d1423a5f2563335fd5719862a861c8ae2c9cbc46598e767c3e2fe1042ecae"
 metafile = true
 
 [[files]]
@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "deca2dedf1b875a45a041923be3d48566d8418f422998970c324998616383130"
+hash = "3648ed55ffae5bc153c16b2d414925cc30165b5171aa0e2a146e5ba22366fcf1"
 metafile = true
 
 [[files]]
