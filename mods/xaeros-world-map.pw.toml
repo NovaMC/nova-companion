@@ -1,18 +1,17 @@
 name = "Xaero's World Map"
-filename = "XaerosWorldMap_1.28.3_Fabric_1.19.1.jar"
+filename = "XaerosWorldMap_1.28.4_Fabric_1.19.3.jar"
 side = "both"
-
-[option]
-optional = true
-default = false
-description = "Xaero's World Map adds a functional fullscreen map to Minecraft. Includes multi-server & dimension support, and many customizable options. Recommended to use alongside Xaero's Minimap.\n\nDisabled by default as map mods can be a bit intrusive to the vanilla experience."
 
 [download]
 hash-format = "sha1"
-hash = "5ed48376729215ed336300ad4a6aabc014134bb2"
+hash = "84fde1a7c8389b316e6ad896076b05327366ca40"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4075427
+file-id = 4141821
 project-id = 317780
+
+[option]
+optional = true
+description = "Xaero's World Map adds a functional fullscreen map to Minecraft. Includes multi-server & dimension support, and many customizable options. Recommended to use alongside Xaero's Minimap.\n\nDisabled by default as map mods can be a bit intrusive to the vanilla experience."

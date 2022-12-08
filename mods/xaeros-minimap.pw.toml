@@ -1,18 +1,17 @@
 name = "Xaero's Minimap"
-filename = "Xaeros_Minimap_22.16.2_Fabric_1.19.1.jar"
+filename = "Xaeros_Minimap_22.16.3_Fabric_1.19.3.jar"
 side = "both"
-
-[option]
-optional = true
-default = false
-description = "Xaero's Minimap adds a functional minimap to Minecraft. Includes a waypoint system and many customizable options. Recommended to use alongside Xaero's World Map.\n\nDisabled by default as map mods can be a bit intrusive to the vanilla experience."
 
 [download]
 hash-format = "sha1"
-hash = "e256b0e747a0b85a1ecbdebb08e4ed0e3f4d27e5"
+hash = "033d1f2911690f2eb7b7a989adc9ba83953ad42c"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4075402
+file-id = 4141817
 project-id = 263420
+
+[option]
+optional = true
+description = "Xaero's Minimap adds a functional minimap to Minecraft. Includes a waypoint system and many customizable options. Recommended to use alongside Xaero's World Map.\n\nDisabled by default as map mods can be a bit intrusive to the vanilla experience."
