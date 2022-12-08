@@ -483,11 +483,6 @@ hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
 
 [[files]]
-file = "mods/thorium.pw.toml"
-hash = "f76293001a405fa99903869bc8d5f3caa2976f0179513f73f59fc82dfbce9f72"
-metafile = true
-
-[[files]]
 file = "mods/ugly-scoreboard-fix.pw.toml"
 hash = "a88c145d63ccd46bf139cf55dc42f4d9c6150dba5d93b0fe0937870b089aadb1"
 metafile = true
