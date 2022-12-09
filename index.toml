@@ -158,6 +158,11 @@ hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
 metafile = true
 
 [[files]]
+file = "mods/animatica.pw.toml"
+hash = "a3343170991ecf72460a71f4f8dc3f38d36112f542283bd44bb10f4bdb9ccee5"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
 metafile = true
@@ -173,9 +178,8 @@ hash = "b46af2de1693fcaf892fd6dd1734915a9a36549093144b724e940cce5936e17c"
 metafile = true
 
 [[files]]
-file = "mods/auth-me.pw.toml"
+file = "mods/auth-me.pw.toml.disabled"
 hash = "b119ad0ab00cff9062b29233e4f452d21f9ce690b53426e235670d54d84ac812"
-metafile = true
 
 [[files]]
 file = "mods/better-biome-blend.pw.toml"
@@ -218,9 +222,8 @@ hash = "86498eb7f9326155844799dc57c1372fc5000b86f046994162cccd2e480a96ed"
 metafile = true
 
 [[files]]
-file = "mods/colormatic.pw.toml"
+file = "mods/colormatic.pw.toml.disabled"
 hash = "c49d1423a5f2563335fd5719862a861c8ae2c9cbc46598e767c3e2fe1042ecae"
-metafile = true
 
 [[files]]
 file = "mods/completeconfig.pw.toml"
@@ -230,6 +233,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "3648ed55ffae5bc153c16b2d414925cc30165b5171aa0e2a146e5ba22366fcf1"
+metafile = true
+
+[[files]]
+file = "mods/custom-entity-models.pw.toml"
+hash = "de36dd192cbfb50de89b9249cd317d8db33b6558d180ed0fe1a4f4dcc7ea4f5b"
 metafile = true
 
 [[files]]
@@ -323,9 +331,13 @@ hash = "4191daf9db203945cd504e0489ce9008f718bb69fa8ce36cf3847ab28f05355c"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml"
-hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+file = "mods/immediatelyfast.pw.toml"
+hash = "3d3aeba8c78ad473c8064334c2b4d1c52cfc514640b3c03a00b66e0552f21967"
 metafile = true
+
+[[files]]
+file = "mods/indium.pw.toml.disabled"
+hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
 
 [[files]]
 file = "mods/inspecio.pw.toml"
@@ -360,6 +372,11 @@ metafile = true
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "8fb914c75a06a677721dd1fc880606d790886be9e0b392820dcecb9bb56e0786"
+metafile = true
+
+[[files]]
+file = "mods/language-reload.pw.toml"
+hash = "7636e703bfc0dcc584bfa1eb758cb82b61e7e5af1d025693e8d3a90ee3e2632d"
 metafile = true
 
 [[files]]
@@ -428,8 +445,12 @@ hash = "8cc78f5916f31b9d350f75d5fd0dad8df9662066763324b36abf6eaced24aef5"
 metafile = true
 
 [[files]]
-file = "mods/plasmo-voice.pw.toml"
+file = "mods/plasmo-voice.pw.toml.disabled"
 hash = "48c4a1cd01e1bed309b50da8d2cabdbebdda595556c34cf512e1faeba94d4e70"
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "48aefe7fedf925380793a244646e6449cf3f5aebeeb651b09ab86d6638e8b0c1"
 metafile = true
 
 [[files]]
@@ -481,6 +502,10 @@ metafile = true
 file = "mods/starlight.pw.toml"
 hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml.disabled"
+hash = "379fc2a0bb704376335fa0ab301c3ed606d6bbdd520fa2bca1aeb86763d42b76"
 
 [[files]]
 file = "mods/ugly-scoreboard-fix.pw.toml"
