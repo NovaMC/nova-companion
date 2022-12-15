@@ -178,8 +178,9 @@ hash = "b46af2de1693fcaf892fd6dd1734915a9a36549093144b724e940cce5936e17c"
 metafile = true
 
 [[files]]
-file = "mods/auth-me.pw.toml.disabled"
+file = "mods/auth-me.pw.toml"
 hash = "b119ad0ab00cff9062b29233e4f452d21f9ce690b53426e235670d54d84ac812"
+metafile = true
 
 [[files]]
 file = "mods/better-biome-blend.pw.toml"
@@ -222,8 +223,9 @@ hash = "86498eb7f9326155844799dc57c1372fc5000b86f046994162cccd2e480a96ed"
 metafile = true
 
 [[files]]
-file = "mods/colormatic.pw.toml.disabled"
+file = "mods/colormatic.pw.toml"
 hash = "c49d1423a5f2563335fd5719862a861c8ae2c9cbc46598e767c3e2fe1042ecae"
+metafile = true
 
 [[files]]
 file = "mods/completeconfig.pw.toml"
@@ -336,8 +338,9 @@ hash = "3d3aeba8c78ad473c8064334c2b4d1c52cfc514640b3c03a00b66e0552f21967"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml.disabled"
+file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
 
 [[files]]
 file = "mods/inspecio.pw.toml"
@@ -445,8 +448,9 @@ hash = "8cc78f5916f31b9d350f75d5fd0dad8df9662066763324b36abf6eaced24aef5"
 metafile = true
 
 [[files]]
-file = "mods/plasmo-voice.pw.toml.disabled"
+file = "mods/plasmo-voice.pw.toml"
 hash = "48c4a1cd01e1bed309b50da8d2cabdbebdda595556c34cf512e1faeba94d4e70"
+metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
@@ -504,8 +508,9 @@ hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
 metafile = true
 
 [[files]]
-file = "mods/tooltipfix.pw.toml.disabled"
+file = "mods/tooltipfix.pw.toml"
 hash = "379fc2a0bb704376335fa0ab301c3ed606d6bbdd520fa2bca1aeb86763d42b76"
+metafile = true
 
 [[files]]
 file = "mods/ugly-scoreboard-fix.pw.toml"
