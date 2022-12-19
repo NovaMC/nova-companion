@@ -11,7 +11,3 @@ hash = "78039a4ff7edb24b1253caae42eea6c84bd72ac4"
 [update.modrinth]
 mod-id = "kYq5qkSL"
 version = "61bxY5nb"
-
-[option]
-optional = true
-description = "Borderless Mining adds a fullscreen windowed (borderless fullscreen) option to Minecraft, allowing you to tab out in peace.\n\nDisabled by default as normal fullscreen provides better performance."

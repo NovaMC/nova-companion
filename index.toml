@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/clean-logs/config.toml"
-hash = "1fd16f21178551c7d6976a36126593b044381f8c4cfd61a82000a7b57755688a"
-
-[[files]]
 file = "config/customsplashscreen.json5"
 hash = "2a7d61a660e6698d4d9481322c71665863caf9fe6c9a7650d5bf748bca603d9e"
 
@@ -34,7 +30,7 @@ hash = "ba80e0a7f887029f475369bd63cb4384f6a22b22c0157149907e9b3e3abb692a"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "21de738a7237db2c2e295287ed7f1bd7d6e062243f4635ef9881c52231a0c601"
+hash = "97ede1537114500f606689aef936e459b823e232e4ea5f4de1ed7f488c620155"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
@@ -50,11 +46,11 @@ hash = "10d3c10e997974dfb00debd7f80e5ecc11b6239dc4c222b5b1f41d741b4b26c2"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Client.json"
-hash = "d5eb87f5fbbef0f6a5b6884078e38e0494e695e3568ce9dfd55a60d20f468948"
+hash = "852b6f5f97ad69e4b9eccccd08b931b9ee42cc45eb3dd314741935f435d9165f"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Common.json"
-hash = "24b63114760a39586c80c8926039d7214171e652bce9eb2e233e2cd08b12072a"
+hash = "0eaad2630bd70ade719f7810e805810ada25379269ea194e43d3eea30c51dec0"
 
 [[files]]
 file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
@@ -73,16 +69,16 @@ file = "config/yosbr/config/appleskin.json5"
 hash = "4afa14cd5bb9c084d76a161ecc03e62742249c0f395e67f5a8c55e38f0399de4"
 
 [[files]]
-file = "config/yosbr/config/borderlessmining.json"
-hash = "97d88071650e42b4c23540a24de6c7d5d72febd593efd33f7290a9352c169cfe"
+file = "config/yosbr/config/chat_heads.json5"
+hash = "e20733723e9e8a2789a9e56600f48b292b695c3b176072a0988c07cfb282872b"
+
+[[files]]
+file = "config/yosbr/config/citresewn.json"
+hash = "d5d6a538a59f74b12d2ced2edc31590256dbf81629104a567c82f5325b54acaa"
 
 [[files]]
 file = "config/yosbr/config/clickthrough.json"
 hash = "ec0f4f93761622120ec731aad7bdd4b1ab47aed9241bafc9044dc4952226e388"
-
-[[files]]
-file = "config/yosbr/config/dynamicfps.toml"
-hash = "2e834ee618ca575e1d64ada162114c320107160742ead65fabb1ecec21fc29f6"
 
 [[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
@@ -90,11 +86,15 @@ hash = "d846cb20e08d464f83286480b7246f0a7d0ef54f14b76e192986e94abdacc513"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
-hash = "cfe88f90f0f72956de620ffd26b1537ff330a7d225b8d3917347b98575e10039"
+hash = "f7a40d826916f0c0b0eb74b39273513e04827de705d17ab25c73da9348e28867"
 
 [[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "d087987a05fa756198b956e9fe7da82af843155e59c7469f19a0574b3c31f540"
+
+[[files]]
+file = "config/yosbr/config/lambdabettergrass.toml"
+hash = "2744ebcd3589f1124ab556b12e3d73b878fe89901789fdf18787cca12e6a6c0b"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -102,27 +102,23 @@ hash = "b8f46ce6d9b966da85709779621d31702a9173a8473525834371ffd50e7c01d8"
 
 [[files]]
 file = "config/yosbr/config/mousewheelie.hjson"
-hash = "945f70c5e695a32affb40a3bd49a7620ec4d3c6bbbb4656fbc1a7f0ac3434642"
+hash = "bb5fb066d35f54a0ea4da9052571a55983fd9f9941fefcc0c5daad1323fd979b"
 
 [[files]]
 file = "config/yosbr/config/ok_zoomer/config.toml"
 hash = "18329aab4bf1886494b5170bca3fcda6dca0e98df97adc885078525fa0403fdd"
 
 [[files]]
-file = "config/yosbr/config/raised.json"
-hash = "7070ff1a3ef2009f8bc3e5e4672edd8a142ce26076d13c0ecc75dea8b3ee1ee3"
-
-[[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "e467b61963b8f8d78efd9971c266473100e29e084a22a604c4e5296608d1a1fb"
+hash = "ab053a6e6d59f6ee6779a7ede9be01549a98da73216a43b07da6a152b2a96264"
 
 [[files]]
 file = "config/yosbr/config/uglyscoreboardfix.conf"
-hash = "526733ef09ef28d6c05657884b8e77a0f29c2ce144089fb98cd1e0d4ae7238fd"
+hash = "1563e81823bcdf86c9b5d6cf20906ea7c3dbcbd8939a9b35d5d110c04d14fc7c"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap.txt"
-hash = "9d887cc7e8be838dd8c539a8f17b4ffdff78a4651b762bb622f2de09aeeb8bc2"
+hash = "6b3917da2513ebbbd7a9e944c78b7a1af5cfce89ed707df155e89e9983ad4c40"
 
 [[files]]
 file = "config/yosbr/config/xaerominimap_entities.json"
@@ -146,7 +142,12 @@ hash = "aa6d83683836879fcc42e19df58107c3286ab62c17a96e0a7b6bc1694964aaa4"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
+hash = "c025d2226099f9035bafd0adab1c63f2800dee5aa0c7c047720457f9535439b2"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "fda319290cfe268fdc7c6c6ca8dcad24e51c1de98442f23f2a41d657b26fc8d0"
 metafile = true
 
 [[files]]
@@ -185,8 +186,13 @@ hash = "9906b376e48ef932d7a06383f7f8ef10b0bcba3cf08fb7ad18f480f7ef1ae3ed"
 metafile = true
 
 [[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "631b4ee83e9ac2d8a093802784f71815bb5437fda4fd36b37eba8f7f0fe38bff"
+metafile = true
+
+[[files]]
 file = "mods/borderless-mining.pw.toml"
-hash = "c34a800a24b2bcf89c60812b92f27254bbf53dc5006a4bf84a25dd75c7d508ea"
+hash = "a85833a7ea20b38e5524f2755f4288b62045fd7155ca071c6d4cc1dc9b8c2958"
 metafile = true
 
 [[files]]
@@ -195,14 +201,13 @@ hash = "59c604518591548ffc26ec62678dc33eccddf6a9fc80237102ff22391f5b5dca"
 metafile = true
 
 [[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "f97aee5db6c1f59bcf70e6801e157a017f48fa27656435fcd29770442b5365ae"
+file = "mods/chat-heads.pw.toml"
+hash = "8e10d93c9fbd3d212b8e54223b4007ae42a95800feda18cbfba3bbefd74c9350"
 metafile = true
 
 [[files]]
-file = "mods/clean-logs.pw.toml"
-hash = "acae53b7b4a8066aad64f95b9ae1c09e8efef08573b1a902c0b659454e1b922c"
-metafile = true
+file = "mods/cit-resewn.pw.toml.disabled"
+hash = "f97aee5db6c1f59bcf70e6801e157a017f48fa27656435fcd29770442b5365ae"
 
 [[files]]
 file = "mods/clickthrough.pw.toml"
@@ -215,9 +220,8 @@ hash = "86498eb7f9326155844799dc57c1372fc5000b86f046994162cccd2e480a96ed"
 metafile = true
 
 [[files]]
-file = "mods/colormatic.pw.toml"
+file = "mods/colormatic.pw.toml.disabled"
 hash = "c49d1423a5f2563335fd5719862a861c8ae2c9cbc46598e767c3e2fe1042ecae"
-metafile = true
 
 [[files]]
 file = "mods/completeconfig.pw.toml"
@@ -225,9 +229,8 @@ hash = "59fe42f48e94d896a36304328b07ce68e9a799b0f784d0d460d95603c72397f7"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
+file = "mods/continuity.pw.toml.disabled"
 hash = "3648ed55ffae5bc153c16b2d414925cc30165b5171aa0e2a146e5ba22366fcf1"
-metafile = true
 
 [[files]]
 file = "mods/custom-entity-models.pw.toml"
@@ -250,14 +253,12 @@ hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
-file = "mods/eating-animation.pw.toml"
+file = "mods/eating-animation.pw.toml.disabled"
 hash = "f52293cc81b07666eeee3bfcf5f34039e2d2bc64cd22416b5cbdb554eec17a0e"
-metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
+file = "mods/ebe.pw.toml.disabled"
 hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
-metafile = true
 
 [[files]]
 file = "mods/entity-collision-fps-fix.pw.toml"
@@ -266,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "5f7e8ec1787dc7e2c8556596c2ba53c0dae9828bf1a2d9c6a1f8b8f9ba41dfb7"
+hash = "b4ac16e8e0113ff8be8ec0de146d94c104bed2cb27b9ffcf1567c460a575b27e"
 metafile = true
 
 [[files]]
@@ -285,9 +286,8 @@ hash = "babe7dbe40126a636b7f8b0f5eee444d7c17fee789780b9136fa67ae12b21cb1"
 metafile = true
 
 [[files]]
-file = "mods/fastanim.pw.toml"
+file = "mods/fastanim.pw.toml.disabled"
 hash = "eff34655a27563df3b1044015998fb1a627e9a04fff1ecb438ed14a34be555d0"
-metafile = true
 
 [[files]]
 file = "mods/fastopenlinksandfolders.pw.toml"
@@ -302,11 +302,6 @@ metafile = true
 [[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
 hash = "0c7c2c37874d5341092e6c63f95f4f95d7fa804e1c28ea9e83c1ed5115dcf12f"
-metafile = true
-
-[[files]]
-file = "mods/forgetmechunk.pw.toml"
-hash = "c576911c18870a36c1337d4f48b708fb620b51f1cb0c6497e5cab661ae07f5a0"
 metafile = true
 
 [[files]]
@@ -340,9 +335,8 @@ hash = "35430da98294d5f94636277bf9705ada157eb6122d0e8272f5c3cb6ef76ebfd2"
 metafile = true
 
 [[files]]
-file = "mods/item-model-fix.pw.toml"
+file = "mods/item-model-fix.pw.toml.disabled"
 hash = "b893248407cbc155a5182b151acf50df075cef08bd0a9470c222425e8e47a809"
-metafile = true
 
 [[files]]
 file = "mods/kappa.pw.toml"
@@ -355,14 +349,12 @@ hash = "998f45a9037fa4663bc5e2bea5de925bf4ce6352328fcaaa830db8466cc62416"
 metafile = true
 
 [[files]]
-file = "mods/lambdabettergrass.pw.toml"
+file = "mods/lambdabettergrass.pw.toml.disabled"
 hash = "d3389ba36d84d9d6d9872bec2f2f858c46c866c83062ed5967a583fae275c56c"
-metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml"
+file = "mods/lambdynamiclights.pw.toml.disabled"
 hash = "8fb914c75a06a677721dd1fc880606d790886be9e0b392820dcecb9bb56e0786"
-metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
@@ -386,7 +378,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "4716789e4a806c1cabcef27e67150215edb4c3d737e9a87d90f2f615d6c196cd"
+hash = "5b43c0fc6904ad4480c8ed596411c6e24172f8320ccd63de97b4ce2e7e0f90a5"
 metafile = true
 
 [[files]]
@@ -430,9 +422,8 @@ hash = "ad4a221b5135b6e4fe977e360a60b7df32b33951e510667027d5c3ee986659da"
 metafile = true
 
 [[files]]
-file = "mods/ok-zoomer.pw.toml"
+file = "mods/ok-zoomer.pw.toml.disabled"
 hash = "8cc78f5916f31b9d350f75d5fd0dad8df9662066763324b36abf6eaced24aef5"
-metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
@@ -465,11 +456,6 @@ hash = "2fa2a85756bccff04668147d557e77394a583604ab2eae258311cff9e0864512"
 metafile = true
 
 [[files]]
-file = "mods/smooth-scrolling-everywhere-fabric.pw.toml"
-hash = "4b739b90aa5ca2eac2b43a9482a0c0ee80718415352a0644e6770480ff38de32"
-metafile = true
-
-[[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
 metafile = true
@@ -485,8 +471,18 @@ hash = "d9b027d73943feb339c24045c37a36a69198bbffb9511978578f76cfb96b3bd3"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "413ce716e1ce679ff1097f1732023a5457ef5ec7b512d247ef087aeefd82d19b"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "be68ef606c339bbb22f2b812db1e5264d9e3335befc0c348d4dc91a8a3e72e17"
+metafile = true
+
+[[files]]
+file = "mods/thorium.pw.toml"
+hash = "61e2a941621007c901c96fe1474b3c07f208712fa6130151771d5235b6cc8adb"
 metafile = true
 
 [[files]]
