@@ -1,13 +1,13 @@
 name = "Complementary Reimagined"
-filename = "ComplementaryReimagined_r1.3.2.zip"
+filename = "ComplementaryReimagined_r1.4_pre1.zip"
 side = "client"
 
 [download]
-url = "https://mediafilez.forgecdn.net/files/4062/445/ComplementaryReimagined_r1.3.2.zip"
-hash-format = "md5"
-hash = "e21865a1f732a1512b2aa54278d5ace9"
+hash-format = "sha1"
+hash = "9f6d24dd4b489c2608d50d6f5fb8b423d541f51e"
+mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4062445
+file-id = 4181281
 project-id = 627557
