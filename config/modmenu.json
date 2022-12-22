@@ -1,7 +1,7 @@
 {
   "sorting": "ascending",
   "count_libraries": false,
-  "compact_list": true,
+  "compact_list": false,
   "count_children": false,
   "mods_button_style": "shrink",
   "count_hidden_mods": false,
@@ -11,7 +11,7 @@
   "hide_mod_license": false,
   "hide_badges": false,
   "hide_mod_credits": false,
-  "easter_eggs": false,
+  "easter_eggs": true,
   "modify_title_screen": true,
   "modify_game_menu": true,
   "hide_config_buttons": false,

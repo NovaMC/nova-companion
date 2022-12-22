@@ -2,11 +2,6 @@ name = "Borderless Mining"
 filename = "borderless-mining-1.1.5+1.19.jar"
 side = "client"
 
-[option]
-optional = true
-default = false
-description = "Borderless Mining adds a fullscreen windowed (borderless fullscreen) option to Minecraft, allowing you to tab out in peace.\n\nDisabled by default as normal fullscreen provides better performance."
-
 [download]
 url = "https://cdn.modrinth.com/data/kYq5qkSL/versions/1.1.5+1.19/borderless-mining-1.1.5%2B1.19.jar"
 hash-format = "sha1"
