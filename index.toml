@@ -160,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/animatica.pw.toml"
-hash = "a3343170991ecf72460a71f4f8dc3f38d36112f542283bd44bb10f4bdb9ccee5"
+hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
 metafile = true
 
 [[files]]
@@ -210,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml"
-hash = "f97aee5db6c1f59bcf70e6801e157a017f48fa27656435fcd29770442b5365ae"
+hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 metafile = true
 
 [[files]]
@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "242cca2ec31fd196dfe5a033ae3bf90006eb40de632bed15e4602387924569eb"
+hash = "2516d3f962c3ba80990fd6db90adacbd764b6099dbfc0af4e233c6e685bf5448"
 metafile = true
 
 [[files]]
@@ -355,7 +355,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
-hash = "d3389ba36d84d9d6d9872bec2f2f858c46c866c83062ed5967a583fae275c56c"
+hash = "0ab0925b9d00ddcf75dc5077fba4eee2c825945a7590750e1821ba783fb26f37"
 metafile = true
 
 [[files]]
