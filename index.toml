@@ -89,12 +89,16 @@ file = "config/yosbr/config/entity_texture_features.json"
 hash = "f7a40d826916f0c0b0eb74b39273513e04827de705d17ab25c73da9348e28867"
 
 [[files]]
+file = "config/yosbr/config/holdthatchunk.json"
+hash = "f2e8b6f416dbdc7163edc5ed7e448e13f11e8c309c21a44709a5c6818ba2499c"
+
+[[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "d087987a05fa756198b956e9fe7da82af843155e59c7469f19a0574b3c31f540"
 
 [[files]]
 file = "config/yosbr/config/lambdabettergrass.toml"
-hash = "2744ebcd3589f1124ab556b12e3d73b878fe89901789fdf18787cca12e6a6c0b"
+hash = "dd3f4b2c900c6758dc2c05e6cc7db3f9559b21e9077cbb2e86b58a764c0cd7cd"
 
 [[files]]
 file = "config/yosbr/config/lambdynlights.toml"
@@ -156,7 +160,7 @@ metafile = true
 
 [[files]]
 file = "mods/animatica.pw.toml"
-hash = "a3343170991ecf72460a71f4f8dc3f38d36112f542283bd44bb10f4bdb9ccee5"
+hash = "b494eb2872c5eb3c498e147be24a62e2c62485e375b9b99c15ae0faf8f9dd2ca"
 metafile = true
 
 [[files]]
@@ -206,7 +210,7 @@ metafile = true
 
 [[files]]
 file = "mods/cit-resewn.pw.toml.disabled"
-hash = "f97aee5db6c1f59bcf70e6801e157a017f48fa27656435fcd29770442b5365ae"
+hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
 
 [[files]]
 file = "mods/clickthrough.pw.toml"
@@ -271,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "351d8cd1fcac33efd85916d6219a8cf3bd332a75b41c581b0e49a2ac81080c3f"
+hash = "49e3fdd3f75499cbc49911fa908f0bef1b4e67b7e7e570d76f5cb1be6ccc4e98"
 metafile = true
 
 [[files]]
@@ -345,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml.disabled"
-hash = "d3389ba36d84d9d6d9872bec2f2f858c46c866c83062ed5967a583fae275c56c"
+hash = "0ab0925b9d00ddcf75dc5077fba4eee2c825945a7590750e1821ba783fb26f37"
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml.disabled"

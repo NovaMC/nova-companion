@@ -11,7 +11,3 @@ hash = "d099b988ca411d6630a68aa9f5dc5f0932bc9d0f"
 [update.modrinth]
 mod-id = "BVzZfTc1"
 version = "KBKeI45D"
-
-[option]
-optional = true
-description = "Entity Texture Features adds Optifine's custom, random, and emissive entity texture features. Used by some resource packs."
