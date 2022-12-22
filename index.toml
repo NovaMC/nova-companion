@@ -69,16 +69,16 @@ file = "config/yosbr/config/appleskin.json5"
 hash = "4afa14cd5bb9c084d76a161ecc03e62742249c0f395e67f5a8c55e38f0399de4"
 
 [[files]]
-file = "config/yosbr/config/chat_heads.json5"
-hash = "e20733723e9e8a2789a9e56600f48b292b695c3b176072a0988c07cfb282872b"
-
-[[files]]
 file = "config/yosbr/config/citresewn.json"
 hash = "d5d6a538a59f74b12d2ced2edc31590256dbf81629104a567c82f5325b54acaa"
 
 [[files]]
 file = "config/yosbr/config/clickthrough.json"
 hash = "ec0f4f93761622120ec731aad7bdd4b1ab47aed9241bafc9044dc4952226e388"
+
+[[files]]
+file = "config/yosbr/config/dynamicfps.toml"
+hash = "028f4b4d65a58368f54b8747b47880ccc030588e295b8c8d03dcdd3a3bd3e209"
 
 [[files]]
 file = "config/yosbr/config/enhanced_bes.properties"
@@ -111,6 +111,10 @@ hash = "18329aab4bf1886494b5170bca3fcda6dca0e98df97adc885078525fa0403fdd"
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
 hash = "ab053a6e6d59f6ee6779a7ede9be01549a98da73216a43b07da6a152b2a96264"
+
+[[files]]
+file = "config/yosbr/config/thorium/thorium.conf"
+hash = "e9d7a85eb1fd0f2c0555dc4f11de674e2f90f02afd647c84b9d7854ddbe6139f"
 
 [[files]]
 file = "config/yosbr/config/uglyscoreboardfix.conf"
@@ -198,11 +202,6 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "59c604518591548ffc26ec62678dc33eccddf6a9fc80237102ff22391f5b5dca"
-metafile = true
-
-[[files]]
-file = "mods/chat-heads.pw.toml"
-hash = "8e10d93c9fbd3d212b8e54223b4007ae42a95800feda18cbfba3bbefd74c9350"
 metafile = true
 
 [[files]]
@@ -335,10 +334,6 @@ hash = "35430da98294d5f94636277bf9705ada157eb6122d0e8272f5c3cb6ef76ebfd2"
 metafile = true
 
 [[files]]
-file = "mods/item-model-fix.pw.toml.disabled"
-hash = "b893248407cbc155a5182b151acf50df075cef08bd0a9470c222425e8e47a809"
-
-[[files]]
 file = "mods/kappa.pw.toml"
 hash = "f621970bee82a10be3637e298ac879efed5f28c33b56bc70a4eb9cb854c97d75"
 metafile = true
@@ -387,6 +382,11 @@ hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "68d5ca14abcde7ee0af117221aa0fc7cceb824e15f90ce897f3877994cc0c666"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "e776fe49fb7af0a6d9d719cb966195c13a818619156cc96c9397d3d48445fa4a"
 metafile = true
@@ -398,12 +398,12 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "c5913a52745dd2a220823bea22dd24af5802e7e304092aedd6e5a4c35b835fbd"
+hash = "0db264018c25e9c85d32e5b510ac12274616f44ee51841e0118c24b320e167b5"
 metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "e3fd9ed45c06e468dd88c152e9e03d4371b15d89b60b9b516af711a1fff37004"
+hash = "4654b3680f7ce1e061c77ebff05e847c9f2b9f8b7eb89366e44a86e705506eab"
 metafile = true
 
 [[files]]
@@ -422,8 +422,9 @@ hash = "ad4a221b5135b6e4fe977e360a60b7df32b33951e510667027d5c3ee986659da"
 metafile = true
 
 [[files]]
-file = "mods/ok-zoomer.pw.toml.disabled"
-hash = "8cc78f5916f31b9d350f75d5fd0dad8df9662066763324b36abf6eaced24aef5"
+file = "mods/ok-zoomer.pw.toml"
+hash = "18c11b11c1200864031dbcd81763dce1aaaa0e2c2cafee53d5d6a3dbb6717674"
+metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
@@ -432,7 +433,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "8b03a1faa446081d4dcb67d605b3b4addfc537b7c167ff22c18d0fa16a244712"
+hash = "b80fb529d91a2166e2a488b39a68c99aa5da4c56fe401752e70a9a2829f4988d"
 metafile = true
 
 [[files]]
@@ -462,7 +463,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "fd4f2019c75f05a79a031e1e8e640e202fa1f6807f93eaa013d923db3b477e60"
+hash = "a55efe201deb7eb0028776d3e219936f48084f9050703eff76da03926d1a850d"
 metafile = true
 
 [[files]]
@@ -527,7 +528,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "1e3b44031e1dc9109cfd26bef8630e10089128eab8a71008b1ec2203f68558d8"
+hash = "ca1b5bb7ffd16aa32e46648e0858e245d56a72ba30b857a93456d126b9550130"
 metafile = true
 
 [[files]]
