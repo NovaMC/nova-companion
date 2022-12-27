@@ -279,6 +279,11 @@ hash = "49e3fdd3f75499cbc49911fa908f0bef1b4e67b7e7e570d76f5cb1be6ccc4e98"
 metafile = true
 
 [[files]]
+file = "mods/exordium.pw.toml"
+hash = "4e2a60e26cb6760c58dd2ed193f071c430b76cb542ebda0394cfacd220c12362"
+metafile = true
+
+[[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
 metafile = true
