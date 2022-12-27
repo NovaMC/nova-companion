@@ -325,7 +325,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a2b3438f74269aefff711834dc43cb7b8e4b28347fd1922a0e27465d231a7995"
+hash = "9ccf160a03cbda989ebed2c4fcd4ee02e6a33e06eb31c50504bdbcbd140e17dc"
 metafile = true
 
 [[files]]
@@ -360,7 +360,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "8fb914c75a06a677721dd1fc880606d790886be9e0b392820dcecb9bb56e0786"
+hash = "9b628c73b749c901f12ba08b8304c161801903b1dd3fdbb6d4b93a9d42d25afa"
 metafile = true
 
 [[files]]
@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "566805a6420411ee7e56ebd1cbf79b2a1335fd550054bdf01e1f0b9d955cf705"
+hash = "91f5cb8e796aa7c8407f89c9da255678e71ae588b622c4c848c0f70d803dc5b7"
 metafile = true
 
 [[files]]
@@ -540,7 +540,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "ca1b5bb7ffd16aa32e46648e0858e245d56a72ba30b857a93456d126b9550130"
+hash = "549a7c507004d0b2139bda3c8a0c1b9e33f4b91b5432b4821af3bbd589e542b7"
 metafile = true
 
 [[files]]
