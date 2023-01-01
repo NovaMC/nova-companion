@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "4fdc6c58c4da237b86009a38679cfecc1b0d0a4f842734133b13067860f85414"
+hash = "b379855a3b75007c6548fc27dc2f6ae59e054d09dc77ed3f41aff79f537cc9cc"
 metafile = true
 
 [[files]]
@@ -256,8 +256,9 @@ hash = "0ada4f3b91ee6a4cd40c8e9bcb69a3d59c24ff3940762efca9253b269af1eb25"
 metafile = true
 
 [[files]]
-file = "mods/eating-animation.pw.toml.disabled"
-hash = "f52293cc81b07666eeee3bfcf5f34039e2d2bc64cd22416b5cbdb554eec17a0e"
+file = "mods/eating-animation.pw.toml"
+hash = "990f14703c547528f630861e1ea699a1e4aeea4e40581635baa684160b9ad22a"
+metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml.disabled"
@@ -275,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "49e3fdd3f75499cbc49911fa908f0bef1b4e67b7e7e570d76f5cb1be6ccc4e98"
+hash = "d2a9294a04c3aecd0d7bc826dc22a02fcc8440d5efe688ab423cf62a85a79dbf"
 metafile = true
 
 [[files]]
@@ -284,13 +285,8 @@ hash = "4e2a60e26cb6760c58dd2ed193f071c430b76cb542ebda0394cfacd220c12362"
 metafile = true
 
 [[files]]
-file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3cb8e30672e6f29d7a0ee663f4239cb7374eb8ab44c82d1fc9382b56a8dc7b58"
-metafile = true
-
-[[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "babe7dbe40126a636b7f8b0f5eee444d7c17fee789780b9136fa67ae12b21cb1"
+hash = "7fce7db18aa8459a0404fd862175ccabe36b3f6f03286136f548b6bdc91abc23"
 metafile = true
 
 [[files]]
@@ -324,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "a2b3438f74269aefff711834dc43cb7b8e4b28347fd1922a0e27465d231a7995"
+hash = "1365432dc0228dc44e2cf77ec45904d90191ade8fa0edc9cf858e66bb40e8d83"
 metafile = true
 
 [[files]]
@@ -357,12 +353,13 @@ file = "mods/lambdabettergrass.pw.toml.disabled"
 hash = "0ab0925b9d00ddcf75dc5077fba4eee2c825945a7590750e1821ba783fb26f37"
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml.disabled"
-hash = "8fb914c75a06a677721dd1fc880606d790886be9e0b392820dcecb9bb56e0786"
+file = "mods/lambdynamiclights.pw.toml"
+hash = "3bca5a31f4a469ca2c833cab5b87093ce809c2b599d6f93c19f78b69b78828a5"
+metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "7636e703bfc0dcc584bfa1eb758cb82b61e7e5af1d025693e8d3a90ee3e2632d"
+hash = "a64d0a8179047cef78534718299910772c25d0da824fa269770406dd0940e1ca"
 metafile = true
 
 [[files]]
@@ -442,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "b80fb529d91a2166e2a488b39a68c99aa5da4c56fe401752e70a9a2829f4988d"
+hash = "321fe499cff729ec78aff8681ed80eb038fe76fd2f15206342a8319b994322e2"
 metafile = true
 
 [[files]]
@@ -472,7 +469,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "a55efe201deb7eb0028776d3e219936f48084f9050703eff76da03926d1a850d"
+hash = "c253e367bc570cbdcad5cd5ee759a918548bb2e9c641b8a460a73bc637d79b74"
 metafile = true
 
 [[files]]
@@ -537,10 +534,10 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "ca1b5bb7ffd16aa32e46648e0858e245d56a72ba30b857a93456d126b9550130"
+hash = "549a7c507004d0b2139bda3c8a0c1b9e33f4b91b5432b4821af3bbd589e542b7"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-shaders.pw.toml"
-hash = "b0cf3d8795419ee3a7c106827609c32e8163728268804f07ae0d8faae6a102b2"
+hash = "e5404ee9ac0c386f686be5cc1ec83bd9e508013f9f5154ee6d28337e851a8195"
 metafile = true
