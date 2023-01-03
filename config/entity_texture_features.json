@@ -3,7 +3,7 @@
   "illegalPathSupportMode": "None",
   "enableCustomTextures": true,
   "enableCustomBlockEntities": true,
-  "textureUpdateFrequency_V2": "Slow",
+  "textureUpdateFrequency_V2": "Fast",
   "restrictUpdateProperties": true,
   "restrictBiome": true,
   "restrictHeight": true,
