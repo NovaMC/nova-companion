@@ -296,7 +296,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "2e6f4a9af301eaa3ee7124c59f711a70d5e38260704f30fc79be735e7b1024da"
+hash = "c57806fe492a2b1f1c26c8b0495fda455e7622ac2754f1818012c3ee74f26f97"
 metafile = true
 
 [[files]]
@@ -311,7 +311,7 @@ metafile = true
 
 [[files]]
 file = "mods/fastanim.pw.toml"
-hash = "eff34655a27563df3b1044015998fb1a627e9a04fff1ecb438ed14a34be555d0"
+hash = "d2ef3acb67d8e9fc5cdbd614048c55b2b08f50d1405287357acb72897793b332"
 metafile = true
 
 [[files]]
@@ -341,7 +341,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d1b5b0eed617a4a09c3b27592c6a595959b8df6eb10d42cad9094aef0e8af2f7"
+hash = "d5f2a025813192b3782e7fbeb1223fe28b71bd4120ffb3b0d1ec7df6bcf8c569"
 metafile = true
 
 [[files]]
