@@ -510,6 +510,11 @@ hash = "2269ff794012bd79bfe01ee9815188d45bb3fe964eba30f0cfea4175dbdf42d0"
 metafile = true
 
 [[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "930afd91b92eb34ec0706647028327674fa7ada4a4395e8b7dca1e4e1c4d839c"
+metafile = true
+
+[[files]]
 file = "mods/worldedit.pw.toml"
 hash = "1ee71e5da33d1f0a7d1faa18a1874905d9e008c8d656d178552a3a868993efd2"
 metafile = true
