@@ -209,8 +209,9 @@ hash = "59c604518591548ffc26ec62678dc33eccddf6a9fc80237102ff22391f5b5dca"
 metafile = true
 
 [[files]]
-file = "mods/cit-resewn.pw.toml.disabled"
-hash = "0da3b33d0d62fcaf24835fb432b8dd9be02e82897cd43fddc38fa81106203d37"
+file = "mods/cit-resewn.pw.toml"
+hash = "fd235eacb6d28aae0ebdfa0de95ac33e4f1a6ec67e16fe8074153665b3b0f55a"
+metafile = true
 
 [[files]]
 file = "mods/clickthrough.pw.toml"
@@ -276,7 +277,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "d2a9294a04c3aecd0d7bc826dc22a02fcc8440d5efe688ab423cf62a85a79dbf"
+hash = "bb3472fd891062ab11ba4f61e7fb14def948a7298ca491dcc0ea3987d56a0ed8"
 metafile = true
 
 [[files]]
@@ -290,8 +291,9 @@ hash = "7fce7db18aa8459a0404fd862175ccabe36b3f6f03286136f548b6bdc91abc23"
 metafile = true
 
 [[files]]
-file = "mods/fastanim.pw.toml.disabled"
-hash = "eff34655a27563df3b1044015998fb1a627e9a04fff1ecb438ed14a34be555d0"
+file = "mods/fastanim.pw.toml"
+hash = "40d436b019121f46d12fce617d1bcd85b74cfa41d057283e37ef352217dc40ae"
+metafile = true
 
 [[files]]
 file = "mods/fastopenlinksandfolders.pw.toml"
@@ -320,12 +322,13 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "1365432dc0228dc44e2cf77ec45904d90191ade8fa0edc9cf858e66bb40e8d83"
+hash = "a10025e6b0dbc7cbed5f6d03c44fec87d8aea638cf321e78a9525dc87b6475e2"
 metafile = true
 
 [[files]]
-file = "mods/indium.pw.toml.disabled"
-hash = "77454bd9cdca6ffd16d96d445021360cbc669481d17abf06bbe1e672d431998a"
+file = "mods/indium.pw.toml"
+hash = "1ab5733b357d9c788c357802d9052d952699dd905aeed81b41370169fab70c11"
+metafile = true
 
 [[files]]
 file = "mods/inspecio.pw.toml"
@@ -334,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "469755d5634c20e7e809ff86066d37a3b867c8223d7c584d663aec1d2deea843"
+hash = "7d3727ee323a1e3e6a41719db11e343e0658cc149274b9d4426acc9ae21b1363"
 metafile = true
 
 [[files]]
@@ -358,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "a64d0a8179047cef78534718299910772c25d0da824fa269770406dd0940e1ca"
+hash = "e27fc7defe610a37342ac4014030bfc422ac055537bb89939d755d6c3c7b0c5a"
 metafile = true
 
 [[files]]
@@ -438,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "321fe499cff729ec78aff8681ed80eb038fe76fd2f15206342a8319b994322e2"
+hash = "35c76d2fd66eaa2de06a7f2597b060ae70bcc43b4ef022e2270762fa54c4f498"
 metafile = true
 
 [[files]]
@@ -473,7 +476,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "43b0863e9253f01fad40411c5f4f3bf873882bf3bc4a3c4bc9e83f8aa796a9bd"
+hash = "cff6e118a7d2649ab479bbcf328d463349cfc8dc4bac3f5025395f34c2b505bb"
 metafile = true
 
 [[files]]
