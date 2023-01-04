@@ -5,11 +5,12 @@ mode = "fast"
 # Light sources settings.
 [light_sources]
 	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
-	water_sensitive_check = false
+	water_sensitive_check = true
 	# Enable block entities light source.
 	block_entities = true
 	# Enable entities light source.
 	entities = true
+	self = true
 	# TNT lighting mode. May be off, simple or fancy.
 	tnt = "off"
 	# Creeper lighting mode. May be off, simple or fancy.
@@ -28,6 +29,7 @@ mode = "fast"
 				jukebox = true
 				brewing_stand = true
 				sculk_sensor = true
+				hanging_sign = true
 				conduit = true
 				beehive = true
 				dispenser = true
@@ -54,6 +56,7 @@ mode = "fast"
 				jigsaw = true
 				hopper = true
 				mob_spawner = true
+				chiseled_bookshelf = true
 				trapped_chest = true
 				blast_furnace = true
 
@@ -71,6 +74,7 @@ mode = "fast"
 				bat = true
 				husk = true
 				experience_bottle = true
+				camel = true
 				rabbit = true
 				firework_rocket = true
 				silverfish = true
@@ -149,6 +153,7 @@ mode = "fast"
 				phantom = true
 				ender_dragon = true
 				leash_knot = true
+				entity_texture_featuresetf_placeholder_entity = true
 				evoker = true
 				marker = true
 				glow_squid = true

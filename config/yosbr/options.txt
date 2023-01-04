@@ -2,8 +2,10 @@ version:3120
 quilt_available_resource_packs:["continuity/default","continuity/glass_pane_culling_fix","lambdabettergrass/default","minecraft/supporteatinganimation","programer_art","vanilla"]
 autoJump:false
 enableVsync:false
+entityShadows:false
 renderDistance:16
-simulationDistance:8
+simulationDistance:6
+maxFps:260
 guiScale:3
 resourcePacks:["vanilla","lambdabettergrass/default","continuity/default","continuity/glass_pane_culling_fix","minecraft/supporteatinganimation"]
 incompatibleResourcePacks:[]
