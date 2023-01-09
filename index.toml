@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "e27fc7defe610a37342ac4014030bfc422ac055537bb89939d755d6c3c7b0c5a"
+hash = "f0d0803e9336ca39d7a3cc3704530a9266443c5984ccc9e9016f1957bf3073aa"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-wheelie.pw.toml"
-hash = "4654b3680f7ce1e061c77ebff05e847c9f2b9f8b7eb89366e44a86e705506eab"
+hash = "716e25c293e87166f93ee9b4c847314072e5dcbc14ce711b44ddaf68ea6d4c71"
 metafile = true
 
 [[files]]
@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "35c76d2fd66eaa2de06a7f2597b060ae70bcc43b4ef022e2270762fa54c4f498"
+hash = "016e4cc1d895bf8b295198236f744d85e6f94f6e8f1d21f8673b5c4a8a174078"
 metafile = true
 
 [[files]]
