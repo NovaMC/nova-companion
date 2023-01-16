@@ -221,7 +221,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "59c604518591548ffc26ec62678dc33eccddf6a9fc80237102ff22391f5b5dca"
+hash = "b1ff809ec34348860c3a403f3d5210f7386ddcda8f0d19c5ff4533fd22abeb08"
 metafile = true
 
 [[files]]
@@ -245,7 +245,7 @@ hash = "c49d1423a5f2563335fd5719862a861c8ae2c9cbc46598e767c3e2fe1042ecae"
 
 [[files]]
 file = "mods/completeconfig.pw.toml"
-hash = "59fe42f48e94d896a36304328b07ce68e9a799b0f784d0d460d95603c72397f7"
+hash = "99ef6f897f5bf7c6394a9b387b5fb6539851fee4c96cd69fd7cb52fc7e07d078"
 metafile = true
 
 [[files]]
@@ -333,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/i-know-what-im-doing.pw.toml"
-hash = "4191daf9db203945cd504e0489ce9008f718bb69fa8ce36cf3847ab28f05355c"
+hash = "20a51bfb1800f25433301d1103fe627edcbe13aeccf24a935f9f9bd8eaa4aa21"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "f0d0803e9336ca39d7a3cc3704530a9266443c5984ccc9e9016f1957bf3073aa"
+hash = "0787b8f8b231e9ce5c4e303000da09ce50cc622ec75eb57676d83be470508fd2"
 metafile = true
 
 [[files]]
@@ -422,7 +422,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "768dcbc3bc6cbc1a1d6ced7c16f15dac9de3e6148dcd8767ca506b71c0a43add"
+hash = "e850143ae4200eeb18b83a6530f7e01edc0d328330fced9097d771c08bc21216"
 metafile = true
 
 [[files]]
@@ -542,12 +542,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "ebdb2328e339846abbb0da1160d5f53191c6403873b86d948e419c96a4e10a3c"
+hash = "5cffa3a6707647f5587baa3541c64b6a35519aa06000cc3840d380a33504fab5"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "66e5c7e15040e29718f903852c4c3b3351ae36c7d764222fc84252c4b0c9cfcc"
+hash = "3cfe1747dc1009bfef4a14041269f2606307558b4d166f996c0ea84c1164a7cc"
 metafile = true
 
 [[files]]
@@ -562,5 +562,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-shaders.pw.toml"
-hash = "e5404ee9ac0c386f686be5cc1ec83bd9e508013f9f5154ee6d28337e851a8195"
+hash = "f31696f437044ee37276a3d7495c7fd0905cdb9ae51aee74bf173e8b3316e977"
 metafile = true
