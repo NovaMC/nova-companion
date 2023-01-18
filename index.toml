@@ -336,7 +336,7 @@ metafile = true
 
 [[files]]
 file = "mods/i-know-what-im-doing.pw.toml"
-hash = "4191daf9db203945cd504e0489ce9008f718bb69fa8ce36cf3847ab28f05355c"
+hash = "20a51bfb1800f25433301d1103fe627edcbe13aeccf24a935f9f9bd8eaa4aa21"
 metafile = true
 
 [[files]]
@@ -381,7 +381,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "756d833591c1a47e47b5b0c2440da3a7c267ee170f9cc4965e181dd69d4a9154"
+hash = "e7e06878a40e4733a45b06aba4e1adaf09905485268e9c19e75a6ed9c0f86490"
 metafile = true
 
 [[files]]
@@ -426,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "9506b1b7caa8550d12aecf50d02fbeeed90f3775a6597021f2953886e4d0eb47"
+hash = "95968c19d093f7074af27079bc2f7f5fb09f21c2c659355fe8da7ea168e23c84"
 metafile = true
 
 [[files]]
@@ -516,7 +516,7 @@ metafile = true
 
 [[files]]
 file = "mods/tooltipfix.pw.toml"
-hash = "379fc2a0bb704376335fa0ab301c3ed606d6bbdd520fa2bca1aeb86763d42b76"
+hash = "4f782435d758d3cfd57ba49e2a4994006722d42307ef74ef3d35a1704f9ed5c4"
 metafile = true
 
 [[files]]
@@ -546,12 +546,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "d12e21dad46cee6d1a40fd6a0500b88ad6e0fef0815ee91ab1cb13f4c6ea8b5c"
+hash = "1c01711220b077017a417239dcc90440fd829480a263c9e18c051e1be7eb60d9"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "2bba4e1f3b22531938f84794257d684a585b1076d7ef50412e04a88f51eaf651"
+hash = "6eeb8f5a68e6a1ff3c6b7af37a3020237b25af5106d09451eb249a8171ea9138"
 metafile = true
 
 [[files]]
