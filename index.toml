@@ -54,7 +54,7 @@ hash = "e9864b6849a54a24061f85621cc9a6c35a05b3bb916056bb9288c828bf0965c6"
 
 [[files]]
 file = "config/entityculling.json"
-hash = "d1263f28704a153ad67c648fe20b37ab8c9d65f279b2130d29a4ce8be8ad9d0a"
+hash = "914525168bfe586ba692b0ea415d12671f4f9424eff5f40bb42a423fccb9539d"
 
 [[files]]
 file = "config/ferritecore.mixin.properties"
@@ -99,6 +99,10 @@ hash = "573ce04bb66348fe3520507c8aa2d871150f13f931a69b037799f91256950d67"
 [[files]]
 file = "config/thorium/thorium.conf"
 hash = "e9d7a85eb1fd0f2c0555dc4f11de674e2f90f02afd647c84b9d7854ddbe6139f"
+
+[[files]]
+file = "config/vmp.properties"
+hash = "5a908f87b14e57bdd3cadebdb600b8edfb25a5edb9c7614dec2f1b7c7f4f2dd9"
 
 [[files]]
 file = "config/yosbr/XaeroWaypoints/Multiplayer_mc.novaserver.xyz/config.txt"
