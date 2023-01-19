@@ -102,7 +102,7 @@ hash = "e9d7a85eb1fd0f2c0555dc4f11de674e2f90f02afd647c84b9d7854ddbe6139f"
 
 [[files]]
 file = "config/vmp.properties"
-hash = "f33511badeb18f1731f5daa0b19307d019487d608dda7ddb553e42216d1cf46d"
+hash = "5a908f87b14e57bdd3cadebdb600b8edfb25a5edb9c7614dec2f1b7c7f4f2dd9"
 
 [[files]]
 file = "config/yosbr/XaeroWaypoints/Multiplayer_mc.novaserver.xyz/config.txt"
