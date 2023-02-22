@@ -46,7 +46,7 @@ hash = "8c30b0bfbd5a485d5977ec1e70a043de83f7de6c55db17ceac4c2a6a5e37d69f"
 
 [[files]]
 file = "config/puzzle.json"
-hash = "f804e7aa33de049db26822e27c91e905541454fc806ec2875bc63f23c4b347a0"
+hash = "391245ffe2c0050f521f423f53f4e889f2c03a4afaea05460abd53a65f30ddd2"
 
 [[files]]
 file = "config/simple-rpc/simple-rpc.toml"
@@ -107,6 +107,10 @@ hash = "84ef91debb7d7f0570358634b3f8cf93992b682c822ee36855033f3335662f85"
 [[files]]
 file = "config/yosbr/config/iris.properties"
 hash = "2f53873c6175575dd75a88d8abb7946fdfc9138e816d2480354a0e0888d0ed59"
+
+[[files]]
+file = "config/yosbr/config/midnightcontrols.json"
+hash = "dd3ff096b7c0032f2d4c817d8b710df5a836fa0b65296fb26d4fc1eb1352244f"
 
 [[files]]
 file = "config/yosbr/config/mousewheelie.hjson"
@@ -267,6 +271,16 @@ hash = "4e2a60e26cb6760c58dd2ed193f071c430b76cb542ebda0394cfacd220c12362"
 metafile = true
 
 [[files]]
+file = "mods/fabricskyboxes-interop.pw.toml"
+hash = "f33a392dbbc1e518ebca8929707b5f6c38d59c67fb0b30a30a3ebae5e3d59c73"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "4d1d761b0905b18c127d3c5642230ea681f0c52bb5f24df1779b085345c013fa"
+metafile = true
+
+[[files]]
 file = "mods/fallingleaves.pw.toml"
 hash = "9892a0024b5f2aeb4dbb9b39f3ebc518c4661ba31b487dd332b879ba22bcc4fd"
 metafile = true
@@ -367,6 +381,11 @@ hash = "5b43c0fc6904ad4480c8ed596411c6e24172f8320ccd63de97b4ce2e7e0f90a5"
 metafile = true
 
 [[files]]
+file = "mods/midnightcontrols.pw.toml"
+hash = "3f4d27bd55fdb37388cae74ecb90e941357d8eed7fa677d51e0eb32a632fc0c2"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
@@ -414,6 +433,11 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "18c11b11c1200864031dbcd81763dce1aaaa0e2c2cafee53d5d6a3dbb6717674"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "ad2b176582893c8e1fd3153c2273b228cd66dfae3287cf1e92b4989b1b8ba776"
 metafile = true
 
 [[files]]
