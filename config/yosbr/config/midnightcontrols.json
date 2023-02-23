@@ -1,0 +1,11 @@
+{
+  "configVersion": 1,
+  "autoSwitchMode": false,
+  "controllerToggleSneak": true,
+  "rightDeadZone": 0.10000000149011612,
+  "leftDeadZone": 0.10000000149011612,
+  "rotationSpeed": 12.5,
+  "yAxisRotationSpeed": 12.5,
+  "mouseSpeed": 30.0,
+  "enableHints": true
+}

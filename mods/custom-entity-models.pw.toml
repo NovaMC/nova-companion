@@ -5,7 +5,3 @@ filename = "cem-0.7.1_S8_1.19-1.19.2.jar"
 url = "https://github.com/YoungSoulluoS/cemFork/releases/download/Soul_Fork_9/cem-0.7.1_S8_1.19-1.19.2.jar"
 hash-format = "sha1"
 hash = "805f07865c131983c71fcdc73839da01b39b3e70"
-
-[option]
-optional = true
-description = "Animatica adds Optifine's custom entity models features. Used by some resource packs.\n\nNot the original mod fork used from here: https://github.com/YoungSoulluoS/cemFork"
