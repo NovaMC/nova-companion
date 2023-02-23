@@ -291,11 +291,6 @@ hash = "40d436b019121f46d12fce617d1bcd85b74cfa41d057283e37ef352217dc40ae"
 metafile = true
 
 [[files]]
-file = "mods/fastopenlinksandfolders.pw.toml"
-hash = "ff54403726ef6349d2b0d9fc9588e5923aff79c0756820f3d4aa2c4c9dd8e2d8"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4c1b893d87c51588985c483fe33193ca03cf3673de998eef6eeb850d8928e7ab"
 metafile = true
