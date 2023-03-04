@@ -18,7 +18,7 @@ hash = "0c703e00cde66e85dc55b2a41c76904fc8ff69076452fceb3d0d8e45f7394ead"
 
 [[files]]
 file = "config/enhanced_bes.properties"
-hash = "e8486912c3874fbc17b18da2cb7fd7e6ffded6520e74d8627664fdc648a611fe"
+hash = "6fb91e9fba9307a29afd08983705a5382aebc367ac66343fd8846ce8dd1ec546"
 
 [[files]]
 file = "config/entity_texture_features.json"
@@ -519,11 +519,6 @@ metafile = true
 [[files]]
 file = "mods/ugly-scoreboard-fix.pw.toml"
 hash = "a88c145d63ccd46bf139cf55dc42f4d9c6150dba5d93b0fe0937870b089aadb1"
-metafile = true
-
-[[files]]
-file = "mods/visuality.pw.toml"
-hash = "f0c490ddd5aa6bfd096059967f8e954b6771bcf2201ae9a6dd195e6e1b22a908"
 metafile = true
 
 [[files]]
