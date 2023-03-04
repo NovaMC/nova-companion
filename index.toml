@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/eating-animation.pw.toml"
-hash = "f52293cc81b07666eeee3bfcf5f34039e2d2bc64cd22416b5cbdb554eec17a0e"
+hash = "92f796bb39c6235298ccf33b64505923870bc3a258cbb2114d0ec036bfe18b6d"
 metafile = true
 
 [[files]]
@@ -463,7 +463,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "7d7c8dea9bb287e39f6707e3f2f8bdd9d4db32f054e0c7bb877060c43527f968"
+hash = "08a85eacf14fe09b826dcc63c02ba8b346b9f6df047e65568091402dea13a9bc"
 metafile = true
 
 [[files]]
@@ -538,12 +538,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "433982b909f0dc8884c28ec56a567fb32ca56415679705f823fa4834c5a7ca5e"
+hash = "4ab0a1b48e3335c548bf54303c793162a38d54df10d44a0483eaf0994bf5b516"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "8845c00d762b6b64dc891dee7ddca4f3f634cf899659cddea7a110ba50dd585a"
+hash = "5fe1a36191ac401b7f269512b50ee9d17f2973069a30411ce19b576271e87580"
 metafile = true
 
 [[files]]
@@ -553,7 +553,7 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "c99cd1ee656041db81255665ccbb0f2bb96cae113e7d2c07f8d8e8701b1ca984"
+hash = "51e9ef8f55d2bee989ceb0bf1bb834becbbc8692e6077ecde518ae1baf1138fe"
 metafile = true
 
 [[files]]
