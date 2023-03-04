@@ -18,7 +18,7 @@ hash = "ff4c549a0882435ce78c83c579ba94ad4c593d35132168539ceb91f976e382cd"
 
 [[files]]
 file = "config/enhanced_bes.properties"
-hash = "e8486912c3874fbc17b18da2cb7fd7e6ffded6520e74d8627664fdc648a611fe"
+hash = "6fb91e9fba9307a29afd08983705a5382aebc367ac66343fd8846ce8dd1ec546"
 
 [[files]]
 file = "config/entity_texture_features.json"
