@@ -146,7 +146,7 @@ hash = "ac17186c0554875ffbc5fe097465bb1bf53eef5ec28de66b34e17fa215beaa0e"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "4a6bae3bc8cbd1358b9a75f741581b5f6473ff620e99a162373eea3895c48ade"
+hash = "8a7eeb93dbcd1ac033bc01d659cfabb31578bb423837ad78d31735e7598fbdf2"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -543,6 +543,10 @@ metafile = true
 file = "mods/yosbr.pw.toml"
 hash = "07238f3d55a66e24189755c35586a6685c757262ef34349eefbb7d20838e8318"
 metafile = true
+
+[[files]]
+file = "resourcepacks/nova-loading-screen.zip"
+hash = "29ffcc46252fef99437a653921b01dad30a62b1fb4bb41cd70f05611eef37201"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
