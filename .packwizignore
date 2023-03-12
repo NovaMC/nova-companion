@@ -7,3 +7,6 @@
 
 # Exclude disabled mods
 disabled-mods/
+
+# Exclude exported modpack files
+.exports/
