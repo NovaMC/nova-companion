@@ -154,7 +154,7 @@ hash = "aa6d83683836879fcc42e19df58107c3286ab62c17a96e0a7b6bc1694964aaa4"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
-hash = "c025d2226099f9035bafd0adab1c63f2800dee5aa0c7c047720457f9535439b2"
+hash = "c61f1e575d6acf7ef4233f15100db8e870b3c5d2898c910bcf4a10d0dc5534a9"
 metafile = true
 
 [[files]]
@@ -531,7 +531,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "8816cf3bc8af970a51bd6380454c5db51b329d7693279dbb44e7e6a920330171"
+hash = "2b0d644bb1a6515fefe8b6ab1da3f51a9ee3548222d5d4eb88df37e43472907b"
 metafile = true
 
 [[files]]
