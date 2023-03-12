@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "00bbc94e36588939e7080380a4508de0a7dbbff9899256eea7476ed5ff4b3352"
+hash = "9b079e80a153e584da0321d4d02f6caeba2a37b6dc3e680d7048fffb8694cbc1"
 metafile = true
 
 [[files]]
@@ -235,6 +235,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml.disabled"
 hash = "3648ed55ffae5bc153c16b2d414925cc30165b5171aa0e2a146e5ba22366fcf1"
+
+[[files]]
+file = "mods/dashloader.pw.toml"
+hash = "734d6040921e54a939a7c9e87b2a92f5c9d9c25561429d09d05ca34b1b6ba373"
+metafile = true
 
 [[files]]
 file = "mods/draggable-resource-packs.pw.toml"
@@ -372,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "5b43c0fc6904ad4480c8ed596411c6e24172f8320ccd63de97b4ce2e7e0f90a5"
+hash = "2f1393d78824d3e665be954e339affed26d8482d227aa3f13d6ca5d577469f8b"
 metafile = true
 
 [[files]]
@@ -522,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "2b0d644bb1a6515fefe8b6ab1da3f51a9ee3548222d5d4eb88df37e43472907b"
+hash = "8816cf3bc8af970a51bd6380454c5db51b329d7693279dbb44e7e6a920330171"
 metafile = true
 
 [[files]]
