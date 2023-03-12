@@ -13,6 +13,10 @@ file = "config/cem.conf"
 hash = "a2b5f8259ee4c6bc633968bfb5ed70afeed86ebc1dd4173ae6473fee758ac466"
 
 [[files]]
+file = "config/dashloader.json"
+hash = "be084dc5c20e4d28566d6a2649d65b641b0b5ef81e314182641277f01444e0ea"
+
+[[files]]
 file = "config/dynamicfps.toml"
 hash = "ff4c549a0882435ce78c83c579ba94ad4c593d35132168539ceb91f976e382cd"
 
