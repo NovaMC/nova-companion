@@ -1,0 +1,13 @@
+name = "Controlify"
+filename = "Controlify-1.0.0+1.19.4-fabric-1.19.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/DOUdJVEm/versions/ViaGpYcG/Controlify-1.0.0%2B1.19.4-fabric-1.19.4.jar"
+hash-format = "sha1"
+hash = "da21dfb68caa0320b689e730db47531217af6ee4"
+
+[update]
+[update.modrinth]
+mod-id = "DOUdJVEm"
+version = "ViaGpYcG"
