@@ -242,7 +242,7 @@ hash = "3648ed55ffae5bc153c16b2d414925cc30165b5171aa0e2a146e5ba22366fcf1"
 
 [[files]]
 file = "mods/dashloader.pw.toml"
-hash = "734d6040921e54a939a7c9e87b2a92f5c9d9c25561429d09d05ca34b1b6ba373"
+hash = "42524341897ab768fd4c7b40ac4916f9ac3016c68971de6e7d0a3c98648e855a"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabricskyboxes.pw.toml"
-hash = "4d1d761b0905b18c127d3c5642230ea681f0c52bb5f24df1779b085345c013fa"
+hash = "6ecd2a8ab1d0583d10fc4df74e9a0282055b497d61467a75bec3adaf88abb143"
 metafile = true
 
 [[files]]
@@ -361,7 +361,7 @@ metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
-hash = "4d726fe867560cd8650f61a72a46a537bdbb03ed502698e79ee2030a899e63c3"
+hash = "88327c12d7d616af1d5c7e16abda18c231aea933ad759cb232408449bb1f67d1"
 metafile = true
 
 [[files]]
@@ -371,7 +371,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "6682a581b77e820ea340d3279b7a49f5d311d3fa0b08b53628c9bf56a7c668ac"
+hash = "2dcac529633f402a5a325b8031bf15a06db668b912e6be1596836bde3afb17f1"
 metafile = true
 
 [[files]]
@@ -411,7 +411,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "bbf63ac8b9775c315526e0161daa609493a9a6168741077aca636e0123a2a4f4"
+hash = "0ac90dcc33473b316b975601f5c69f172e9babae174e7c85ec24281e31903934"
 metafile = true
 
 [[files]]
@@ -471,7 +471,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
-hash = "7bc329ba362e6b9bce089cc236b3ae8d049cb9f874310e5cf1591fa764e2cb54"
+hash = "f85e581c4d235bfc5b97fb79d5fcc7eafd39ddbe8ebcbd29a7be8650cba0caef"
 metafile = true
 
 [[files]]
@@ -496,7 +496,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "f02d3a70ed2126a780c4be9404aa9a61cab32268067e8a09b78c8ec88e095dfa"
+hash = "50c06afeef4a0f87ce306a734f3a26f48a0e346bd6a42b3fb967d3ee62b65894"
 metafile = true
 
 [[files]]
@@ -531,12 +531,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "2b0d644bb1a6515fefe8b6ab1da3f51a9ee3548222d5d4eb88df37e43472907b"
+hash = "cb43552ebbb6677d62e98c0f7e2b09e0231e0a39e251360fb9492c957300226c"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a5f947f964b5882a000e9124e14236afe036fac1b6a032f5440a7483d85e66d3"
+hash = "6fb282237890c04c80dc273e1c633579ac69692b1b55464cdb16bb69049a468e"
 metafile = true
 
 [[files]]
