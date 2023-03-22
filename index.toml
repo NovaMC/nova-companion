@@ -237,8 +237,9 @@ hash = "ec18582a34ff198484f157c1860a4141655bcdabc8e83bf8a1d87f7f4bee80cd"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml.disabled"
-hash = "3648ed55ffae5bc153c16b2d414925cc30165b5171aa0e2a146e5ba22366fcf1"
+file = "mods/continuity.pw.toml"
+hash = "041ccd7b995f48442ed10207f33c54eef5ff970f504f93c7fb586f7b4ab34cc7"
+metafile = true
 
 [[files]]
 file = "mods/dashloader.pw.toml"
