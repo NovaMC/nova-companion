@@ -62,7 +62,7 @@ hash = "76563394a07382a8cf114cde770613dea2dfdf74262fcafe0bec3a520358e81f"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "2669163f03a33949dda8c0a236699ae0df365ffe3a73670a0bfaea74e89307c2"
+hash = "131d74b1b4e502a35d0a718080494f1d64358b37fce39ef37fb4ad2b289265bf"
 
 [[files]]
 file = "config/tr7zwDonorSettings.json"
