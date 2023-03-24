@@ -238,7 +238,7 @@ metafile = true
 
 [[files]]
 file = "mods/continuity.pw.toml"
-hash = "041ccd7b995f48442ed10207f33c54eef5ff970f504f93c7fb586f7b4ab34cc7"
+hash = "4cb02206331c9a6d207681b2e40b4b8648a462b0c31e6e634200a01b592b1d3d"
 metafile = true
 
 [[files]]
@@ -427,7 +427,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
-hash = "e151fe842a9f578b400d9bdfcc3be782861098415aec5cc7909eb69ec425faa3"
+hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
 metafile = true
 
 [[files]]
@@ -442,7 +442,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "ad2b176582893c8e1fd3153c2273b228cd66dfae3287cf1e92b4989b1b8ba776"
+hash = "d1a855b30f796a2a57faca3702c7bfafb353ddfcd597bca2d8c01fb86f010bbc"
 metafile = true
 
 [[files]]
@@ -453,6 +453,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "9f099a192392ee51ed679dad76f74806cf1c2fa8c8a37ae015f22c208cfa8236"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "24ca6901df336de9e8d866ebbbc93f5563a13d52141ce934dd6293746003ea44"
 metafile = true
 
 [[files]]
