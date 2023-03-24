@@ -231,8 +231,9 @@ hash = "649d3ac6a75543b2de5d6afb86aaafffcab08a341a2a879a8313408602d1a733"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml.disabled"
-hash = "3648ed55ffae5bc153c16b2d414925cc30165b5171aa0e2a146e5ba22366fcf1"
+file = "mods/continuity.pw.toml"
+hash = "4cb02206331c9a6d207681b2e40b4b8648a462b0c31e6e634200a01b592b1d3d"
+metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml.disabled"
@@ -348,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdabettergrass.pw.toml"
-hash = "83a212a71370bd6cc3133a44aed97da0d03492b525f4f0aff5e5a76922608b0b"
+hash = "1f4df9a518618ca75875f23a6dccf74acaec26963d9108468ff4d106107e02f1"
 metafile = true
 
 [[files]]
@@ -410,12 +411,12 @@ hash = "716e25c293e87166f93ee9b4c847314072e5dcbc14ce711b44ddaf68ea6d4c71"
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "cdf0700ff83b93af99c5c2c543a902cae02660ec4b6d18a19143ab7cb7b9591c"
+hash = "c947125039216bc6763671c675dc37b58b14ef2ee7a34270ec66ffb9c11afd8d"
 metafile = true
 
 [[files]]
 file = "mods/no-telemetry.pw.toml"
-hash = "e151fe842a9f578b400d9bdfcc3be782861098415aec5cc7909eb69ec425faa3"
+hash = "5f9870a1b70f585f7ca5ca97d5369056f6f6ab84d9897a35b545b0311e69c213"
 metafile = true
 
 [[files]]
