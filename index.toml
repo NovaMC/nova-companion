@@ -262,6 +262,11 @@ hash = "5defa596cda5ce93d22331ca4cfcfab31059610c5d245243fb2d6b275c13926a"
 metafile = true
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "5d0871bb4dbf85c494447188feb58adb122c61f5f551a0239e6268d7c0327876"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml.disabled"
 hash = "5d0871bb4dbf85c494447188feb58adb122c61f5f551a0239e6268d7c0327876"
 
@@ -442,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "d1a855b30f796a2a57faca3702c7bfafb353ddfcd597bca2d8c01fb86f010bbc"
+hash = "1afe5d10e148d3d727f70bfc065e0e65b9992bcd1904dcdc3f29c201a6d4dd15"
 metafile = true
 
 [[files]]
@@ -467,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "a2546c22da25221e7f1e2dff79d741437ff8d60c8030b092e9ae4d91fc2446dc"
+hash = "5568e02dc2159a1ef7d6fa1597478ef1c3257818ca7a79d9b3da83782a81ec80"
 metafile = true
 
 [[files]]
