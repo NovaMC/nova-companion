@@ -170,12 +170,12 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "96855a415dd29c43f97c7a875e3c953a16e170c1224fe9c1ab8b010621e5eaef"
+hash = "9fd477e1641d3e008b49089f7650e1023b8e0bbd7105231b60c8ebc7882906ad"
 metafile = true
 
 [[files]]
 file = "mods/auth-me.pw.toml"
-hash = "f0eac2832b0c04d4994683decf8bd1a4cf69fd3b12b5a735bf0138c5b59799b5"
+hash = "021a7812990beadf40cdbdac977f244c9a6888b7bf03fd822371ec472e6f0d9c"
 metafile = true
 
 [[files]]
@@ -189,8 +189,9 @@ hash = "9906b376e48ef932d7a06383f7f8ef10b0bcba3cf08fb7ad18f480f7ef1ae3ed"
 metafile = true
 
 [[files]]
-file = "mods/blur-fabric.pw.toml.disabled"
-hash = "59d16216cbbc57c4225bcd7fb1242b1b91a4819b5b12c7412810066382dca444"
+file = "mods/blur-fabric.pw.toml"
+hash = "9a93ba9a477006e883f0739e9225f5818964b132b95966042d26a7b031d9fe83"
+metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
@@ -199,17 +200,18 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "d58dd8ca5bc0c173647017e12d3e8d9976e405d1ab09f0ad7331b562b3db155a"
+hash = "deffc4773d3d3738ae9982b4b8d649f87325e56068bc507d11c5a41711454fbc"
 metafile = true
 
 [[files]]
 file = "mods/cem.pw.toml"
-hash = "c3eb90105f45fe22962c7cc1a7852eb527765b0f93e0d9ae0459437cdfa30380"
+hash = "2393668f05c9062f95075532c112a18df9d328996a34ad527411540fc07a42b7"
 metafile = true
 
 [[files]]
-file = "mods/cit-resewn.pw.toml.disabled"
-hash = "fd235eacb6d28aae0ebdfa0de95ac33e4f1a6ec67e16fe8074153665b3b0f55a"
+file = "mods/cit-resewn.pw.toml"
+hash = "eb6cb8a8cde5c16bfe3c1f14353f362bc857621a9703579ff9aac154c8c975e9"
+metafile = true
 
 [[files]]
 file = "mods/clickthrough.pw.toml"
@@ -236,8 +238,9 @@ hash = "4cb02206331c9a6d207681b2e40b4b8648a462b0c31e6e634200a01b592b1d3d"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml.disabled"
+file = "mods/controlify.pw.toml"
 hash = "c1ae08a71c2d0c2a367db17dc3ab53cc43654bec83248385ce7fc01bc301ede3"
+metafile = true
 
 [[files]]
 file = "mods/dashloader.pw.toml"
@@ -260,6 +263,11 @@ hash = "f3650ca60e53bd037c813bee80e493e4686a195d0da2e5274458b7a8d7c3325d"
 metafile = true
 
 [[files]]
+file = "mods/ebe.pw.toml"
+hash = "5d0871bb4dbf85c494447188feb58adb122c61f5f551a0239e6268d7c0327876"
+metafile = true
+
+[[files]]
 file = "mods/ebe.pw.toml.disabled"
 hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
 
@@ -270,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "1a28f950f0e26b507b2613224c0f49bec23d1b515f51cdccec3abb221fc8ab08"
+hash = "49576a9f64054a932e5bfe6cbe897ce03f556f5a8c5bb79e06795bfa65798253"
 metafile = true
 
 [[files]]
@@ -319,7 +327,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "6d8f457e49c2a578262d091817b5571897cd73a3bc58db33bac3c60f13d67679"
+hash = "bf041b31e947a9473ad3a349b1ba5f8514bfb2cc2dfaa0f020331228107d83b5"
 metafile = true
 
 [[files]]
@@ -353,8 +361,9 @@ hash = "1f4df9a518618ca75875f23a6dccf74acaec26963d9108468ff4d106107e02f1"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml.disabled"
-hash = "3bca5a31f4a469ca2c833cab5b87093ce809c2b599d6f93c19f78b69b78828a5"
+file = "mods/lambdynamiclights.pw.toml"
+hash = "f573cac2ec9cd88456c545e177753791c91a38ba0a46c4ad4c87e5a7878664ea"
+metafile = true
 
 [[files]]
 file = "mods/language-reload.pw.toml"
@@ -377,8 +386,9 @@ hash = "1527caee4fc4f26b525a41a95dd07dae21ab3c8d2c391237c79396abf7e9b2d7"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix.pw.toml.disabled"
-hash = "2f1393d78824d3e665be954e339affed26d8482d227aa3f13d6ca5d577469f8b"
+file = "mods/memoryleakfix.pw.toml"
+hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
+metafile = true
 
 [[files]]
 file = "mods/mixintrace.pw.toml"
@@ -431,7 +441,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "d1a855b30f796a2a57faca3702c7bfafb353ddfcd597bca2d8c01fb86f010bbc"
+hash = "1afe5d10e148d3d727f70bfc065e0e65b9992bcd1904dcdc3f29c201a6d4dd15"
 metafile = true
 
 [[files]]
@@ -455,7 +465,7 @@ metafile = true
 
 [[files]]
 file = "mods/raised.pw.toml"
-hash = "a6b65963b4a255bf6053a396b839a3018788195147d3788cf48c22aa9068582e"
+hash = "71827adb5fbf9210c7d4ee7dd1107c7d1cc4356ececdb7be4c773695b8d73d36"
 metafile = true
 
 [[files]]
@@ -510,7 +520,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "a5c8d8c55ca507826b6e77660abefa13a3b864760688728bac1ce1fe280e93a9"
+hash = "4cbd8aee3aca36e0c3ce84fb336f0cd01b9d4352bd1f4d17c88bc3f60ebda334"
 metafile = true
 
 [[files]]
@@ -524,12 +534,17 @@ hash = "a5eb70f62bba4b7e449d7ac5492dd28913075983842d3fbafe896a522ea91ed2"
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "3efda42e8fee4d6f03c37d51836d4f1920c52529a2e2b7632f8a8400b4f50b70"
+hash = "942f1c66333886195eb10f236da009f407aa6534dfee961e8b00341f8b3231e5"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "85d9e5f236f0b579f0a360efe4ad0308371b49e3e233a784046efd793a15875c"
+hash = "68c13918b35942f790e94d67240cba6c849dd7341f6f203904c6c6c731ffd431"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "6e8a89639607fa2228b15c521d324e286850207ec29494c2655649d69b61e644"
 metafile = true
 
 [[files]]
