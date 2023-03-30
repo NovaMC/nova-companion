@@ -263,13 +263,8 @@ hash = "f3650ca60e53bd037c813bee80e493e4686a195d0da2e5274458b7a8d7c3325d"
 metafile = true
 
 [[files]]
-file = "mods/ebe.pw.toml"
-hash = "5d0871bb4dbf85c494447188feb58adb122c61f5f551a0239e6268d7c0327876"
-metafile = true
-
-[[files]]
 file = "mods/ebe.pw.toml.disabled"
-hash = "81a389a5035dc0852ce12c796f1d667bb4715b1d6ffde16433bf80f02e3796bc"
+hash = "5d0871bb4dbf85c494447188feb58adb122c61f5f551a0239e6268d7c0327876"
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -554,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/nova-loading-screen.zip"
-hash = "29ffcc46252fef99437a653921b01dad30a62b1fb4bb41cd70f05611eef37201"
+hash = "b7c29f44be856fe1e120eb3c6b5f05e02fb36f349e8048f0737ac944a53664e7"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
