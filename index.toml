@@ -200,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "deffc4773d3d3738ae9982b4b8d649f87325e56068bc507d11c5a41711454fbc"
+hash = "96c16744178d0c92c77186d61f0bc1cf2c862457fc1de663659207b47d502584"
 metafile = true
 
 [[files]]
@@ -515,7 +515,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "4cbd8aee3aca36e0c3ce84fb336f0cd01b9d4352bd1f4d17c88bc3f60ebda334"
+hash = "fe9f7e29e0dcd6171c85a343cf8a39974aab2bba3639c9b2343bd714172ff37c"
 metafile = true
 
 [[files]]
