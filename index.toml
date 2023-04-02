@@ -89,8 +89,8 @@ file = "config/yosbr/config/NoChatReports/NCR-Encryption.json"
 hash = "56e38e1d6039cbcf32c68416b60be42a4f5f3006c3caf50eb1eae1fc03580e86"
 
 [[files]]
-file = "config/yosbr/config/PlasmoVoice/config.json"
-hash = "54a32a5b904d521e28d75011587b84fc88fc812968a909dd27bc47938cd63d50"
+file = "config/yosbr/config/PlasmoVoice/client.toml"
+hash = "b33985bdca18702e8ffc38ec1974455b388a3700592eded04d02327c8c6dbd2a"
 
 [[files]]
 file = "config/yosbr/config/SkipTransitions.properties"
@@ -146,7 +146,7 @@ hash = "ac17186c0554875ffbc5fe097465bb1bf53eef5ec28de66b34e17fa215beaa0e"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "a1a6112cfbe0dced4f6bb7d58e52e73fb21f11ad837291ef2c5c041ee0483890"
+hash = "0a47a70e052e65fd20f15f24a4e0e487ad2c9bb50798904304a5cb407aa18a10"
 
 [[files]]
 file = "config/yosbr/servers.dat"
@@ -259,11 +259,6 @@ metafile = true
 [[files]]
 file = "mods/eating-animation.pw.toml"
 hash = "5defa596cda5ce93d22331ca4cfcfab31059610c5d245243fb2d6b275c13926a"
-metafile = true
-
-[[files]]
-file = "mods/ebe.pw.toml"
-hash = "5d0871bb4dbf85c494447188feb58adb122c61f5f551a0239e6268d7c0327876"
 metafile = true
 
 [[files]]
@@ -387,7 +382,7 @@ metafile = true
 
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
-hash = "2f1393d78824d3e665be954e339affed26d8482d227aa3f13d6ca5d577469f8b"
+hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
 metafile = true
 
 [[files]]
@@ -452,7 +447,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "48c4a1cd01e1bed309b50da8d2cabdbebdda595556c34cf512e1faeba94d4e70"
+hash = "094f5923a5eb2f239f97df6c833191ee0777dc7a46688f8e90932915a81c5461"
 metafile = true
 
 [[files]]
@@ -527,7 +522,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "4ef7d61721d9b2083c59d5c5e147241f085500894684007b0c5a45b050afd595"
+hash = "4aa2f8c7276d3fc9f5cd759cfc99e9289fa3c5188bafe0029960a017483741bc"
 metafile = true
 
 [[files]]
@@ -542,12 +537,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "cb43552ebbb6677d62e98c0f7e2b09e0231e0a39e251360fb9492c957300226c"
+hash = "19f067ba3adcd824bd01ff71641d5e2da90b7ac401f2cd4186d963fac93e1b0f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "6fb282237890c04c80dc273e1c633579ac69692b1b55464cdb16bb69049a468e"
+hash = "d0e260d9c71cbb1a523ef7494ce61047b247b0ad963749ec7a956c861bd37f80"
 metafile = true
 
 [[files]]
