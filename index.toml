@@ -90,7 +90,7 @@ hash = "56e38e1d6039cbcf32c68416b60be42a4f5f3006c3caf50eb1eae1fc03580e86"
 
 [[files]]
 file = "config/yosbr/config/PlasmoVoice/client.toml"
-hash = "b33985bdca18702e8ffc38ec1974455b388a3700592eded04d02327c8c6dbd2a"
+hash = "257e7b89554d8810329368938745ebe18700c4e66e4b0156c3cab1ef93781a13"
 
 [[files]]
 file = "config/yosbr/config/SkipTransitions.properties"
