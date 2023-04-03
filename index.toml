@@ -9,10 +9,6 @@ file = "config/c2me.toml"
 hash = "504e922e7a2224d629ae2c266456f5796f666b357eadab856736658a0869b1a2"
 
 [[files]]
-file = "config/cem.conf"
-hash = "a2b5f8259ee4c6bc633968bfb5ed70afeed86ebc1dd4173ae6473fee758ac466"
-
-[[files]]
 file = "config/dashloader.json"
 hash = "be084dc5c20e4d28566d6a2649d65b641b0b5ef81e314182641277f01444e0ea"
 
@@ -208,11 +204,6 @@ hash = "515beebd75128f52f7ba2db1e9f129ca51080039337d33d647a64f237dd4ddab"
 metafile = true
 
 [[files]]
-file = "mods/cem.pw.toml"
-hash = "4830a70a299bd27667a9cc64637364a65eb876175153a076c8da9398e9be89ff"
-metafile = true
-
-[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "fd235eacb6d28aae0ebdfa0de95ac33e4f1a6ec67e16fe8074153665b3b0f55a"
 metafile = true
@@ -264,6 +255,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml.disabled"
 hash = "5d0871bb4dbf85c494447188feb58adb122c61f5f551a0239e6268d7c0327876"
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "e7d59ecd1a6d10dfae1f01741c6240833c54f12e48f44997d3ac7971918f3e63"
+metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -543,6 +539,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "d0e260d9c71cbb1a523ef7494ce61047b247b0ad963749ec7a956c861bd37f80"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "c66028d555a347562589645179fe8834bd04d48b78c9a667f20b4178211dfbb3"
 metafile = true
 
 [[files]]
