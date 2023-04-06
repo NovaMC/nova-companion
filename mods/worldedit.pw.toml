@@ -11,7 +11,3 @@ mode = "metadata:curseforge"
 [update.curseforge]
 file-id = 4445118
 project-id = 225608
-
-[option]
-optional = true
-description = "WorldEdit adds in-game map editor tools for you to build with. With selections, schematics, copy and paste, brushes, and scripting."

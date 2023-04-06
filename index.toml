@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "9fd477e1641d3e008b49089f7650e1023b8e0bbd7105231b60c8ebc7882906ad"
+hash = "5e259934dcbb1f7a3935e778a4614abf486b81d0da7ba4f11585d3784498b5c4"
 metafile = true
 
 [[files]]
@@ -204,11 +204,6 @@ hash = "96c16744178d0c92c77186d61f0bc1cf2c862457fc1de663659207b47d502584"
 metafile = true
 
 [[files]]
-file = "mods/cem.pw.toml"
-hash = "2393668f05c9062f95075532c112a18df9d328996a34ad527411540fc07a42b7"
-metafile = true
-
-[[files]]
 file = "mods/cit-resewn.pw.toml"
 hash = "eb6cb8a8cde5c16bfe3c1f14353f362bc857621a9703579ff9aac154c8c975e9"
 metafile = true
@@ -239,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "c1ae08a71c2d0c2a367db17dc3ab53cc43654bec83248385ce7fc01bc301ede3"
+hash = "bebb5f6431532e062cc3d98a11ab8de9def97ce33a6191b0b25ec383a3192a55"
 metafile = true
 
 [[files]]
@@ -265,6 +260,11 @@ metafile = true
 [[files]]
 file = "mods/ebe.pw.toml.disabled"
 hash = "5d0871bb4dbf85c494447188feb58adb122c61f5f551a0239e6268d7c0327876"
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "a62ddd02d238fe4bbb14d561cd4829a7c33690d997c23f4ebc2ed4def9d70e2c"
+metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
@@ -299,6 +299,11 @@ metafile = true
 [[files]]
 file = "mods/fastanim.pw.toml.disabled"
 hash = "40d436b019121f46d12fce617d1bcd85b74cfa41d057283e37ef352217dc40ae"
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "5907619c0a26d32e4b7b2f6de98eddeb192b523adfb6765dd73c3224e7be175b"
+metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
@@ -440,8 +445,9 @@ hash = "1afe5d10e148d3d727f70bfc065e0e65b9992bcd1904dcdc3f29c201a6d4dd15"
 metafile = true
 
 [[files]]
-file = "mods/plasmo-voice.pw.toml.disabled"
-hash = "48c4a1cd01e1bed309b50da8d2cabdbebdda595556c34cf512e1faeba94d4e70"
+file = "mods/plasmo-voice.pw.toml"
+hash = "875c6f9132077f1ee600e30c42b698be4496c38bda1ce6f966476a8559fd5382"
+metafile = true
 
 [[files]]
 file = "mods/puzzle.pw.toml"
@@ -450,12 +456,12 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "24ca6901df336de9e8d866ebbbc93f5563a13d52141ce934dd6293746003ea44"
+hash = "5aaf34155a390b73784f00cec835ccd81daa80ae458bd04a74a7397b0fc3ffc9"
 metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "1ea7d939f859d287b71a7b569aea28e51b010f029bbcd421745ec0819924812f"
+hash = "6292c66199c1804543d32d293463676649824880b6dcf754bed15cdeecf183da"
 metafile = true
 
 [[files]]
@@ -520,7 +526,7 @@ metafile = true
 
 [[files]]
 file = "mods/worldedit.pw.toml"
-hash = "d906559374350e15a8dfbb680717e7c175bef84e269e71c9229abd5191a70cad"
+hash = "768d27fe50b429d4389308f127df522c7eaf6c31d9cebb1aad06ba554b23e27f"
 metafile = true
 
 [[files]]
@@ -539,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "6e8a89639607fa2228b15c521d324e286850207ec29494c2655649d69b61e644"
+hash = "96a0c6997753cbc04207852157e0fd41d47dfbfd6aef9023125380518d8dd545"
 metafile = true
 
 [[files]]
