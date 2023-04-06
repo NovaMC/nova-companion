@@ -9,10 +9,6 @@ file = "config/c2me.toml"
 hash = "504e922e7a2224d629ae2c266456f5796f666b357eadab856736658a0869b1a2"
 
 [[files]]
-file = "config/cem.conf"
-hash = "a2b5f8259ee4c6bc633968bfb5ed70afeed86ebc1dd4173ae6473fee758ac466"
-
-[[files]]
 file = "config/dashloader.json"
 hash = "be084dc5c20e4d28566d6a2649d65b641b0b5ef81e314182641277f01444e0ea"
 
@@ -455,6 +451,11 @@ hash = "2ffa6237ed942f5734c20ba755ae86592004f977cb6e3e64c34ca19bd60690e2"
 metafile = true
 
 [[files]]
+file = "mods/pv-addon-soundphysics.pw.toml"
+hash = "08731cb636f9973a4994d092e0e8ddce407aec0e7c68e46d63b61ed26d8fe5ec"
+metafile = true
+
+[[files]]
 file = "mods/qkl.pw.toml"
 hash = "5aaf34155a390b73784f00cec835ccd81daa80ae458bd04a74a7397b0fc3ffc9"
 metafile = true
@@ -497,6 +498,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "36a6d12e8da11aebac447b034c7da979b5f3f66bfb68bb3861d4f1690d5299cc"
 metafile = true
 
 [[files]]
@@ -554,8 +560,18 @@ hash = "07238f3d55a66e24189755c35586a6685c757262ef34349eefbb7d20838e8318"
 metafile = true
 
 [[files]]
+file = "resourcepacks/default-dark-mode.pw.toml"
+hash = "d89de388af792c76c809da864b7b2dd4864e325a72d9bd655c85f3753d56047f"
+metafile = true
+
+[[files]]
 file = "resourcepacks/nova-loading-screen.zip"
 hash = "b7c29f44be856fe1e120eb3c6b5f05e02fb36f349e8048f0737ac944a53664e7"
+
+[[files]]
+file = "shaderpacks/bsl-shaders.pw.toml"
+hash = "6f796fa32047df2fba6fca47eb50b8547a82f80c0522c9d0822a43436d5d1f6b"
+metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
