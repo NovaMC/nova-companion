@@ -170,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "9b079e80a153e584da0321d4d02f6caeba2a37b6dc3e680d7048fffb8694cbc1"
+hash = "82468dd698e9c3a8fe14b8a6b47ffcff33f397eee4e98e9fab3fc7920e19eeb6"
 metafile = true
 
 [[files]]
@@ -443,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "18d76918568ec26ae47c04ee3d34773512d62c650473695e5001af58f9e37d00"
+hash = "33c4ed2acf8b0415ef4199d45a693fc8a12c5f153be9bf6fb308393e9703426b"
 metafile = true
 
 [[files]]
@@ -458,7 +458,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "df1c46a55cff70d84db75c4bea106caaf356959c6d0d3fcfd49eaf4940312e05"
+hash = "cb2a22e1862da7fff079006c8ea2baa7d1fad3d1da2ed1ad29c96aee0d342b0f"
 metafile = true
 
 [[files]]
