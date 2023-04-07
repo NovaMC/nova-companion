@@ -117,6 +117,10 @@ file = "config/yosbr/config/ok_zoomer/config.toml"
 hash = "18329aab4bf1886494b5170bca3fcda6dca0e98df97adc885078525fa0403fdd"
 
 [[files]]
+file = "config/yosbr/config/sound_physics_remastered/soundphysics.properties"
+hash = "692fd8a9616d75ab41d2c3381defdddbd7500a0de3cbcef279917512b324b78c"
+
+[[files]]
 file = "config/yosbr/config/uglyscoreboardfix.conf"
 hash = "a69c5cd63d6cd8431d16de2dbee7f4574007216538b4f373a4d18c8f12b8cc77"
 
