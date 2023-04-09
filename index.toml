@@ -416,8 +416,9 @@ hash = "b181531817e2f079d5ac74f78c410d7e978d18c111a81b38a29bb3809102291d"
 metafile = true
 
 [[files]]
-file = "mods/mouse-wheelie.pw.toml.disabled"
-hash = "716e25c293e87166f93ee9b4c847314072e5dcbc14ce711b44ddaf68ea6d4c71"
+file = "mods/mouse-tweaks.pw.toml"
+hash = "9c6b34118c4804127d1e71a7aa87464e231445ee1fc3f4f30f8e5901e89b57a7"
+metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
