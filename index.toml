@@ -189,9 +189,8 @@ hash = "9906b376e48ef932d7a06383f7f8ef10b0bcba3cf08fb7ad18f480f7ef1ae3ed"
 metafile = true
 
 [[files]]
-file = "mods/blur-fabric.pw.toml"
+file = "mods/blur-fabric.pw.toml.disabled"
 hash = "59d16216cbbc57c4225bcd7fb1242b1b91a4819b5b12c7412810066382dca444"
-metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
