@@ -267,7 +267,7 @@ hash = "5d0871bb4dbf85c494447188feb58adb122c61f5f551a0239e6268d7c0327876"
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "a62ddd02d238fe4bbb14d561cd4829a7c33690d997c23f4ebc2ed4def9d70e2c"
+hash = "90e948ebe0bb1255cad6afefc394f7b94dc26d05907c687a475c258bcd5e0b81"
 metafile = true
 
 [[files]]
@@ -536,7 +536,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "fe9f7e29e0dcd6171c85a343cf8a39974aab2bba3639c9b2343bd714172ff37c"
+hash = "d0162a1d0db1013809b9a12fb8200c8d8f3620ea40fb15692300170ef6f5f4fe"
 metafile = true
 
 [[files]]
