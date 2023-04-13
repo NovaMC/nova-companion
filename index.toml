@@ -257,7 +257,7 @@ hash = "5d0871bb4dbf85c494447188feb58adb122c61f5f551a0239e6268d7c0327876"
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "e7d59ecd1a6d10dfae1f01741c6240833c54f12e48f44997d3ac7971918f3e63"
+hash = "0d4bc9ff6ca1bb1024a0ead6d06df3f8dabed6fe5eed974bd94e3eac4c0f7b08"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d1592cce2fde95f73e257d48d7ee739542c1f6b641325bbadf092fd38c4f5cca"
+hash = "93255e83ba1978a3e41222593a935413bbbffd4a3014fa74739446ed66ce7f89"
 metafile = true
 
 [[files]]
@@ -532,12 +532,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "19f067ba3adcd824bd01ff71641d5e2da90b7ac401f2cd4186d963fac93e1b0f"
+hash = "48f553e706205cdaaaea7cf694558f20006d5553cf6a60d4bad80e25d306b63a"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "d0e260d9c71cbb1a523ef7494ce61047b247b0ad963749ec7a956c861bd37f80"
+hash = "739ffd1a618cae5ef283424477d9bf4d2ce071753fa501538091bf8049ee489c"
 metafile = true
 
 [[files]]
