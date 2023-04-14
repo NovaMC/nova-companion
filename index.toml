@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "96c16744178d0c92c77186d61f0bc1cf2c862457fc1de663659207b47d502584"
+hash = "41b1538266b53a82213608239fb211f941ffce8225d2189e07fc81f52e6bf2ab"
 metafile = true
 
 [[files]]
@@ -346,7 +346,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "60a78e25d2180c559f671bff385131be02a49d9c5a650b988995dbf3aaae6660"
+hash = "853c3c3509313aecaa5db6c01f6a94419ec0128ec7630b7bf8caf46e80dec67a"
 metafile = true
 
 [[files]]
@@ -466,7 +466,7 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "5aaf34155a390b73784f00cec835ccd81daa80ae458bd04a74a7397b0fc3ffc9"
+hash = "977fa64f69701ba5617640bf048abc10257ed00ddba615ceca1b52e65e118c2f"
 metafile = true
 
 [[files]]
