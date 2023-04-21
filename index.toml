@@ -89,10 +89,6 @@ file = "config/yosbr/config/PlasmoVoice/config.json"
 hash = "54a32a5b904d521e28d75011587b84fc88fc812968a909dd27bc47938cd63d50"
 
 [[files]]
-file = "config/yosbr/config/SkipTransitions.properties"
-hash = "65c60525a8520ef94fb060b187bc73dd57128c77d865d5e417538823eb97c679"
-
-[[files]]
 file = "config/yosbr/config/appleskin.json5"
 hash = "4afa14cd5bb9c084d76a161ecc03e62742249c0f395e67f5a8c55e38f0399de4"
 
@@ -204,7 +200,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "41b1538266b53a82213608239fb211f941ffce8225d2189e07fc81f52e6bf2ab"
+hash = "ca6df0be6bc0e539a6f602b05ad63af75055d77dcd3b89fbe2f48ec3840593c5"
 metafile = true
 
 [[files]]
@@ -238,7 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "bebb5f6431532e062cc3d98a11ab8de9def97ce33a6191b0b25ec383a3192a55"
+hash = "8f4cf574a02b3ce59ea80f034567f9447b41216c86e5d70102a465582414615b"
 metafile = true
 
 [[files]]
@@ -267,7 +263,7 @@ hash = "5d0871bb4dbf85c494447188feb58adb122c61f5f551a0239e6268d7c0327876"
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "90e948ebe0bb1255cad6afefc394f7b94dc26d05907c687a475c258bcd5e0b81"
+hash = "f5f143b93b2dc9b06133c179a698248dc6ff129e4313e84ba4d1c3bd5b422481"
 metafile = true
 
 [[files]]
@@ -316,7 +312,7 @@ metafile = true
 
 [[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
-hash = "7162f2aedf1a05a96f3f6f4ac62d0041e7642baf985f6e7ca9c6afb6751161de"
+hash = "500eecde554bc377218c8cc61058602364e6869b01df7a22d4e96b829f8280eb"
 metafile = true
 
 [[files]]
@@ -406,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "9966fa77d57235f7460b84632e7b89188b2944787f23214f87a10908f5aed867"
+hash = "b8637d34d5e142b7de5ff0ffdcefc664ec322ea0528a251bfbc3d99e1c8986e9"
 metafile = true
 
 [[files]]
@@ -471,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "6292c66199c1804543d32d293463676649824880b6dcf754bed15cdeecf183da"
+hash = "6d2577e852bb1d66dea778233a3d2bd2bf06b4eeb70164c774bb93546211de42"
 metafile = true
 
 [[files]]
@@ -487,11 +483,6 @@ metafile = true
 [[files]]
 file = "mods/simple-discord-rpc.pw.toml"
 hash = "4954d4d07986e32826318e2e1574797c4255d2e63cf1ee821c8855387f33a5b6"
-metafile = true
-
-[[files]]
-file = "mods/skip-transitions.pw.toml"
-hash = "2fa2a85756bccff04668147d557e77394a583604ab2eae258311cff9e0864512"
 metafile = true
 
 [[files]]
@@ -536,7 +527,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "d0162a1d0db1013809b9a12fb8200c8d8f3620ea40fb15692300170ef6f5f4fe"
+hash = "159c198e47dcba5baed533877c1769b16d7742c063a282fecf5cbdb6cb41d2dc"
 metafile = true
 
 [[files]]
@@ -545,22 +536,23 @@ hash = "768d27fe50b429d4389308f127df522c7eaf6c31d9cebb1aad06ba554b23e27f"
 metafile = true
 
 [[files]]
-file = "mods/worldeditcui-fabric.pw.toml.disabled"
-hash = "a5eb70f62bba4b7e449d7ac5492dd28913075983842d3fbafe896a522ea91ed2"
+file = "mods/worldeditcui-fabric.pw.toml"
+hash = "b5a181641000a6cddf38ad25d4b8b8a3c8380355d016e57c19d6124ff0cb8f16"
+metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "06f04a27fb0e813107169b086b9b8e65d808716865a14815261cd87b08a28e47"
+hash = "9d39568bc842bea0189c07585978c9508c25c59778355b53304b068ec8a7eace"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "a3c35d6ef599465b0434de4443e30a062f54d022754caef38968100fbb762b60"
+hash = "f5c397469ea2e025c2eac026389dc7d694ecfdc2a9e142de9d961fb4831d8021"
 metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "96a0c6997753cbc04207852157e0fd41d47dfbfd6aef9023125380518d8dd545"
+hash = "e2814612cc9e6af024bd0590ab0500e55595c8ed78e758515fdbfa7cb6185502"
 metafile = true
 
 [[files]]
