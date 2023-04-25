@@ -9,10 +9,6 @@ file = "config/c2me.toml"
 hash = "504e922e7a2224d629ae2c266456f5796f666b357eadab856736658a0869b1a2"
 
 [[files]]
-file = "config/cem.conf"
-hash = "a2b5f8259ee4c6bc633968bfb5ed70afeed86ebc1dd4173ae6473fee758ac466"
-
-[[files]]
 file = "config/dashloader.json"
 hash = "be084dc5c20e4d28566d6a2649d65b641b0b5ef81e314182641277f01444e0ea"
 
@@ -93,10 +89,6 @@ file = "config/yosbr/config/PlasmoVoice/client.toml"
 hash = "257e7b89554d8810329368938745ebe18700c4e66e4b0156c3cab1ef93781a13"
 
 [[files]]
-file = "config/yosbr/config/SkipTransitions.properties"
-hash = "65c60525a8520ef94fb060b187bc73dd57128c77d865d5e417538823eb97c679"
-
-[[files]]
 file = "config/yosbr/config/appleskin.json5"
 hash = "4afa14cd5bb9c084d76a161ecc03e62742249c0f395e67f5a8c55e38f0399de4"
 
@@ -174,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "9b079e80a153e584da0321d4d02f6caeba2a37b6dc3e680d7048fffb8694cbc1"
+hash = "82468dd698e9c3a8fe14b8a6b47ffcff33f397eee4e98e9fab3fc7920e19eeb6"
 metafile = true
 
 [[files]]
@@ -193,9 +185,8 @@ hash = "9906b376e48ef932d7a06383f7f8ef10b0bcba3cf08fb7ad18f480f7ef1ae3ed"
 metafile = true
 
 [[files]]
-file = "mods/blur-fabric.pw.toml"
+file = "mods/blur-fabric.pw.toml.disabled"
 hash = "59d16216cbbc57c4225bcd7fb1242b1b91a4819b5b12c7412810066382dca444"
-metafile = true
 
 [[files]]
 file = "mods/borderless-mining.pw.toml"
@@ -205,11 +196,6 @@ metafile = true
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "515beebd75128f52f7ba2db1e9f129ca51080039337d33d647a64f237dd4ddab"
-metafile = true
-
-[[files]]
-file = "mods/cem.pw.toml"
-hash = "4830a70a299bd27667a9cc64637364a65eb876175153a076c8da9398e9be89ff"
 metafile = true
 
 [[files]]
@@ -266,13 +252,18 @@ file = "mods/ebe.pw.toml.disabled"
 hash = "5d0871bb4dbf85c494447188feb58adb122c61f5f551a0239e6268d7c0327876"
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "78b4265cb588c34e3f144857d011413dd54953d8301bf911fe31dc0a37e5024a"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "beaf8fcc2dbc9098a414bedd5a8ca156084b39f20517fac2ff60ad57f5767202"
 metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "b9e92b5e0baed5a916779ef0016172d2d42ea310d9742744a8c920ecee4d7b9a"
+hash = "3ddb12a19403eb453fda1c23fd5124b0451db66eb6bf56a6b8b396b6f5fe17a4"
 metafile = true
 
 [[files]]
@@ -301,13 +292,18 @@ hash = "40d436b019121f46d12fce617d1bcd85b74cfa41d057283e37ef352217dc40ae"
 metafile = true
 
 [[files]]
+file = "mods/fastquit.pw.toml"
+hash = "5907619c0a26d32e4b7b2f6de98eddeb192b523adfb6765dd73c3224e7be175b"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4c1b893d87c51588985c483fe33193ca03cf3673de998eef6eeb850d8928e7ab"
 metafile = true
 
 [[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
-hash = "7162f2aedf1a05a96f3f6f4ac62d0041e7642baf985f6e7ca9c6afb6751161de"
+hash = "500eecde554bc377218c8cc61058602364e6869b01df7a22d4e96b829f8280eb"
 metafile = true
 
 [[files]]
@@ -322,7 +318,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "d1592cce2fde95f73e257d48d7ee739542c1f6b641325bbadf092fd38c4f5cca"
+hash = "93255e83ba1978a3e41222593a935413bbbffd4a3014fa74739446ed66ce7f89"
 metafile = true
 
 [[files]]
@@ -416,8 +412,8 @@ hash = "0ac90dcc33473b316b975601f5c69f172e9babae174e7c85ec24281e31903934"
 metafile = true
 
 [[files]]
-file = "mods/mouse-wheelie.pw.toml"
-hash = "716e25c293e87166f93ee9b4c847314072e5dcbc14ce711b44ddaf68ea6d4c71"
+file = "mods/mouse-tweaks.pw.toml"
+hash = "4697f8eec2f5a8a6a3aca65ebad0cac1f6c6a29b4c0433e489d98985854731c5"
 metafile = true
 
 [[files]]
@@ -447,7 +443,7 @@ metafile = true
 
 [[files]]
 file = "mods/plasmo-voice.pw.toml"
-hash = "3e8517563475416d7580877a472b8af7423ab6f0f3e49a6fcd015eb9fcd085bd"
+hash = "33c4ed2acf8b0415ef4199d45a693fc8a12c5f153be9bf6fb308393e9703426b"
 metafile = true
 
 [[files]]
@@ -462,7 +458,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "df1c46a55cff70d84db75c4bea106caaf356959c6d0d3fcfd49eaf4940312e05"
+hash = "cb2a22e1862da7fff079006c8ea2baa7d1fad3d1da2ed1ad29c96aee0d342b0f"
 metafile = true
 
 [[files]]
@@ -502,7 +498,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "50c06afeef4a0f87ce306a734f3a26f48a0e346bd6a42b3fb967d3ee62b65894"
+hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
 metafile = true
 
 [[files]]
@@ -537,12 +533,17 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "19f067ba3adcd824bd01ff71641d5e2da90b7ac401f2cd4186d963fac93e1b0f"
+hash = "9696e127bfb6ff95b57317a8331b9f1e2af7d914670a12e48572e36b15284551"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "d0e260d9c71cbb1a523ef7494ce61047b247b0ad963749ec7a956c861bd37f80"
+hash = "54c73533348598fb7b10b4471270c9c7837323b7b9f78c9af95dd9c5ebbcaad0"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "c66028d555a347562589645179fe8834bd04d48b78c9a667f20b4178211dfbb3"
 metafile = true
 
 [[files]]
@@ -556,7 +557,7 @@ hash = "29ffcc46252fef99437a653921b01dad30a62b1fb4bb41cd70f05611eef37201"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "e4cd5bef21a8dc78fd3370ca7b7bd364c7df8e196ec076bfff87ef570bffb64e"
+hash = "6610547224f85161e6ba49aaadfe882e058f2d3851dcef3b77ae9df1314f3dae"
 metafile = true
 
 [[files]]
