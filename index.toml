@@ -89,10 +89,6 @@ file = "config/yosbr/config/PlasmoVoice/client.toml"
 hash = "257e7b89554d8810329368938745ebe18700c4e66e4b0156c3cab1ef93781a13"
 
 [[files]]
-file = "config/yosbr/config/SkipTransitions.properties"
-hash = "65c60525a8520ef94fb060b187bc73dd57128c77d865d5e417538823eb97c679"
-
-[[files]]
 file = "config/yosbr/config/appleskin.json5"
 hash = "4afa14cd5bb9c084d76a161ecc03e62742249c0f395e67f5a8c55e38f0399de4"
 
@@ -296,6 +292,11 @@ hash = "40d436b019121f46d12fce617d1bcd85b74cfa41d057283e37ef352217dc40ae"
 metafile = true
 
 [[files]]
+file = "mods/fastquit.pw.toml"
+hash = "5907619c0a26d32e4b7b2f6de98eddeb192b523adfb6765dd73c3224e7be175b"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4c1b893d87c51588985c483fe33193ca03cf3673de998eef6eeb850d8928e7ab"
 metafile = true
@@ -411,8 +412,8 @@ hash = "0ac90dcc33473b316b975601f5c69f172e9babae174e7c85ec24281e31903934"
 metafile = true
 
 [[files]]
-file = "mods/mouse-wheelie.pw.toml"
-hash = "716e25c293e87166f93ee9b4c847314072e5dcbc14ce711b44ddaf68ea6d4c71"
+file = "mods/mouse-tweaks.pw.toml"
+hash = "4697f8eec2f5a8a6a3aca65ebad0cac1f6c6a29b4c0433e489d98985854731c5"
 metafile = true
 
 [[files]]
