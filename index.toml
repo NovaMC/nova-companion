@@ -257,7 +257,7 @@ hash = "5d0871bb4dbf85c494447188feb58adb122c61f5f551a0239e6268d7c0327876"
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "0d4bc9ff6ca1bb1024a0ead6d06df3f8dabed6fe5eed974bd94e3eac4c0f7b08"
+hash = "78b4265cb588c34e3f144857d011413dd54953d8301bf911fe31dc0a37e5024a"
 metafile = true
 
 [[files]]
@@ -267,7 +267,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "b9e92b5e0baed5a916779ef0016172d2d42ea310d9742744a8c920ecee4d7b9a"
+hash = "3ddb12a19403eb453fda1c23fd5124b0451db66eb6bf56a6b8b396b6f5fe17a4"
 metafile = true
 
 [[files]]
@@ -302,7 +302,7 @@ metafile = true
 
 [[files]]
 file = "mods/forcecloseworldloadingscreen.pw.toml"
-hash = "7162f2aedf1a05a96f3f6f4ac62d0041e7642baf985f6e7ca9c6afb6751161de"
+hash = "500eecde554bc377218c8cc61058602364e6869b01df7a22d4e96b829f8280eb"
 metafile = true
 
 [[files]]
@@ -497,7 +497,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "50c06afeef4a0f87ce306a734f3a26f48a0e346bd6a42b3fb967d3ee62b65894"
+hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
 metafile = true
 
 [[files]]
@@ -532,12 +532,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "48f553e706205cdaaaea7cf694558f20006d5553cf6a60d4bad80e25d306b63a"
+hash = "9696e127bfb6ff95b57317a8331b9f1e2af7d914670a12e48572e36b15284551"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "739ffd1a618cae5ef283424477d9bf4d2ce071753fa501538091bf8049ee489c"
+hash = "54c73533348598fb7b10b4471270c9c7837323b7b9f78c9af95dd9c5ebbcaad0"
 metafile = true
 
 [[files]]
@@ -556,7 +556,7 @@ hash = "29ffcc46252fef99437a653921b01dad30a62b1fb4bb41cd70f05611eef37201"
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "e4cd5bef21a8dc78fd3370ca7b7bd364c7df8e196ec076bfff87ef570bffb64e"
+hash = "6610547224f85161e6ba49aaadfe882e058f2d3851dcef3b77ae9df1314f3dae"
 metafile = true
 
 [[files]]
