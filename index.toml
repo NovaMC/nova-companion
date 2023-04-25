@@ -263,7 +263,7 @@ hash = "5d0871bb4dbf85c494447188feb58adb122c61f5f551a0239e6268d7c0327876"
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "3eb9dc5713bd1208fb710dc134c50d7bc4217c2128f4f91abe9a08a0a660c5c9"
+hash = "26834b11c830470d89632e3a8d1c0aea786aa4f1e03aabf99cfb4161f3c097bb"
 metafile = true
 
 [[files]]
