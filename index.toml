@@ -263,7 +263,7 @@ hash = "5d0871bb4dbf85c494447188feb58adb122c61f5f551a0239e6268d7c0327876"
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "f5f143b93b2dc9b06133c179a698248dc6ff129e4313e84ba4d1c3bd5b422481"
+hash = "3eb9dc5713bd1208fb710dc134c50d7bc4217c2128f4f91abe9a08a0a660c5c9"
 metafile = true
 
 [[files]]
@@ -273,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "49576a9f64054a932e5bfe6cbe897ce03f556f5a8c5bb79e06795bfa65798253"
+hash = "f2aabdd214e4e6f5694480372d0d864e7a22f9f683a215faf018836fc1f2bcd9"
 metafile = true
 
 [[files]]
@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "6d2577e852bb1d66dea778233a3d2bd2bf06b4eeb70164c774bb93546211de42"
+hash = "8c28ecae535d37d7af5e87561ad5e2658a4c2ab424c98cf41ab4eab07abf031e"
 metafile = true
 
 [[files]]
@@ -507,7 +507,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "50c06afeef4a0f87ce306a734f3a26f48a0e346bd6a42b3fb967d3ee62b65894"
+hash = "245599aeee8c2497af5588bcf1430a2753c9cd4827b7c8891dfbe9c578405038"
 metafile = true
 
 [[files]]
@@ -571,12 +571,12 @@ hash = "b7c29f44be856fe1e120eb3c6b5f05e02fb36f349e8048f0737ac944a53664e7"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "6f796fa32047df2fba6fca47eb50b8547a82f80c0522c9d0822a43436d5d1f6b"
+hash = "eb58e87100f2c3119960a4fb3d7c145d0c8f7b9b10e84185b48fdb88fb15d0dc"
 metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "e4cd5bef21a8dc78fd3370ca7b7bd364c7df8e196ec076bfff87ef570bffb64e"
+hash = "6610547224f85161e6ba49aaadfe882e058f2d3851dcef3b77ae9df1314f3dae"
 metafile = true
 
 [[files]]
