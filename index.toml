@@ -179,9 +179,8 @@ hash = "021a7812990beadf40cdbdac977f244c9a6888b7bf03fd822371ec472e6f0d9c"
 metafile = true
 
 [[files]]
-file = "mods/better-biome-blend.pw.toml"
+file = "mods/better-biome-blend.pw.toml.disabled"
 hash = "aeaefb6089a1cf7635b3722aabdda71baea6e0e72547ca3bb7726400ae5b93cd"
-metafile = true
 
 [[files]]
 file = "mods/blanket.pw.toml"
