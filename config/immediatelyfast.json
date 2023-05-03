@@ -1,0 +1,5 @@
+{
+  "dont_add_info_into_debug_hud": true,
+  "experimental_item_hud_batching": true,
+  "experimental_disable_error_checking": true
+}

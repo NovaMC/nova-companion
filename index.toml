@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/borderlessmining.json"
-hash = "134ee1728fb8ecfa9956f4b81fc095f3a154198c2a744126604a25f277a8917a"
-
-[[files]]
 file = "config/c2me.toml"
 hash = "504e922e7a2224d629ae2c266456f5796f666b357eadab856736658a0869b1a2"
 
@@ -33,6 +29,10 @@ file = "config/ferritecore.mixin.properties"
 hash = "1e0ba1e744212f481d857e2c864104eb8853a825f6557874b739763e208f7e59"
 
 [[files]]
+file = "config/immediatelyfast.json"
+hash = "c1dec9da4a54a543f3cacc7794b5888f859b7e20a78c8893bad708b18d5e77a2"
+
+[[files]]
 file = "config/isxander-main-menu-credits.json"
 hash = "ba80e0a7f887029f475369bd63cb4384f6a22b22c0157149907e9b3e3abb692a"
 
@@ -58,7 +58,7 @@ hash = "76563394a07382a8cf114cde770613dea2dfdf74262fcafe0bec3a520358e81f"
 
 [[files]]
 file = "config/sodium-options.json"
-hash = "2669163f03a33949dda8c0a236699ae0df365ffe3a73670a0bfaea74e89307c2"
+hash = "131d74b1b4e502a35d0a718080494f1d64358b37fce39ef37fb4ad2b289265bf"
 
 [[files]]
 file = "config/tr7zwDonorSettings.json"
@@ -91,6 +91,10 @@ hash = "54a32a5b904d521e28d75011587b84fc88fc812968a909dd27bc47938cd63d50"
 [[files]]
 file = "config/yosbr/config/appleskin.json5"
 hash = "4afa14cd5bb9c084d76a161ecc03e62742249c0f395e67f5a8c55e38f0399de4"
+
+[[files]]
+file = "config/yosbr/config/borderlessmining.json"
+hash = "134ee1728fb8ecfa9956f4b81fc095f3a154198c2a744126604a25f277a8917a"
 
 [[files]]
 file = "config/yosbr/config/clickthrough.json"
@@ -142,7 +146,7 @@ hash = "ac17186c0554875ffbc5fe097465bb1bf53eef5ec28de66b34e17fa215beaa0e"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "8a7eeb93dbcd1ac033bc01d659cfabb31578bb423837ad78d31735e7598fbdf2"
+hash = "c7ee4e93d675c56f4a64c61585acbbc1ff5f5890943f4d66bb1dfd26e32b698a"
 
 [[files]]
 file = "config/yosbr/servers.dat"
