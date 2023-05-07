@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "5e259934dcbb1f7a3935e778a4614abf486b81d0da7ba4f11585d3784498b5c4"
+hash = "35376c39a7cb3dba90ba6263b0f5d94fe3cc5112650dd204d157ab4baf19152a"
 metafile = true
 
 [[files]]
@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "8f4cf574a02b3ce59ea80f034567f9447b41216c86e5d70102a465582414615b"
+hash = "aca86ec8af1e3fd5e52aac904f7d5145113ae0f792b6f55778ea44341902d93b"
 metafile = true
 
 [[files]]
@@ -530,7 +530,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "159c198e47dcba5baed533877c1769b16d7742c063a282fecf5cbdb6cb41d2dc"
+hash = "3903f6b40505cbc55d889b61101974d3709f18b403229bf4068b186ad5b7869a"
 metafile = true
 
 [[files]]
@@ -555,7 +555,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "d731cf839a0288e0393caffbd95d6fda78006a71054be16ac0cb22fe59a889f3"
+hash = "e6324b15f0cc3ac114be6f389643bb11ff410f401299037ec4703fc1bc35961a"
 metafile = true
 
 [[files]]
@@ -574,7 +574,7 @@ hash = "b7c29f44be856fe1e120eb3c6b5f05e02fb36f349e8048f0737ac944a53664e7"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "eb58e87100f2c3119960a4fb3d7c145d0c8f7b9b10e84185b48fdb88fb15d0dc"
+hash = "eb5d07ac1370825eaa1a35eea0b9fa53bf89f7716f7eb62b626effca4f5817b1"
 metafile = true
 
 [[files]]
