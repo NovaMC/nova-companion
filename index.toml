@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "aca86ec8af1e3fd5e52aac904f7d5145113ae0f792b6f55778ea44341902d93b"
+hash = "f7cd5b8dc67e95c0487feb346c798b125e16cbde30b3718e931990c17f51a1ba"
 metafile = true
 
 [[files]]
@@ -266,7 +266,7 @@ hash = "5d0871bb4dbf85c494447188feb58adb122c61f5f551a0239e6268d7c0327876"
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "26834b11c830470d89632e3a8d1c0aea786aa4f1e03aabf99cfb4161f3c097bb"
+hash = "dbc9321c870e69e867837cbad4f0c1dcf45c3c27d2ee230f6a6868cde2f9daab"
 metafile = true
 
 [[files]]
@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "f2aabdd214e4e6f5694480372d0d864e7a22f9f683a215faf018836fc1f2bcd9"
+hash = "416fdc912dd2bbc125eaaa322e5cc3536aaf341264caceebf1ee129df48b9c77"
 metafile = true
 
 [[files]]
@@ -335,7 +335,7 @@ metafile = true
 
 [[files]]
 file = "mods/indium.pw.toml"
-hash = "a356ad8ad58bde97ae3c9c976a56b3e5d6df55f492a2f2a61db8450738fc3e7c"
+hash = "79317bd0768bd7d84ccd9f22db1e56d4a4e8e3c351e3192f719816abfaed1b85"
 metafile = true
 
 [[files]]
@@ -345,7 +345,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "348131a334da655904b65a1acde31161e2791729904b86b5596714584cc6929d"
+hash = "6c6e0bcb90802217634be01c864499b11b6061295bfe3731fe42d7994d3fb063"
 metafile = true
 
 [[files]]
@@ -500,12 +500,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "942e9738be0c83d196cd7cee9a3e93b9184faff7882d83e3d52ec66912ac07eb"
+hash = "74942b197e40ee1a4852751088b911b7ef4b9dd4191c3029896464924a8d8272"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "36a6d12e8da11aebac447b034c7da979b5f3f66bfb68bb3861d4f1690d5299cc"
+hash = "a812f6f6adb0f41b2f7ecfb6d3e2ef85ad8ccafdae5969693aff11c5b160f778"
 metafile = true
 
 [[files]]
@@ -545,7 +545,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "9d39568bc842bea0189c07585978c9508c25c59778355b53304b068ec8a7eace"
+hash = "bcb16954a5ce3ce14a6f2bb0bb363fcb0e182c5f58d504c49e81dd8063b32ed0"
 metafile = true
 
 [[files]]
