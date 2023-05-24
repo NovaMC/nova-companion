@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/controlify.pw.toml"
-hash = "f7cd5b8dc67e95c0487feb346c798b125e16cbde30b3718e931990c17f51a1ba"
+hash = "c5582efdd851e697d7ea30eb67dce6e49fe436046062f35f32dae95ea6e9b1a1"
 metafile = true
 
 [[files]]
@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "c947125039216bc6763671c675dc37b58b14ef2ee7a34270ec66ffb9c11afd8d"
+hash = "87adb226c6e9c480155c0205bb0e6646bb85f5be16413bc555358df43bf41995"
 metafile = true
 
 [[files]]
@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "1afe5d10e148d3d727f70bfc065e0e65b9992bcd1904dcdc3f29c201a6d4dd15"
+hash = "8e01ebbfc62934c94989b5321c2ca1b0ca99febca5fa925bdb5eba089ce027b5"
 metafile = true
 
 [[files]]
@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "75e1f1ac5f39858a8e08e381736c477e109dc9288c786c81c7198de911e66c7c"
+hash = "c9602cdcfc5d086068a05002db82c896514ed5fb77deae2596c626b50de060ad"
 metafile = true
 
 [[files]]
@@ -495,7 +495,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium-extra.pw.toml"
-hash = "637533a15bb4eb5aaaab5a8fdc352214732202def3beedcd91a4e4e614a74f2a"
+hash = "c1f6ffc26b8db5010feeb6ac48ebb391ae4e3cd4496db3f287c0978b593e53a7"
 metafile = true
 
 [[files]]
@@ -545,12 +545,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "bcb16954a5ce3ce14a6f2bb0bb363fcb0e182c5f58d504c49e81dd8063b32ed0"
+hash = "149d031e1f956ccb530cbb0ed4e183f783ea93c70d50b8c693ebb8f63e9229c3"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "f5c397469ea2e025c2eac026389dc7d694ecfdc2a9e142de9d961fb4831d8021"
+hash = "ca6352d16a2e89248f51a41a7742c206ce04229cfb42f4e5f0bfe6a7081a4c48"
 metafile = true
 
 [[files]]
