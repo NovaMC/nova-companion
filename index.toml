@@ -236,9 +236,8 @@ hash = "4cb02206331c9a6d207681b2e40b4b8648a462b0c31e6e634200a01b592b1d3d"
 metafile = true
 
 [[files]]
-file = "mods/controlify.pw.toml"
+file = "mods/controlify.pw.toml.disabled"
 hash = "c5582efdd851e697d7ea30eb67dce6e49fe436046062f35f32dae95ea6e9b1a1"
-metafile = true
 
 [[files]]
 file = "mods/dashloader.pw.toml"
@@ -300,8 +299,9 @@ hash = "ccdb16fd2564c82cbb0db92b3963c772928bc2dfd6ed693313416e66f4ffd6ca"
 metafile = true
 
 [[files]]
-file = "mods/fastanim.pw.toml.disabled"
-hash = "40d436b019121f46d12fce617d1bcd85b74cfa41d057283e37ef352217dc40ae"
+file = "mods/fastanim.pw.toml"
+hash = "98ae29e9a432913cc5a8d64f8026657b0fbac1fbaba584fd88155e6c7b5abdce"
+metafile = true
 
 [[files]]
 file = "mods/fastquit.pw.toml"
@@ -389,9 +389,8 @@ hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
 metafile = true
 
 [[files]]
-file = "mods/memoryleakfix.pw.toml"
+file = "mods/memoryleakfix.pw.toml.disabled"
 hash = "4ce761e594c255a802bd4b0b4b6312e740130b17d77764c389cef4c8417ae8af"
-metafile = true
 
 [[files]]
 file = "mods/mixintrace.pw.toml"
