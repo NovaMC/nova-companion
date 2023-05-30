@@ -174,7 +174,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "35376c39a7cb3dba90ba6263b0f5d94fe3cc5112650dd204d157ab4baf19152a"
+hash = "6b76641118d0d86d838f5eb45f333d636e12e930598b857973e4b57b7a374e9b"
 metafile = true
 
 [[files]]
@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/c2me-fabric.pw.toml"
-hash = "ca6df0be6bc0e539a6f602b05ad63af75055d77dcd3b89fbe2f48ec3840593c5"
+hash = "b00552f0f0a2103f6c377b9daf59f6471245b8e0be739172077a3501df0c8883"
 metafile = true
 
 [[files]]
@@ -242,7 +242,7 @@ metafile = true
 
 [[files]]
 file = "mods/dashloader.pw.toml"
-hash = "28cbffe5553d1fe781181253ea86dd0be408d1cab84a7df45cf2c5003f01c381"
+hash = "9268f1b067b6e83d6b11597db423c80b7b5af75d0828165f827aa0ace83ed8ae"
 metafile = true
 
 [[files]]
@@ -281,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/exordium.pw.toml"
-hash = "f974bd1b21f7b3c9046c4ccaeb8ed1cbd36df72b080c5deff86f8d7f5774ce07"
+hash = "9fca594c786bbfbc6951a5e1cca87e701f0c7760ef93903a76740c9a0e19638f"
 metafile = true
 
 [[files]]
@@ -445,7 +445,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "8e01ebbfc62934c94989b5321c2ca1b0ca99febca5fa925bdb5eba089ce027b5"
+hash = "bef4d6ae3e73b65d223e78ba62282435cb273b306ef1e8660c28745fcc0b500c"
 metafile = true
 
 [[files]]
@@ -470,7 +470,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "c9602cdcfc5d086068a05002db82c896514ed5fb77deae2596c626b50de060ad"
+hash = "8224952d86102642b862431ffc809692b859118102521d40f63f5120b69659c1"
 metafile = true
 
 [[files]]
@@ -545,12 +545,12 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "149d031e1f956ccb530cbb0ed4e183f783ea93c70d50b8c693ebb8f63e9229c3"
+hash = "28c85d151ec3fe1b25df39aee5f588277587d33a9ab33e0e343e257ffe77c9b3"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "ca6352d16a2e89248f51a41a7742c206ce04229cfb42f4e5f0bfe6a7081a4c48"
+hash = "c1c5a6c41ec6223e98a30cda0ba9857ebfc28067240daa34e1ed664e6bb864df"
 metafile = true
 
 [[files]]
