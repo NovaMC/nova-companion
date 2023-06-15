@@ -21,12 +21,20 @@ file = "config/immediatelyfast.json"
 hash = "ba85eec97732b2668456e95c8feee0db7d8d0ddcab8baeb0b5becc58c4ffc8a1"
 
 [[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "ba80e0a7f887029f475369bd63cb4384f6a22b22c0157149907e9b3e3abb692a"
+
+[[files]]
 file = "config/modernfix-mixins.properties"
 hash = "8f9e8634eab3d991c0034dc083f6da9c77556a889f5dcbdf9fab8a8f60f33e6c"
 
 [[files]]
 file = "config/modmenu.json"
 hash = "c7cce8445d5bb1ca51dbabb183abab303f98f9c3cdac19c8727b43b867dc3355"
+
+[[files]]
+file = "config/simple-rpc/simple-rpc.toml"
+hash = "4ba8dbbcc02dbcb7ede42d84c57175143ce2120285f0c9358d5f7e9bb94f7145"
 
 [[files]]
 file = "config/vmp.properties"
@@ -58,11 +66,19 @@ hash = "e1a1141c09475557b6c06d215cbf29979fbbe9f984d918fe1d86e7df368a46fd"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "12a3f1c0dd2a8d606864c7aa4fe4aab5ddf7a854918e2641d7dbb89ecc134217"
+hash = "99b4fb9e1b44a491750a174adc67bf27df5c419d85e3f5bb2e5507b104ae697e"
 
 [[files]]
 file = "config/yosbr/config/visuality.json"
 hash = "2e8f129ebdd1b68e8c0d2143ea6bbc8a35ed2564cb9e1c99a682310309c42e03"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "9ca67becdcb0b00186a8ea2744c8e16a9f144efaa714179d4572530551454a6a"
+
+[[files]]
+file = "config/yosbr/servers.dat"
+hash = "aa6d83683836879fcc42e19df58107c3286ab62c17a96e0a7b6bc1694964aaa4"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -97,6 +113,11 @@ metafile = true
 [[files]]
 file = "mods/continuity.pw.toml"
 hash = "8e73f68cbcbff53b6a00c30f371fc34a63c2ac2240af4792008d67dce74fb507"
+metafile = true
+
+[[files]]
+file = "mods/craterlib.pw.toml"
+hash = "23d2c83abcf601d56fa8a500660d8d512192a5a038468492037ec1025ba08b78"
 metafile = true
 
 [[files]]
@@ -185,6 +206,11 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "2a79f7fb98b7073c926c6f87a93473f5714cf82a2ace7f344e4e2de4a33e0233"
+metafile = true
+
+[[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "40174cb777a6d12ba73a4caa5bbf961fc89785413bb78369101624c635b4c378"
 metafile = true
@@ -270,6 +296,11 @@ hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
 metafile = true
 
 [[files]]
+file = "mods/simple-discord-rpc.pw.toml"
+hash = "528cfa4ab8def3ed78b472ac38da0553d546c44eb9713fb6f21ed46be61f5993"
+metafile = true
+
+[[files]]
 file = "mods/smooth-swapping.pw.toml"
 hash = "5a523fb19287c6ce690ed0b7986e07e7002b878d980204226c3cde04e85baa77"
 metafile = true
@@ -316,7 +347,7 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/nova-loading-screen.zip"
-hash = "b7c29f44be856fe1e120eb3c6b5f05e02fb36f349e8048f0737ac944a53664e7"
+hash = "3acdb3dff2155650b2de0ee6ec213f413c5f1d1b21b5813b50f652fa6ad4027b"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
