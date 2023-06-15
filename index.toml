@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/NoChatReports/NCR-Client.json"
+hash = "07b0432771c35ceef152aef59afc486e48661161027f84c2a34e2c62d11fb6bf"
+
+[[files]]
+file = "config/NoChatReports/NCR-Encryption.json"
+hash = "56e38e1d6039cbcf32c68416b60be42a4f5f3006c3caf50eb1eae1fc03580e86"
+
+[[files]]
 file = "config/entityculling.json"
 hash = "2d5d49de057ad06de761409c5010137c12a9956befd5012127e211bf8e025656"
 
@@ -13,12 +21,20 @@ file = "config/immediatelyfast.json"
 hash = "ba85eec97732b2668456e95c8feee0db7d8d0ddcab8baeb0b5becc58c4ffc8a1"
 
 [[files]]
+file = "config/modernfix-mixins.properties"
+hash = "8f9e8634eab3d991c0034dc083f6da9c77556a889f5dcbdf9fab8a8f60f33e6c"
+
+[[files]]
 file = "config/modmenu.json"
 hash = "c7cce8445d5bb1ca51dbabb183abab303f98f9c3cdac19c8727b43b867dc3355"
 
 [[files]]
 file = "config/vmp.properties"
 hash = "2dda13aceb5b8f515e7ca0a3bdf29ff190c6f0dd947f34f21b14c05b16be0830"
+
+[[files]]
+file = "config/yosbr/config/appleskin.json5"
+hash = "1201949941fc2a52be840439b67c97cece4da376b117c6afd4a81a9d0f60865a"
 
 [[files]]
 file = "config/yosbr/config/dynamicfps.toml"
@@ -43,6 +59,16 @@ hash = "12a3f1c0dd2a8d606864c7aa4fe4aab5ddf7a854918e2641d7dbb89ecc134217"
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "58feac4d5506141882a2495636f7386617463080786e6de83c8909a233d4e7f8"
+metafile = true
+
+[[files]]
+file = "mods/appleskin.pw.toml"
+hash = "6869de1ca55dc09beabb3c234727e84be4d4fbdcbad2c8081c03010713f374e1"
+metafile = true
+
+[[files]]
+file = "mods/blur-fabric.pw.toml"
+hash = "5f53eb8d272bfec2c6f58d6d744397b8152d7561a370f1d6e7e1e495fc4a1e7a"
 metafile = true
 
 [[files]]
@@ -141,6 +167,11 @@ hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
 metafile = true
 
 [[files]]
+file = "mods/mixintrace.pw.toml"
+hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "b96a7f0055bd265a39d2df3b618c17a53ca2f1a8761f03b8547aa3f8406e00e0"
 metafile = true
@@ -151,8 +182,23 @@ hash = "728d46b605885ad0ec57968f7d6b1c926d93fcca3b235dda272f0ed02701cf83"
 metafile = true
 
 [[files]]
+file = "mods/morechathistory.pw.toml"
+hash = "d1558ff187abe468110fef11eee834aa3c03df732e706ac16e221425b538da4d"
+metafile = true
+
+[[files]]
 file = "mods/moreculling.pw.toml"
 hash = "0cf3411e31b1c696b285b8d09fb5bf7fa480ca7c7f87fabc9d48b1f9edca22df"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "669008dbd2508a67f8c409096cf2357de450f26a69494289e5852045ade7d358"
+metafile = true
+
+[[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "5ac7c70847108d6c21c3352ae5233129a410e42ddf161319cb0a658c0b296693"
 metafile = true
 
 [[files]]
@@ -176,6 +222,11 @@ hash = "ce669023c4265f3a377fb8d18d461b1b6e9218e90bf61f2c917b718d5ad55b02"
 metafile = true
 
 [[files]]
+file = "mods/raised.pw.toml"
+hash = "42153abff17509e85e338e13ffe04ce7792e3efd3c3aba5970782e33b1a4530c"
+metafile = true
+
+[[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
 metafile = true
@@ -188,6 +239,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
+metafile = true
+
+[[files]]
+file = "mods/tooltipfix.pw.toml"
+hash = "fe592547ec2aedf1de7add34f747f7845e103de228e2426328e9e60fe93298cc"
 metafile = true
 
 [[files]]
