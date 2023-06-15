@@ -13,16 +13,41 @@ file = "config/immediatelyfast.json"
 hash = "ba85eec97732b2668456e95c8feee0db7d8d0ddcab8baeb0b5becc58c4ffc8a1"
 
 [[files]]
+file = "config/modmenu.json"
+hash = "c7cce8445d5bb1ca51dbabb183abab303f98f9c3cdac19c8727b43b867dc3355"
+
+[[files]]
+file = "config/vmp.properties"
+hash = "2dda13aceb5b8f515e7ca0a3bdf29ff190c6f0dd947f34f21b14c05b16be0830"
+
+[[files]]
+file = "config/yosbr/config/dynamicfps.toml"
+hash = "ff4c549a0882435ce78c83c579ba94ad4c593d35132168539ceb91f976e382cd"
+
+[[files]]
+file = "config/yosbr/config/entity_texture_features.json"
+hash = "ecb384a8fa5753185288fea3b30cf8f892171c5c48125795503a497674d8e02f"
+
+[[files]]
 file = "config/yosbr/config/moreculling.toml"
-hash = "192603aacb26ed324001d41f6c9ca872e08572696e2d2dee756316f469e6565d"
+hash = "e8ae7779f117fa0689099c7cf43a673680a1c2f0519ff141c7c0644bd798cb81"
+
+[[files]]
+file = "config/yosbr/config/puzzle.json"
+hash = "391245ffe2c0050f521f423f53f4e889f2c03a4afaea05460abd53a65f30ddd2"
 
 [[files]]
 file = "config/yosbr/config/sodium-options.json"
-hash = "994f6b8deaeb9c1c3ba4b7a5fb1d3848a4c1c6a10de4dec15267934f1100d0fa"
+hash = "12a3f1c0dd2a8d606864c7aa4fe4aab5ddf7a854918e2641d7dbb89ecc134217"
 
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "58feac4d5506141882a2495636f7386617463080786e6de83c8909a233d4e7f8"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "44e2cc695c040b7bbca462165099fa3c56a98aa8f01104bb067dc850b65f6d02"
 metafile = true
 
 [[files]]
@@ -31,13 +56,38 @@ hash = "b9cc3ddd40c728549f8de8db2b211a534303018bf8c18d22871ad17f62c47118"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "8e73f68cbcbff53b6a00c30f371fc34a63c2ac2240af4792008d67dce74fb507"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "631d68ae5fcc3ed6edf6b8cadcd3e31f1cc17df300bfb541df10c278b7d7eaf1"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "97767d7eb8dc6eaeec5a654c98e2062412c2b68ff480df768e4a78e068d5da72"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "4eec3de8a58a6e64ea96e31781b52f70b4b33ec02a34a45f171e3a1e6697ba86"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "49a42a2456b0d0024bb61afdfeb279c51d581901fbd59a4d00ff772b206fefaa"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes-interop.pw.toml"
+hash = "3a86b3417b781abc294b6e41c475e5ac1831944527db6f07f0107a30e5bde0bd"
+metafile = true
+
+[[files]]
+file = "mods/fabricskyboxes.pw.toml"
+hash = "08b843dfc24cc97afeba5b3a60a1263c8aa4fc786398a1972cc69741f0253e22"
 metafile = true
 
 [[files]]
@@ -61,8 +111,18 @@ hash = "da49262a60cebc436b9e4b7f8ab253930029ec5f9c18874a5bf7b55a4b8bc027"
 metafile = true
 
 [[files]]
+file = "mods/indium.pw.toml"
+hash = "45ad54cce889a3327cc38e244b140552c8a8616068885c26f05d4edc0a0456f0"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
+metafile = true
+
+[[files]]
+file = "mods/lambdabettergrass.pw.toml"
+hash = "79b5821cecd73ba5167a6b152c78df308b1208e9f2c27885a6bde69910b1310f"
 metafile = true
 
 [[files]]
@@ -96,8 +156,33 @@ hash = "0cf3411e31b1c696b285b8d09fb5bf7fa480ca7c7f87fabc9d48b1f9edca22df"
 metafile = true
 
 [[files]]
+file = "mods/optigui.pw.toml"
+hash = "0241aaf8419884f43f529223b52e274712b109557e065846b953ab91953f2cb7"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "684594797d13dbc0ca57a5a6349a4597c03f629617bff83621bafb147a22ee76"
+metafile = true
+
+[[files]]
+file = "mods/qkl.pw.toml"
+hash = "02343a477f6f4ffd9cbedd4f93252f443c599b2f8d250037920d3a47f5756e6a"
+metafile = true
+
+[[files]]
 file = "mods/qsl.pw.toml"
 hash = "ce669023c4265f3a377fb8d18d461b1b6e9218e90bf61f2c917b718d5ad55b02"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "a1d419cad5a32a4a442b37b2e2fe2db3e761429d6ab60dd3bb79f43d36df2297"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "ea193a0081775b5b2dda289e12578c9122294ec6b6363dbfd7c1e7b5d2dfbd71"
 metafile = true
 
 [[files]]
@@ -108,6 +193,11 @@ metafile = true
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "7c3eff18529e48a5a3ba5e73315478fa84f32bf040adca45a37b4ba5a02bccf9"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "2da296c9f042dc47c672e2645be715c2f1cefa764f938a8e95e6c4163f8ce3ab"
 metafile = true
 
 [[files]]
