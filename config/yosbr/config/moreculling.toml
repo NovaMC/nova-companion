@@ -1,7 +1,6 @@
 itemFrameLODRange = 128
 itemFrame3FaceCullingRange = 0.0
 leavesCullingMode = "DEPTH"
-leavesCullingAmount = 2
 includeMangroveRoots = true
 powderSnowCulling = true
 

@@ -1,8 +1,38 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/entityculling.json"
+hash = "2d5d49de057ad06de761409c5010137c12a9956befd5012127e211bf8e025656"
+
+[[files]]
+file = "config/ferritecore.mixin.properties"
+hash = "5cb2998eb0d990a42be344c3d9193d3c2b2c2c9d1d100a5d6cf8a95773b642f3"
+
+[[files]]
+file = "config/immediatelyfast.json"
+hash = "ba85eec97732b2668456e95c8feee0db7d8d0ddcab8baeb0b5becc58c4ffc8a1"
+
+[[files]]
+file = "config/yosbr/config/moreculling.toml"
+hash = "192603aacb26ed324001d41f6c9ca872e08572696e2d2dee756316f469e6565d"
+
+[[files]]
+file = "config/yosbr/config/sodium-options.json"
+hash = "994f6b8deaeb9c1c3ba4b7a5fb1d3848a4c1c6a10de4dec15267934f1100d0fa"
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "58feac4d5506141882a2495636f7386617463080786e6de83c8909a233d4e7f8"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "b9cc3ddd40c728549f8de8db2b211a534303018bf8c18d22871ad17f62c47118"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "631d68ae5fcc3ed6edf6b8cadcd3e31f1cc17df300bfb541df10c278b7d7eaf1"
 metafile = true
 
 [[files]]
@@ -11,8 +41,18 @@ hash = "4eec3de8a58a6e64ea96e31781b52f70b4b33ec02a34a45f171e3a1e6697ba86"
 metafile = true
 
 [[files]]
+file = "mods/fastanim.pw.toml"
+hash = "09282ae8265516057d5500cb489f0a8d3c563064d85582718a1efd6f3afb43be"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
+metafile = true
+
+[[files]]
+file = "mods/forcecloseworldloadingscreen.pw.toml"
+hash = "49e8e4a6ca064acedd121892f6b279d23e54a62d5e023183578e1e8b559f0c9b"
 metafile = true
 
 [[files]]
@@ -26,6 +66,11 @@ hash = "659e2447deffc797f441ed09c0b05d75138253dfacfe1479d3938e55773be4b6"
 metafile = true
 
 [[files]]
+file = "mods/language-reload.pw.toml"
+hash = "e0bcfae8d473e27507ca87747e1529eb34c2eb763efcb41c849ed863cbd70c75"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
@@ -33,6 +78,11 @@ metafile = true
 [[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "97ffbc7d0e4087777c5e3732780f01958f99d44c4f09fd534bbb8f239d4980a1"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "b96a7f0055bd265a39d2df3b618c17a53ca2f1a8761f03b8547aa3f8406e00e0"
 metafile = true
 
 [[files]]
@@ -53,6 +103,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "217b07516517c4c01958387192143943f3e9309a0e935828f9f32af771425d66"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "7c3eff18529e48a5a3ba5e73315478fa84f32bf040adca45a37b4ba5a02bccf9"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "6f6334f336a876088431df70e2bba6ac52ca2ddeb73a4880ce88d6954b09af00"
 metafile = true
 
 [[files]]
