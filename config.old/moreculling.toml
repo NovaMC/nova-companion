@@ -1,7 +1,0 @@
-itemFrameLODRange = 128
-itemFrame3FaceCullingRange = 0.0
-leavesCullingMode = "DEPTH"
-includeMangroveRoots = true
-
-[modCompatibility]
-minecraft = true
