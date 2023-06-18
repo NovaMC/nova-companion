@@ -156,7 +156,7 @@ metafile = true
 
 [[files]]
 file = "mods/fallingleaves.pw.toml"
-hash = "ccdb16fd2564c82cbb0db92b3963c772928bc2dfd6ed693313416e66f4ffd6ca"
+hash = "7d160f2096db6f3530dd5d35719b5362e8f3c0e2ac13d1f2412221d1a762f40f"
 metafile = true
 
 [[files]]
@@ -231,12 +231,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "b96a7f0055bd265a39d2df3b618c17a53ca2f1a8761f03b8547aa3f8406e00e0"
+hash = "5c8e51c97b69e963838fe5b83d80f3355a31a22bec817a9f34d3a17fab3b7afa"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "728d46b605885ad0ec57968f7d6b1c926d93fcca3b235dda272f0ed02701cf83"
+hash = "e00217e8327711e7d6acf95814212d9398499bc15cde7a3ec4ca4417393a8fbc"
 metafile = true
 
 [[files]]
@@ -246,7 +246,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "0cf3411e31b1c696b285b8d09fb5bf7fa480ca7c7f87fabc9d48b1f9edca22df"
+hash = "6d813994b3eda187ae08b36561b60205de365852e2163f323c4c0ee283816ac6"
 metafile = true
 
 [[files]]
@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/qsl.pw.toml"
-hash = "ce669023c4265f3a377fb8d18d461b1b6e9218e90bf61f2c917b718d5ad55b02"
+hash = "b26289a0932399eeccd9e80167963590032bb04a40a52330bcfa218bf2bfda39"
 metafile = true
 
 [[files]]
