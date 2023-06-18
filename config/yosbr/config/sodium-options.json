@@ -1,0 +1,9 @@
+{
+  "quality": {
+    "weather_quality": "FAST"
+  },
+  "performance": {
+    "always_defer_chunk_updates": true,
+    "use_entity_culling": false
+  }
+}

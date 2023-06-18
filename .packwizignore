@@ -10,3 +10,5 @@ disabled-mods/
 
 # Exclude exported modpack files
 .exports/
+
+*.old

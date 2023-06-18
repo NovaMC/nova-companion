@@ -1,0 +1,8 @@
+itemFrameLODRange = 128
+itemFrame3FaceCullingRange = 0.0
+leavesCullingMode = "DEPTH"
+includeMangroveRoots = true
+powderSnowCulling = true
+
+[modCompatibility]
+minecraft = true

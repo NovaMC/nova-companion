@@ -1,8 +1,0 @@
-{
-  "clickthrough.config.onlycontainers": {
-    "key": "clickthrough.config.onlycontainers",
-    "toolTip": "clickthrough.config.tt.onlycontainers",
-    "value": true,
-    "defaultValue": false
-  }
-}
