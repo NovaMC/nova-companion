@@ -57,6 +57,10 @@ file = "config/yosbr/config/moreculling.toml"
 hash = "e8ae7779f117fa0689099c7cf43a673680a1c2f0519ff141c7c0644bd798cb81"
 
 [[files]]
+file = "config/yosbr/config/plasmovoice/client.toml"
+hash = "3085edf8beaef669dc3a4df6a59aa55d3b1ff0e907c7125160ce378981c803da"
+
+[[files]]
 file = "config/yosbr/config/puzzle.json"
 hash = "391245ffe2c0050f521f423f53f4e889f2c03a4afaea05460abd53a65f30ddd2"
 
@@ -268,6 +272,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "0241aaf8419884f43f529223b52e274712b109557e065846b953ab91953f2cb7"
+metafile = true
+
+[[files]]
+file = "mods/plasmo-voice.pw.toml"
+hash = "9270c1bfd9666d60e500c8ccbf662b0e41dbdf53a3deb902db5dcb72f5539685"
 metafile = true
 
 [[files]]
