@@ -1,16 +1,16 @@
 name = "Nova Companion"
 author = "Nova Network Team"
-version = "3.1.0"
+version = "3.1.1"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "d04d9dc3b3e2e0803051a5a8d5050a9e6e575fdc1289ec2a1d970eacebc1270e"
+hash = "f177f12910b8c3bdbf1f60582a0b8087597cd81e486c2a00e3136da28621e512"
 
 [versions]
 minecraft = "1.20.1"
-quilt = "0.19.1"
+quilt = "0.19.2"
 
 [options]
 acceptable-game-versions = ["1.20", "1.20.1"]
