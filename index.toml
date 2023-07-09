@@ -77,6 +77,10 @@ file = "config/yosbr/config/visuality.json"
 hash = "2e8f129ebdd1b68e8c0d2143ea6bbc8a35ed2564cb9e1c99a682310309c42e03"
 
 [[files]]
+file = "config/yosbr/config/world-host.json5"
+hash = "8cbedd3788f1698a210765cc677a35dd35b9e3d57aa66e247a7cfa7dcb259391"
+
+[[files]]
 file = "config/yosbr/options.txt"
 hash = "9ca67becdcb0b00186a8ea2744c8e16a9f144efaa714179d4572530551454a6a"
 
