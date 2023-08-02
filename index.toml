@@ -139,11 +139,6 @@ hash = "c69c272ecafae92cc150f6dcf525d415d3179adc20b7d67c8126da1b9751ef52"
 metafile = true
 
 [[files]]
-file = "mods/draggable-lists.pw.toml"
-hash = "6def5f269d3f69656592f78adceb1b4c94047e68f3a332b95a51ac78d35c3e75"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "c8c6a3893859d2f0e04ebf400c8ce8b47de21cfe6097996b5dde1561e92f3c80"
 metafile = true
