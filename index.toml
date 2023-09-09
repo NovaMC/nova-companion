@@ -49,8 +49,8 @@ file = "config/yosbr/config/appleskin.json5"
 hash = "1201949941fc2a52be840439b67c97cece4da376b117c6afd4a81a9d0f60865a"
 
 [[files]]
-file = "config/yosbr/config/dynamicfps.toml"
-hash = "ff4c549a0882435ce78c83c579ba94ad4c593d35132168539ceb91f976e382cd"
+file = "config/yosbr/config/dynamic_fps.json"
+hash = "44d31becaaab1fe092df3a7fdde364536d4e42598da6fdcf709c0b821aa261f0"
 
 [[files]]
 file = "config/yosbr/config/entity_texture_features.json"
@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "307cf5494a399c27691cfa361646574e103c80bc2869373fb8d75cd0e229ad83"
+hash = "5409bf60b32272590c91bd1efa081e47681300090af281b392e6588bd82d8f04"
 metafile = true
 
 [[files]]
@@ -270,7 +270,7 @@ metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e2a93bfe1d1e55657afd64a361b1d05929c8984332f1c39afd957eb7f88e9a62"
+hash = "4cd171d3f5f3e1d2948cb1b0062e742a5e85110c9e9a668f9aed5b0cebcb9c97"
 metafile = true
 
 [[files]]
@@ -404,10 +404,10 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-reimagined.pw.toml"
-hash = "52b2b9aa9245d6ba6e0a22cf96926401535bb722844cb4b0c1ae32a243791241"
+hash = "1c426c0ee06129321c29f0055218f4910366a8b52fa5963402f78fff280397dd"
 metafile = true
 
 [[files]]
-file = "shaderpacks/complementary-shaders-v4.pw.toml"
-hash = "62907b0a98b3ea75b6ab6efb694685751abbd19aa21826f03de0ab4bc4012fbe"
+file = "shaderpacks/complementary-unbound.pw.toml"
+hash = "ab1ba4d688b471d6ad5f37aaf704ec423f58bc45b9f4a54f04a3764bdcf39ac5"
 metafile = true
