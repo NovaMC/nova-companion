@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "88d20126bce44fa2e0998574fbbcd898c6c4524472acaa648cdcb6b14fbeb6a9"
+hash = "7da69698cf49045c6572c6bb86b2d89e5ba445859dda0e4aa6ea65f380972963"
 metafile = true
 
 [[files]]
@@ -320,7 +320,7 @@ metafile = true
 
 [[files]]
 file = "mods/qkl.pw.toml"
-hash = "b0615e667641dd52e900c970553e0ce80748645dfaa93117bb126dccae3e3c19"
+hash = "47217cc1489533f668d622f2078351a61873be573311a9a94be7293328a849a7"
 metafile = true
 
 [[files]]
