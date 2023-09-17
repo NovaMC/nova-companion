@@ -150,7 +150,7 @@ metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "7da69698cf49045c6572c6bb86b2d89e5ba445859dda0e4aa6ea65f380972963"
+hash = "e6a716a5df1371a83a60355346d2ce739b5ddbcf643e9b548222c7dabba800cd"
 metafile = true
 
 [[files]]
@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "0115f86693696e977523c0137f7951a28577290d5e0e176b257e437e14f3fd5f"
+hash = "3cc35c86abdf13b0a159dca601ab82f3ca7b39de7c682b266598849987fe93af"
 metafile = true
 
 [[files]]
@@ -370,7 +370,7 @@ metafile = true
 
 [[files]]
 file = "mods/vmp-fabric.pw.toml"
-hash = "ac4c88a8647ad645252469b50b3fef48030edca97f0ed5d31058ea6b71340d84"
+hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
 metafile = true
 
 [[files]]
